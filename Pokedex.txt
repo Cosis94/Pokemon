@@ -1,0 +1,1905 @@
+Die folgende '''Pokémon-Liste''' ist nach dem Nationalen Pokédex sortiert. Für mehr Möglichkeiten zur Nummerierung oder Sortierung der Pokémon [[#Nummerierungsmöglichkeiten im Pokédex|siehe unten]].
+
+Springe zu:
+: [[#nr001|#001 Bisasam]]
+: [[#nr152|#152 Endivie]]
+: [[#nr252|#252 Geckarbor]]
+: [[#nr387|#387 Chelast]]
+: [[#nr494|#494 Victini]]
+: [[#nr650|#650 Igamaro]]
+: [[#nr722|#722 Bauz]]
+: [[#nr810|#810 Chimpep]]
+: [[#nr???|#??? Felori]]
+
+{| class="pwtable1 sortable" align="center"
+!
+! class="unsortable" |
+! Deutsch
+! Englisch
+! Französisch
+! Japanisch
+! Koreanisch
+! Chinesisch ({{tt|T / V|Traditionelle Schrift / Vereinfachte Schrift}})
+! Typ
+|-
+| <span id="nr001"></span> 001 || style="height: 28px;" | {{#icon:001}} || [[Bisasam]] || Bulbasaur || Bulbizarre || {{Ruby|フシギダネ|Fushigidane}} || {{Ruby|이상해씨|Isanghessi}} || {{Ruby|妙蛙種子 / 妙蛙种子|Miàowāzhǒngzǐ}} || {{#ic:Pflanze}}&nbsp;{{#ic:Gift}}
+|-
+| 002 || style="height: 28px;" | {{#icon:002}} || [[Bisaknosp]] || Ivysaur || Herbizarre || {{Ruby|フシギソウ|Fushigisou}} || {{Ruby|이상해풀|Isanghepul}} || {{Ruby|妙蛙草 / 妙蛙草|Miàowācǎo}} || {{#ic:Pflanze}}&nbsp;{{#ic:Gift}}
+|-
+| 003 || style="height: 28px;" | {{#icon:003}} || [[Bisaflor]] || Venusaur || Florizarre || {{Ruby|フシギバナ|Fushigibana}} || {{Ruby|이상해꽃|Isanghekkot}} || {{Ruby|妙蛙花 / 妙蛙花|Miàowāhuā}} || {{#ic:Pflanze}}&nbsp;{{#ic:Gift}}
+|-
+| 004 || style="height: 28px;" | {{#icon:004}} || [[Glumanda]] || Charmander || Salamèche || {{Ruby|ヒトカゲ|Hitokage}} || {{Ruby|파이리|Fairit}} || {{Ruby|小火龍 / 小火龙|Xiǎohuǒlóng}} || {{#ic:Feuer}}
+|-
+| 005 || style="height: 28px;" | {{#icon:005}} || [[Glutexo]] || Charmeleon || Reptincel || {{Ruby|リザード|Lizardo}} || {{Ruby|리자드|Rizard}} || {{Ruby|火恐龍 / 火恐龙|Huǒkǒnglóng}} || {{#ic:Feuer}}
+|-
+| 006 || style="height: 28px;" | {{#icon:006}} || [[Glurak]] || Charizard || Dracaufeu || {{Ruby|リザードン|Lizardon}} || {{Ruby|리자몽|Rizamon}} || {{Ruby|噴火龍 / 喷火龙|Pēnhuǒlóng}} || {{#ic:Feuer}}&nbsp;{{#ic:Flug}}
+|-
+| 007 || style="height: 28px;" | {{#icon:007}} || [[Schiggy]] || Squirtle || Carapuce || {{Ruby|ゼニガメ|Zenigame}} || {{Ruby|꼬부기|Kkobugi}} || {{Ruby|傑尼龜 / 杰尼龟|Jiéníguī}} || {{#ic:Wasser}}
+|-
+| 008 || style="height: 28px;" | {{#icon:008}} || [[Schillok]] || Wartortle || Carabaffe || {{Ruby|カメール|Kameil}} || {{Ruby|어니부기|Eonibugi}} || {{Ruby|卡咪龜 / 卡咪龟|Kǎmīguī}} || {{#ic:Wasser}}
+|-
+| 009 || style="height: 28px;" | {{#icon:009}} || [[Turtok]] || Blastoise || Tortank || {{Ruby|カメックス|Kamex}} || {{Ruby|거북왕|Geobugwang}} || {{Ruby|水箭龜 / 水箭龟|Shuǐjiànguī}} || {{#ic:Wasser}}
+|-
+| 010 || style="height: 28px;" | {{#icon:010}} || [[Raupy]] || Caterpie || Chenipan || {{Ruby|キャタピー|Caterpie}} || {{Ruby|캐터피|Caterpie}} || {{Ruby|綠毛蟲 / 绿毛虫|Lǜmáochóng}} || {{#ic:Käfer}}
+|-
+| 011 || style="height: 28px;" | {{#icon:011}} || [[Safcon]] || Metapod || Chrysacier || {{Ruby|トランセル|Transel}} || {{Ruby|단데기|Tandegi}} || {{Ruby|鐵甲蛹 / 铁甲蛹|Tiějiǎyǒng}} || {{#ic:Käfer}}
+|-
+| 012 || style="height: 28px;" | {{#icon:012}} || [[Smettbo]] || Butterfree || Papilusion || {{Ruby|バタフリー|Butterfree}} || {{Ruby|버터플|Butterfle}} || {{Ruby|巴大蝶 / 巴大蝶|Bādàdié}} || {{#ic:Käfer}}&nbsp;{{#ic:Flug}}
+|-
+| 013 || style="height: 28px;" | {{#icon:013}} || [[Hornliu]] || Weedle || Aspicot || {{Ruby|ビードル|Beedle}} || {{Ruby|뿔충이|Ppulchungi}} || {{Ruby|獨角蟲 / 独角虫|Dújiǎochóng}} || {{#ic:Käfer}}&nbsp;{{#ic:Gift}}
+|-
+| 014 || style="height: 28px;" | {{#icon:014}} || [[Kokuna]] || Kakuna || Coconfort || {{Ruby|コクーン|Cocoon}} || {{Ruby|딱충이|Ttakchungi}} || {{Ruby|鐵殼蛹 / 铁壳蛹|Tiěkéyǒng}} || {{#ic:Käfer}}&nbsp;{{#ic:Gift}}
+|-
+| 015 || style="height: 28px;" | {{#icon:015}} || [[Bibor]] || Beedrill || Dardargnan || {{Ruby|スピアー|Spear}} || {{Ruby|독침붕|Tokchimbung}} || {{Ruby|大針蜂 / 大针蜂|Dàzhēnfēng}} || {{#ic:Käfer}}&nbsp;{{#ic:Gift}}
+|-
+| 016 || style="height: 28px;" | {{#icon:016}} || [[Taubsi]] || Pidgey || Roucool || {{Ruby|ポッポ|Poppo}} || {{Ruby|구구|Gugu}} || {{Ruby|波波 / 波波|Bōbō}} || {{#ic:Normal}}&nbsp;{{#ic:Flug}}
+|-
+| 017 || style="height: 28px;" | {{#icon:017}} || [[Tauboga]] || Pidgeotto || Roucoups || {{Ruby|ピジョン|Pigeon}} || {{Ruby|피죤|Pijon}} || {{Ruby|比比鳥 / 比比鸟|Bǐbǐniǎo}} || {{#ic:Normal}}&nbsp;{{#ic:Flug}}
+|-
+| 018 || style="height: 28px;" | {{#icon:018}} || [[Tauboss]] || Pidgeot || Roucarnage || {{Ruby|ピジョット|Pigeot}} || {{Ruby|피죤투|Pijontoo}} || {{Ruby|大比鳥 / 大比鸟|Dàbǐniǎo}} || {{#ic:Normal}}&nbsp;{{#ic:Flug}}
+|-
+| 019 || style="height: 28px;" | {{#icon:019}} || [[Rattfratz]] || Rattata || Rattata || {{Ruby|コラッタ|Koratta}} || {{Ruby|꼬렛|Koret}} || {{Ruby|小拉達 / 小拉达|Xiǎolādá}} || {{#ic:Normal}}
+|-
+| 020 || style="height: 28px;" | {{#icon:020}} || [[Rattikarl]] || Raticate || Rattatac || {{Ruby|ラッタ|Ratta}} || {{Ruby|레트라|Retra}} || {{Ruby|拉達 / 拉达|Lādá}} || {{#ic:Normal}}
+|-
+| 021 || style="height: 28px;" | {{#icon:021}} || [[Habitak]] || Spearow || Piafabec || {{Ruby|オニスズメ|Onisuzume}} || {{Ruby|깨비참|Kebicham}} || {{Ruby|烈雀 / 烈雀|Lièquè}} || {{#ic:Normal}}&nbsp;{{#ic:Flug}}
+|-
+| 022 || style="height: 28px;" | {{#icon:022}} || [[Ibitak]] || Fearow || Rapasdepic || {{Ruby|オニドリル|Onidrill}} || {{Ruby|깨비드릴조|Kebidrillzo}} || {{Ruby|大嘴雀 / 大嘴雀|Dàzuǐquè}} || {{#ic:Normal}}&nbsp;{{#ic:Flug}}
+|-
+| 023 || style="height: 28px;" | {{#icon:023}} || [[Rettan]] || Ekans || Abo || {{Ruby|アーボ|Arbo}} || {{Ruby|아보|Abo}} || {{Ruby|阿柏蛇 / 阿柏蛇|Ābóshé}} || {{#ic:Gift}}
+|-
+| 024 || style="height: 28px;" | {{#icon:024}} || [[Arbok]] || Arbok || Arbok || {{Ruby|アーボック|Arbok}} || {{Ruby|아보크|Abok}} || {{Ruby|阿柏怪 / 阿柏怪|Ābóguài}} || {{#ic:Gift}}
+|-
+| 025 || style="height: 28px;" | {{#icon:025}} || [[Pikachu]] || Pikachu || Pikachu || {{Ruby|ピカチュウ|Pikachu}} || {{Ruby|피카츄|Pikachu}} || {{Ruby|皮卡丘 / 皮卡丘|Píkǎqiū}} || {{#ic:Elektro}}
+|-
+| 026 || style="height: 28px;" | {{#icon:026}} || [[Raichu]] || Raichu || Raichu || {{Ruby|ライチュウ|Raichu}} || {{Ruby|라이츄|Raichu}} || {{Ruby|雷丘 / 雷丘|Léiqiū}} || {{#ic:Elektro}}
+|-
+| 027 || style="height: 28px;" | {{#icon:027}} || [[Sandan]] || Sandshrew || Sabelette || {{Ruby|サンド|Sand}} || {{Ruby|모래두지|Moreduji}} || {{Ruby|穿山鼠 / 穿山鼠|Chuānshānshǔ}} || {{#ic:Boden}}
+|-
+| 028 || style="height: 28px;" | {{#icon:028}} || [[Sandamer]] || Sandslash || Sablaireau || {{Ruby|サンドパン|Sandpan}} || {{Ruby|고지|Koji}} || {{Ruby|穿山王 / 穿山王|Chuānshānwáng}} || {{#ic:Boden}}
+|-
+| 029 || style="height: 28px;" | {{#icon:029}} || [[Nidoran♀]] || Nidoran♀ || Nidoran♀ || {{Ruby|ニドラン♀|Nidoran♀}} || {{Ruby|니드런♀|Nidoran♀}} || {{Ruby|尼多蘭 / 尼多兰|Níduōlán}} || {{#ic:Gift}}
+|-
+| 030 || style="height: 28px;" | {{#icon:030}} || [[Nidorina]] || Nidorina || Nidorina || {{Ruby|ニドリーナ|Nidorina}} || {{Ruby|니드리나|Nidorina}} || {{Ruby|尼多娜 / 尼多娜|Níduōnà}} || {{#ic:Gift}}
+|-
+| 031 || style="height: 28px;" | {{#icon:031}} || [[Nidoqueen]] || Nidoqueen || Nidoqueen || {{Ruby|ニドクイン|Nidoqueen}} || {{Ruby|니드퀸|Nidoqueen}} || {{Ruby|尼多后 / 尼多后|Níduōhòu}} || {{#ic:Gift}}&nbsp;{{#ic:Boden}}
+|-
+| 032 || style="height: 28px;" | {{#icon:032}} || [[Nidoran♂]] || Nidoran♂ || Nidoran♂ || {{Ruby|ニドラン♂|Nidoran♂}} || {{Ruby|니드런♂|Nidoran♂}} || {{Ruby|尼多朗 / 尼多朗|Níduōláng}} || {{#ic:Gift}}
+|-
+| 033 || style="height: 28px;" | {{#icon:033}} || [[Nidorino]] || Nidorino || Nidorino || {{Ruby|ニドリーノ|Nidorino}} || {{Ruby|니드리노|Nidorino}} || {{Ruby|尼多力諾 / 尼多力诺|Níduōlìnuò}} || {{#ic:Gift}}
+|-
+| 034 || style="height: 28px;" | {{#icon:034}} || [[Nidoking]] || Nidoking || Nidoking || {{Ruby|ニドキング|Nidoking}} || {{Ruby|니드킹|Nidoking}} || {{Ruby|尼多王 / 尼多王|Níduōwáng}} || {{#ic:Gift}}&nbsp;{{#ic:Boden}}
+|-
+| 035 || style="height: 28px;" | {{#icon:035}} || [[Piepi]] || Clefairy || Mélofée || {{Ruby|ピッピ|Pippi}} || {{Ruby|삐삐|Ppippi}} || {{Ruby|皮皮 / 皮皮|Pípí}} || {{#ic:Fee}}
+|-
+| 036 || style="height: 28px;" | {{#icon:036}} || [[Pixi]] || Clefable || Mélodelfe || {{Ruby|ピクシー|Pixy}} || {{Ruby|픽시|Pixy}} || {{Ruby|皮可西 / 皮可西|Píkěxī}} || {{#ic:Fee}}
+|-
+| 037 || style="height: 28px;" | {{#icon:037}} || [[Vulpix]] || Vulpix || Goupix || {{Ruby|ロコン|Rokon}} || {{Ruby|식스테일|Sixtail}} || {{Ruby|六尾 / 六尾|Liùwěi}} || {{#ic:Feuer}}
+|-
+| 038 || style="height: 28px;" | {{#icon:038}} || [[Vulnona]] || Ninetales || Feunard || {{Ruby|キュウコン|Kyukon}} || {{Ruby|나인테일|Ninetail}} || {{Ruby|九尾 / 九尾|Jiǔwěi}} || {{#ic:Feuer}}
+|-
+| 039 || style="height: 28px;" | {{#icon:039}} || [[Pummeluff]] || Jigglypuff || Rondoudou || {{Ruby|プリン|Purin}} || {{Ruby|푸린|Purin}} || {{Ruby|胖丁 / 胖丁|Pàngdīng}} || {{#ic:Normal}}&nbsp;{{#ic:Fee}}
+|-
+| 040 || style="height: 28px;" | {{#icon:040}} || [[Knuddeluff]] || Wigglytuff || Grodoudou || {{Ruby|プクリン|Pukurin}} || {{Ruby|푸크린|Pukurin}} || {{Ruby|胖可丁 / 胖可丁|Pàngkědīng}} || {{#ic:Normal}}&nbsp;{{#ic:Fee}}
+|-
+| 041 || style="height: 28px;" | {{#icon:041}} || [[Zubat]] || Zubat || Nosferapti || {{Ruby|ズバット|Zubat}} || {{Ruby|주뱃|Zubat}} || {{Ruby|超音蝠 / 超音蝠|Chāoyīnfú}} || {{#ic:Gift}}&nbsp;{{#ic:Flug}}
+|-
+| 042 || style="height: 28px;" | {{#icon:042}} || [[Golbat]] || Golbat || Nosferalto || {{Ruby|ゴルバット|Golbat}} || {{Ruby|골뱃|Golbat}} || {{Ruby|大嘴蝠 / 大嘴蝠|Dàzuǐfú}} || {{#ic:Gift}}&nbsp;{{#ic:Flug}}
+|-
+| 043 || style="height: 28px;" | {{#icon:043}} || [[Myrapla]] || Oddish || Mystherbe || {{Ruby|ナゾノクサ|Nazonokusa}} || {{Ruby|뚜벅쵸|Ttubeogcho}} || {{Ruby|走路草 / 走路草|Zǒulùcǎo}} || {{#ic:Pflanze}}&nbsp;{{#ic:Gift}}
+|-
+| 044 || style="height: 28px;" | {{#icon:044}} || [[Duflor]] || Gloom || Ortide || {{Ruby|クサイハナ|Kusaihana}} || {{Ruby|냄새꼬|Naemsaeko}} || {{Ruby|臭臭花 / 臭臭花|Chòuchòuhuā}} || {{#ic:Pflanze}}&nbsp;{{#ic:Gift}}
+|-
+| 045 || style="height: 28px;" | {{#icon:045}} || [[Giflor]] || Vileplume || Rafflesia || {{Ruby|ラフレシア|Ruffresia}} || {{Ruby|라플레시아|Raplresia}} || {{Ruby|霸王花 / 霸王花|Bàwánghuā}} || {{#ic:Pflanze}}&nbsp;{{#ic:Gift}}
+|-
+| 046 || style="height: 28px;" | {{#icon:046}} || [[Paras]] || Paras || Paras || {{Ruby|パラス|Paras}} || {{Ruby|파라스|Paras}} || {{Ruby|派拉斯 / 派拉斯|Pàilāsī}} || {{#ic:Käfer}}&nbsp;{{#ic:Pflanze}}
+|-
+| 047 || style="height: 28px;" | {{#icon:047}} || [[Parasek]] || Parasect || Parasect || {{Ruby|パラセクト|Parasect}} || {{Ruby|파라섹트|Parasect}} || {{Ruby|派拉斯特 / 派拉斯特|Pàilāsītè}} || {{#ic:Käfer}}&nbsp;{{#ic:Pflanze}}
+|-
+| 048 || style="height: 28px;" | {{#icon:048}} || [[Bluzuk]] || Venonat || Mimitoss || {{Ruby|コンパン|Kongpang}} || {{Ruby|콘팡|Konpan}} || {{Ruby|毛球 / 毛球|Máoqiú}} || {{#ic:Käfer}}&nbsp;{{#ic:Gift}}
+|-
+| 049 || style="height: 28px;" | {{#icon:049}} || [[Omot]] || Venomoth || Aéromite || {{Ruby|モルフォン|Morphon}} || {{Ruby|도나리|Donari}} || {{Ruby|摩魯蛾 / 摩鲁蛾|Mólǔ'é}} || {{#ic:Käfer}}&nbsp;{{#ic:Gift}}
+|-
+| 050 || style="height: 28px;" | {{#icon:050}} || [[Digda]] || Diglett || Taupiqueur || {{Ruby|ディグダ|Digda}} || {{Ruby|디그다|Digda}} || {{Ruby|地鼠 / 地鼠|Dìshǔ}} || {{#ic:Boden}}
+|-
+| 051 || style="height: 28px;" | {{#icon:051}} || [[Digdri]] || Dugtrio || Triopikeur || {{Ruby|ダグトリオ|Dugtrio}} || {{Ruby|닥트리오|Daktrio}} || {{Ruby|三地鼠 / 三地鼠|Sāndìshǔ}} || {{#ic:Boden}}
+|-
+| 052 || style="height: 28px;" | {{#icon:052}} || [[Mauzi]] || Meowth || Miaouss || {{Ruby|ニャース|Nyarth}} || {{Ruby|나옹|Naong}} || {{Ruby|喵喵 / 喵喵|Miāomiāo}} || {{#ic:Normal}}
+|-
+| 053 || style="height: 28px;" | {{#icon:053}} || [[Snobilikat]] || Persian || Persian || {{Ruby|ペルシアン|Persian}} || {{Ruby|페르시온|Persion}} || {{Ruby|貓老大 / 猫老大|Māolǎodà}} || {{#ic:Normal}}
+|-
+| 054 || style="height: 28px;" | {{#icon:054}} || [[Enton]] || Psyduck || Psykokwak || {{Ruby|コダック|Koduck}} || {{Ruby|고라파덕|Gorapaduck}} || {{Ruby|可達鴨 / 可达鸭|Kědáyā}} || {{#ic:Wasser}}
+|-
+| 055 || style="height: 28px;" | {{#icon:055}} || [[Entoron]] || Golduck || Akwakwak || {{Ruby|ゴルダック|Golduck}} || {{Ruby|골덕|Golduck}} || {{Ruby|哥達鴨 / 哥达鸭|Gēdáyā}} || {{#ic:Wasser}}
+|-
+| 056 || style="height: 28px;" | {{#icon:056}} || [[Menki]] || Mankey || Férosinge || {{Ruby|マンキー|Mankey}} || {{Ruby|망키|Mankey}} || {{Ruby|猴怪 / 猴怪|Hóuguài}} || {{#ic:Kampf}}
+|-
+| 057 || style="height: 28px;" | {{#icon:057}} || [[Rasaff]] || Primeape || Colossinge || {{Ruby|オコリザル|Okorizaru}} || {{Ruby|성원숭|Seongwonsung}} || {{Ruby|火爆猴 / 火爆猴|Huǒbàohóu}} || {{#ic:Kampf}}
+|-
+| 058 || style="height: 28px;" | {{#icon:058}} || [[Fukano]] || Growlithe || Caninos || {{Ruby|ガーディ|Gardie}} || {{Ruby|가디|Gadi}} || {{Ruby|卡蒂狗 / 卡蒂狗|Kǎdìgǒu}} || {{#ic:Feuer}}
+|-
+| 059 || style="height: 28px;" | {{#icon:059}} || [[Arkani]] || Arcanine || Arcanin || {{Ruby|ウインディ|Windie}} || {{Ruby|윈디|Windi}} || {{Ruby|風速狗 / 风速狗|Fēngsùgǒu}} || {{#ic:Feuer}}
+|-
+| 060 || style="height: 28px;" | {{#icon:060}} || [[Quapsel]] || Poliwag || Ptitard || {{Ruby|ニョロモ|Nyoromo}} || {{Ruby|발챙이|Balchengi}} || {{Ruby|蚊香蝌蚪 / 蚊香蝌蚪|Wénxiāngkēdǒu}} || {{#ic:Wasser}}
+|-
+| 061 || style="height: 28px;" | {{#icon:061}} || [[Quaputzi]] || Poliwhirl || Têtarte || {{Ruby|ニョロゾ|Nyorozo}} || {{Ruby|슈륙챙이|Shuryukchengi}} || {{Ruby|蚊香君 / 蚊香君|Wénxiāngjūn}} || {{#ic:Wasser}}
+|-
+| 062 || style="height: 28px;" | {{#icon:062}} || [[Quappo]] || Poliwrath || Tartard || {{Ruby|ニョロボン|Nyorobon}} || {{Ruby|강챙이|Gangchaengi}} || {{Ruby|蚊香泳士 / 蚊香泳士|Wénxiāngyǒngshì}} || {{#ic:Wasser}}&nbsp;{{#ic:Kampf}}
+|-
+| 063 || style="height: 28px;" | {{#icon:063}} || [[Abra]] || Abra || Abra || {{Ruby|ケーシィ|Casey}} || {{Ruby|캐이시|Keisi}} || {{Ruby|凱西 / 凯西|Kǎixī}} || {{#ic:Psycho}}
+|-
+| 064 || style="height: 28px;" | {{#icon:064}} || [[Kadabra]] || Kadabra || Kadabra || {{Ruby|ユンゲラー|Yungerer}} || {{Ruby|윤겔라|Yunghelar}} || {{Ruby|勇基拉 / 勇基拉|Yǒngjīlā}} || {{#ic:Psycho}}
+|-
+| 065 || style="height: 28px;" | {{#icon:065}} || [[Simsala]] || Alakazam || Alakazam || {{Ruby|フーディン|Foodin}} || {{Ruby|후딘|Fudin}} || {{Ruby|胡地 / 胡地|Húdì}} || {{#ic:Psycho}}
+|-
+| 066 || style="height: 28px;" | {{#icon:066}} || [[Machollo]] || Machop || Machoc || {{Ruby|ワンリキー|Wanriky}} || {{Ruby|알통몬|Altongmon}} || {{Ruby|腕力 / 腕力|Wànlì}} || {{#ic:Kampf}}
+|-
+| 067 || style="height: 28px;" | {{#icon:067}} || [[Maschock]] || Machoke || Machopeur || {{Ruby|ゴーリキー|Goriky}} || {{Ruby|근육몬|Geunyukmon}} || {{Ruby|豪力 / 豪力|Háolì}} || {{#ic:Kampf}}
+|-
+| 068 || style="height: 28px;" | {{#icon:068}} || [[Machomei]] || Machamp || Mackogneur || {{Ruby|カイリキー|Kairiky}} || {{Ruby|괴력몬|Goeryeokmon}} || {{Ruby|怪力 / 怪力|Guàilì}} || {{#ic:Kampf}}
+|-
+| 069 || style="height: 28px;" | {{#icon:069}} || [[Knofensa]] || Bellsprout || Chétiflor || {{Ruby|マダツボミ|Madatsubomi}} || {{Ruby|모다피|Modapi}} || {{Ruby|喇叭芽 / 喇叭芽|Lǎbāyá}} || {{#ic:Pflanze}}&nbsp;{{#ic:Gift}}
+|-
+| 070 || style="height: 28px;" | {{#icon:070}} || [[Ultrigaria]] || Weepinbell || Boustiflor || {{Ruby|ウツドン|Utsudon}} || {{Ruby|우츠동|Uchudon}} || {{Ruby|口呆花 / 口呆花|Kǒudāihuā}} || {{#ic:Pflanze}}&nbsp;{{#ic:Gift}}
+|-
+| 071 || style="height: 28px;" | {{#icon:071}} || [[Sarzenia]] || Victreebel || Empiflor || {{Ruby|ウツボット|Utsubot}} || {{Ruby|우츠보트|Uchubot}} || {{Ruby|大食花 / 大食花|Dàshíhuā}} || {{#ic:Pflanze}}&nbsp;{{#ic:Gift}}
+|-
+| 072 || style="height: 28px;" | {{#icon:072}} || [[Tentacha]] || Tentacool || Tentacool || {{Ruby|メノクラゲ|Menokurage}} || {{Ruby|왕눈해|Wangnunhe}} || {{Ruby|瑪瑙水母 / 玛瑙水母|Mǎnǎoshuǐmǔ}} || {{#ic:Wasser}}&nbsp;{{#ic:Gift}}
+|-
+| 073 || style="height: 28px;" | {{#icon:073}} || [[Tentoxa]] || Tentacruel || Tentacruel || {{Ruby|ドククラゲ|Dokukurage}} || {{Ruby|독파리|Tokpari}} || {{Ruby|毒刺水母 / 毒刺水母|Dúcìshuǐmǔ}} || {{#ic:Wasser}}&nbsp;{{#ic:Gift}}
+|-
+| 074 || style="height: 28px;" | {{#icon:074}} || [[Kleinstein]] || Geodude || Racaillou || {{Ruby|イシツブテ|Isitsubute}} || {{Ruby|꼬마돌|Kkomadol}} || {{Ruby|小拳石 / 小拳石|Xiǎoquánshí}} || {{#ic:Gestein}}&nbsp;{{#ic:Boden}}
+|-
+| 075 || style="height: 28px;" | {{#icon:075}} || [[Georok]] || Graveler || Gravalanch || {{Ruby|ゴローン|Golone}} || {{Ruby|데구리|Deguri}} || {{Ruby|隆隆石 / 隆隆石|Lónglóngshí}} || {{#ic:Gestein}}&nbsp;{{#ic:Boden}}
+|-
+| 076 || style="height: 28px;" | {{#icon:076}} || [[Geowaz]] || Golem || Grolem || {{Ruby|ゴローニャ|Golonya}} || {{Ruby|딱구리|Ttakguri}} || {{Ruby|隆隆岩 / 隆隆岩|Lónglóngyán}} || {{#ic:Gestein}}&nbsp;{{#ic:Boden}}
+|-
+| 077 || style="height: 28px;" | {{#icon:077}} || [[Ponita]] || Ponyta || Ponyta || {{Ruby|ポニータ|Ponyta}} || {{Ruby|포니타|Ponyta}} || {{Ruby|小火馬 / 小火马|Xiǎohuǒmǎ}} || {{#ic:Feuer}}
+|-
+| 078 || style="height: 28px;" | {{#icon:078}} || [[Gallopa]] || Rapidash || Galopa || {{Ruby|ギャロップ|Gallop}} || {{Ruby|날쌩마|Nalssengma}} || {{Ruby|烈焰馬 / 烈焰马|Lièyànmǎ}} || {{#ic:Feuer}}
+|-
+| 079 || style="height: 28px;" | {{#icon:079}} || [[Flegmon]] || Slowpoke || Ramoloss || {{Ruby|ヤドン|Yadon}} || {{Ruby|야돈|Yadon}} || {{Ruby|呆呆獸 / 呆呆兽|Dāidāishòu}} || {{#ic:Wasser}}&nbsp;{{#ic:Psycho}}
+|-
+| 080 || style="height: 28px;" | {{#icon:080}} || [[Lahmus]] || Slowbro || Flagadoss || {{Ruby|ヤドラン|Yadoran}} || {{Ruby|야도란|Yadonran}} || {{Ruby|呆殼獸 / 呆壳兽|Dāikéshòu}} || {{#ic:Wasser}}&nbsp;{{#ic:Psycho}}
+|-
+| 081 || style="height: 28px;" | {{#icon:081}} || [[Magnetilo]] || Magnemite || Magnéti || {{Ruby|コイル|Coil}} || {{Ruby|코일|Koil}} || {{Ruby|小磁怪 / 小磁怪|Xiǎocíguài}} || {{#ic:Elektro}}&nbsp;{{#ic:Stahl}}
+|-
+| 082 || style="height: 28px;" | {{#icon:082}} || [[Magneton]] || Magneton || Magnéton || {{Ruby|レアコイル|Rarecoil}} || {{Ruby|레어코일|Rarekoil}} || {{Ruby|三合一磁怪 / 三合一磁怪|Sānhéyīcíguài}} || {{#ic:Elektro}}&nbsp;{{#ic:Stahl}}
+|-
+| 083 || style="height: 28px;" | {{#icon:083}} || [[Porenta]] || Farfetch’d || Canarticho || {{Ruby|カモネギ|Kamonegi}} || {{Ruby|파오리|Paori}} || {{Ruby|大蔥鴨 / 大葱鸭|Dàcōngyā}} || {{#ic:Normal}}&nbsp;{{#ic:Flug}}
+|-
+| 084 || style="height: 28px;" | {{#icon:084}} || [[Dodu]] || Doduo || Doduo || {{Ruby|ドードー|Dodo}} || {{Ruby|두두|Dudu}} || {{Ruby|嘟嘟 / 嘟嘟|Dūdū}} || {{#ic:Normal}}&nbsp;{{#ic:Flug}}
+|-
+| 085 || style="height: 28px;" | {{#icon:085}} || [[Dodri]] || Dodrio || Dodrio || {{Ruby|ドードリオ|Dodorio}} || {{Ruby|두트리오|Dutrio}} || {{Ruby|嘟嘟利 / 嘟嘟利|Dūdūlì}} || {{#ic:Normal}}&nbsp;{{#ic:Flug}}
+|-
+| 086 || style="height: 28px;" | {{#icon:086}} || [[Jurob]] || Seel || Otaria || {{Ruby|パウワウ|Pawou}} || {{Ruby|쥬쥬|Juju}} || {{Ruby|小海獅 / 小海狮|Xiǎohǎishī}} || {{#ic:Wasser}}
+|-
+| 087 || style="height: 28px;" | {{#icon:087}} || [[Jugong]] || Dewgong || Lamantine || {{Ruby|ジュゴン|Jugon}} || {{Ruby|쥬레곤|Juregon}} || {{Ruby|白海獅 / 白海狮|Báihǎishī}} || {{#ic:Wasser}}&nbsp;{{#ic:Eis}}
+|-
+| 088 || style="height: 28px;" | {{#icon:088}} || [[Sleima]] || Grimer || Tadmorv || {{Ruby|ベトベター|Betbeter}} || {{Ruby|질퍽이|Jilpeogi}} || {{Ruby|臭泥 / 臭泥|Chòuní}} || {{#ic:Gift}}
+|-
+| 089 || style="height: 28px;" | {{#icon:089}} || [[Sleimok]] || Muk || Grotadmorv || {{Ruby|ベトベトン|Betbeton}} || {{Ruby|질뻐기|Jilppeogi}} || {{Ruby|臭臭泥 / 臭臭泥|Chòuchòuní}} || {{#ic:Gift}}
+|-
+| 090 || style="height: 28px;" | {{#icon:090}} || [[Muschas]] || Shellder || Kokiyas || {{Ruby|シェルダー|Shellder}} || {{Ruby|셀러|Sellor}} || {{Ruby|大舌貝 / 大舌贝|Dàshébèi}} || {{#ic:Wasser}}
+|-
+| 091 || style="height: 28px;" | {{#icon:091}} || [[Austos]] || Cloyster || Crustabri || {{Ruby|パルシェン|Parshen}} || {{Ruby|파르셀|Parsell}} || {{Ruby|刺甲貝 / 刺甲贝|Cìjiǎbèi}} || {{#ic:Wasser}}&nbsp;{{#ic:Eis}}
+|-
+| 092 || style="height: 28px;" | {{#icon:092}} || [[Nebulak]] || Gastly || Fantominus || {{Ruby|ゴース|Ghos}} || {{Ruby|고오스|Goohs}} || {{Ruby|鬼斯 / 鬼斯|Guǐsī}} || {{#ic:Geist}}&nbsp;{{#ic:Gift}}
+|-
+| 093 || style="height: 28px;" | {{#icon:093}} || [[Alpollo]] || Haunter || Spectrum || {{Ruby|ゴースト|Ghost}} || {{Ruby|고우스트|Goust}} || {{Ruby|鬼斯通 / 鬼斯通|Guǐsītōng}} || {{#ic:Geist}}&nbsp;{{#ic:Gift}}
+|-
+| 094 || style="height: 28px;" | {{#icon:094}} || [[Gengar]] || Gengar || Ectoplasma || {{Ruby|ゲンガー|Gangar}} || {{Ruby|팬텀|Penteom}} || {{Ruby|耿鬼 / 耿鬼|Gěngguǐ}} || {{#ic:Geist}}&nbsp;{{#ic:Gift}}
+|-
+| 095 || style="height: 28px;" | {{#icon:095}} || [[Onix]] || Onix || Onix || {{Ruby|イワーク|Iwark}} || {{Ruby|롱스톤|Rongston}} || {{Ruby|大岩蛇 / 大岩蛇|Dàyánshé}} || {{#ic:Gestein}}&nbsp;{{#ic:Boden}}
+|-
+| 096 || style="height: 28px;" | {{#icon:096}} || [[Traumato]] || Drowzee || Soporifik || {{Ruby|スリープ|Sleepe}} || {{Ruby|슬리프|Sllip}} || {{Ruby|催眠貘 / 催眠貘|Cuīmiánmò}} || {{#ic:Psycho}}
+|-
+| 097 || style="height: 28px;" | {{#icon:097}} || [[Hypno]] || Hypno || Hypnomade || {{Ruby|スリーパー|Sleeper}} || {{Ruby|슬리퍼|Slliper}} || {{Ruby|引夢貘人 / 引梦貘人|Yǐnmèngmòrén}} || {{#ic:Psycho}}
+|-
+| 098 || style="height: 28px;" | {{#icon:098}} || [[Krabby]] || Krabby || Krabby || {{Ruby|クラブ|Crab}} || {{Ruby|크랩|Kreb}} || {{Ruby|大鉗蟹 / 大钳蟹|Dàqiánxiè}} || {{#ic:Wasser}}
+|-
+| 099 || style="height: 28px;" | {{#icon:099}} || [[Kingler]] || Kingler || Krabboss || {{Ruby|キングラー|Kingler}} || {{Ruby|킹크랩|Kingkreb}} || {{Ruby|巨鉗蟹 / 巨钳蟹|Jùqiánxiè}} || {{#ic:Wasser}}
+|-
+| 100 || style="height: 28px;" | {{#icon:100}} || [[Voltobal]] || Voltorb || Voltorbe || {{Ruby|ビリリダマ|Biriridama}} || {{Ruby|찌리리공|Zzililigong}} || {{Ruby|霹靂電球 / 霹雳电球|Pīlìdiànqiú}} || {{#ic:Elektro}}
+|-
+| 101 || style="height: 28px;" | {{#icon:101}} || [[Lektrobal]] || Electrode || Électrode || {{Ruby|マルマイン|Marumine}} || {{Ruby|붐볼|Boomball}} || {{Ruby|頑皮雷彈 / 顽皮雷弹|Wánpíléidàn}} || {{#ic:Elektro}}
+|-
+| 102 || style="height: 28px;" | {{#icon:102}} || [[Owei]] || Exeggcute || Noeunoeuf || {{Ruby|タマタマ|Tamatama}} || {{Ruby|아라리|Arari}} || {{Ruby|蛋蛋 / 蛋蛋|Dàndàn}} || {{#ic:Pflanze}}&nbsp;{{#ic:Psycho}}
+|-
+| 103 || style="height: 28px;" | {{#icon:103}} || [[Kokowei]] || Exeggutor || Noadkoko || {{Ruby|ナッシー|Nassy}} || {{Ruby|나시|Nasi}} || {{Ruby|椰蛋樹 / 椰蛋树|Yēdànshù}} || {{#ic:Pflanze}}&nbsp;{{#ic:Psycho}}
+|-
+| 104 || style="height: 28px;" | {{#icon:104}} || [[Tragosso]] || Cubone || Osselait || {{Ruby|カラカラ|Karakara}} || {{Ruby|탕구리|Tangguri}} || {{Ruby|卡拉卡拉 / 卡拉卡拉|Kǎlākǎlā}} || {{#ic:Boden}}
+|-
+| 105 || style="height: 28px;" | {{#icon:105}} || [[Knogga]] || Marowak || Ossatueur || {{Ruby|ガラガラ|Garagara}} || {{Ruby|텅구리|Teongguri}} || {{Ruby|嘎啦嘎啦 / 嘎啦嘎啦|Gālāgālā}} || {{#ic:Boden}}
+|-
+| 106 || style="height: 28px;" | {{#icon:106}} || [[Kicklee]] || Hitmonlee || Kicklee || {{Ruby|サワムラー|Sawamular}} || {{Ruby|시라소몬|Sirasomon}} || {{Ruby|飛腿郎 / 飞腿郎|Fēituǐláng}} || {{#ic:Kampf}}
+|-
+| 107 || style="height: 28px;" | {{#icon:107}} || [[Nockchan]] || Hitmonchan || Tygnon || {{Ruby|エビワラー|Ebiwalar}} || {{Ruby|홍수몬|Hongsoomon}} || {{Ruby|快拳郎 / 快拳郎|Kuàiquánláng}} || {{#ic:Kampf}}
+|-
+| 108 || style="height: 28px;" | {{#icon:108}} || [[Schlurp]] || Lickitung || Excelangue || {{Ruby|ベロリンガ|Beroringa}} || {{Ruby|내루미|Nerumi}} || {{Ruby|大舌頭 / 大舌头|Dàshétóu}} || {{#ic:Normal}}
+|-
+| 109 || style="height: 28px;" | {{#icon:109}} || [[Smogon]] || Koffing || Smogo || {{Ruby|ドガース|Dogars}} || {{Ruby|또가스|Ttogas}} || {{Ruby|瓦斯彈 / 瓦斯弹|Wǎsīdàn}} || {{#ic:Gift}}
+|-
+| 110 || style="height: 28px;" | {{#icon:110}} || [[Smogmog]] || Weezing || Smogogo || {{Ruby|マタドガス|Matadogas}} || {{Ruby|또도가스|Ttodogas}} || {{Ruby|雙彈瓦斯 / 双弹瓦斯|Shuāngdànwǎsī}} || {{#ic:Gift}}
+|-
+| 111 || style="height: 28px;" | {{#icon:111}} || [[Rihorn]] || Rhyhorn || Rhinocorne || {{Ruby|サイホーン|Sihorn}} || {{Ruby|뿔카노|Ppulkano}} || {{Ruby|獨角犀牛 / 独角犀牛|Dújiǎoxīniú}} || {{#ic:Boden}}&nbsp;{{#ic:Gestein}}
+|-
+| 112 || style="height: 28px;" | {{#icon:112}} || [[Rizeros]] || Rhydon || Rhinoféros || {{Ruby|サイドン|Sidon}} || {{Ruby|코뿌리|Koppuri}} || {{Ruby|鑽角犀獸 / 钻角犀兽|Zuānjiǎoxīshòu}} || {{#ic:Boden}}&nbsp;{{#ic:Gestein}}
+|-
+| 113 || style="height: 28px;" | {{#icon:113}} || [[Chaneira]] || Chansey || Leveinard || {{Ruby|ラッキー|Lucky}} || {{Ruby|럭키|Lucki}} || {{Ruby|吉利蛋 / 吉利蛋|Jílìdàn}} || {{#ic:Normal}}
+|-
+| 114 || style="height: 28px;" | {{#icon:114}} || [[Tangela]] || Tangela || Saquedeneu || {{Ruby|モンジャラ|Monjara}} || {{Ruby|덩쿠리|Deongkuri}} || {{Ruby|蔓藤怪 / 蔓藤怪|Mànténgguài}} || {{#ic:Pflanze}}
+|-
+| 115 || style="height: 28px;" | {{#icon:115}} || [[Kangama]] || Kangaskhan || Kangourex || {{Ruby|ガルーラ|Garura}} || {{Ruby|캥카|Kengka}} || {{Ruby|袋獸 / 袋兽|Dàishòu}} || {{#ic:Normal}}
+|-
+| 116 || style="height: 28px;" | {{#icon:116}} || [[Seeper]] || Horsea || Hypotrempe || {{Ruby|タッツー|Tattu}} || {{Ruby|쏘드라|Ssodra}} || {{Ruby|墨海馬 / 墨海马|Mòhǎimǎ}} || {{#ic:Wasser}}
+|-
+| 117 || style="height: 28px;" | {{#icon:117}} || [[Seemon]] || Seadra || Hypocéan || {{Ruby|シードラ|Seadra}} || {{Ruby|시드라|Seadra}} || {{Ruby|海刺龍 / 海刺龙|Hǎicìlóng}} || {{#ic:Wasser}}
+|-
+| 118 || style="height: 28px;" | {{#icon:118}} || [[Goldini]] || Goldeen || Poissirène || {{Ruby|トサキント|Tosakinto}} || {{Ruby|콘치|Konchi}} || {{Ruby|角金魚 / 角金鱼|Jiǎojīnyú}} || {{#ic:Wasser}}
+|-
+| 119 || style="height: 28px;" | {{#icon:119}} || [[Golking]] || Seaking || Poissoroy || {{Ruby|アズマオウ|Azumao}} || {{Ruby|왕콘치|Wangkonchi}} || {{Ruby|金魚王 / 金鱼王|Jīnyúwáng}} || {{#ic:Wasser}}
+|-
+| 120 || style="height: 28px;" | {{#icon:120}} || [[Sterndu]] || Staryu || Stari || {{Ruby|ヒトデマン|Hitodeman}} || {{Ruby|별가사리|Byulgasari}} || {{Ruby|海星星 / 海星星|Hǎixīngxīng}} || {{#ic:Wasser}}
+|-
+| 121 || style="height: 28px;" | {{#icon:121}} || [[Starmie]] || Starmie || Staross || {{Ruby|スターミー|Starmie}} || {{Ruby|아쿠스타|Akusta}} || {{Ruby|寶石海星 / 宝石海星|Bǎoshíhǎixīng}} || {{#ic:Wasser}}&nbsp;{{#ic:Psycho}}
+|-
+| 122 || style="height: 28px;" | {{#icon:122}} || [[Pantimos]] || Mr. Mime || M. Mime || {{Ruby|バリヤード|Barrierd}} || {{Ruby|마임맨|Maimman}} || {{Ruby|魔牆人偶 / 魔墙人偶|Móqiángrén'ǒu}} || {{#ic:Psycho}}&nbsp;{{#ic:Fee}}
+|-
+| 123 || style="height: 28px;" | {{#icon:123}} || [[Sichlor]] || Scyther || Insécateur || {{Ruby|ストライク|Strike}} || {{Ruby|스라크|Srak}} || {{Ruby|飛天螳螂 / 飞天螳螂|Fēitiāntángláng}} || {{#ic:Käfer}}&nbsp;{{#ic:Flug}}
+|-
+| 124 || style="height: 28px;" | {{#icon:124}} || [[Rossana]] || Jynx || Lippoutou || {{Ruby|ルージュラ|Rougela}} || {{Ruby|루주라|Rujura}} || {{Ruby|迷唇姐 / 迷唇姐|Míchúnjiě}} || {{#ic:Eis}}&nbsp;{{#ic:Psycho}}
+|-
+| 125 || style="height: 28px;" | {{#icon:125}} || [[Elektek]] || Electabuzz || Élektek || {{Ruby|エレブー|Eleboo}} || {{Ruby|에레브|Elev}} || {{Ruby|電擊獸 / 电击兽|Diànjīshòu}} || {{#ic:Elektro}}
+|-
+| 126 || style="height: 28px;" | {{#icon:126}} || [[Magmar]] || Magmar || Magmar || {{Ruby|ブーバー|Boober}} || {{Ruby|마그마|Magmar}} || {{Ruby|鴨嘴火獸 / 鸭嘴火兽|Yāzuǐhuǒshòu}} || {{#ic:Feuer}}
+|-
+| 127 || style="height: 28px;" | {{#icon:127}} || [[Pinsir]] || Pinsir || Scarabrute || {{Ruby|カイロス|Kailios}} || {{Ruby|쁘사이저|Ppeusaizeo}} || {{Ruby|凱羅斯 / 凯罗斯|Kǎiluósī}} || {{#ic:Käfer}}
+|-
+| 128 || style="height: 28px;" | {{#icon:128}} || [[Tauros]] || Tauros || Tauros || {{Ruby|ケンタロス|Kentauros}} || {{Ruby|켄타로스|Kentaros}} || {{Ruby|肯泰羅 / 肯泰罗|Kěntàiluó}} || {{#ic:Normal}}
+|-
+| 129 || style="height: 28px;" | {{#icon:129}} || [[Karpador]] || Magikarp || Magicarpe || {{Ruby|コイキング|Koiking}} || {{Ruby|잉어킹|Ingeoking}} || {{Ruby|鯉魚王 / 鲤鱼王|Lǐyúwáng}} || {{#ic:Wasser}}
+|-
+| 130 || style="height: 28px;" | {{#icon:130}} || [[Garados]] || Gyarados || Léviator || {{Ruby|ギャラドス|Gyarados}} || {{Ruby|갸라도스|Gyarados}} || {{Ruby|暴鯉龍 / 暴鲤龙|Bàolǐlóng}} || {{#ic:Wasser}}&nbsp;{{#ic:Flug}}
+|-
+| 131 || style="height: 28px;" | {{#icon:131}} || [[Lapras]] || Lapras || Lokhlass || {{Ruby|ラプラス|Laplace}} || {{Ruby|라프라스|Lapras}} || {{Ruby|拉普拉斯 / 拉普拉斯|Lāpǔlāsī}} || {{#ic:Wasser}}&nbsp;{{#ic:Eis}}
+|-
+| 132 || style="height: 28px;" | {{#icon:132}} || [[Ditto]] || Ditto || Métamorph || {{Ruby|メタモン|Metamon}} || {{Ruby|메타몽|Metamong}} || {{Ruby|百變怪 / 百变怪|Bǎibiànguài}} || {{#ic:Normal}}
+|-
+| 133 || style="height: 28px;" | {{#icon:133}} || [[Evoli]] || Eevee || Évoli || {{Ruby|イーブイ|Eievui}} || {{Ruby|이브이|Eevee}} || {{Ruby|伊布 / 伊布|Yībù}} || {{#ic:Normal}}
+|-
+| 134 || style="height: 28px;" | {{#icon:134}} || [[Aquana]] || Vaporeon || Aquali || {{Ruby|シャワーズ|Showers}} || {{Ruby|샤미드|Shamid}} || {{Ruby|水伊布 / 水伊布|Shuǐyībù}} || {{#ic:Wasser}}
+|-
+| 135 || style="height: 28px;" | {{#icon:135}} || [[Blitza]] || Jolteon || Voltali || {{Ruby|サンダース|Thunders}} || {{Ruby|쥬피썬더|Jupithunder}} || {{Ruby|雷伊布 / 雷伊布|Léiyībù}} || {{#ic:Elektro}}
+|-
+| 136 || style="height: 28px;" | {{#icon:136}} || [[Flamara]] || Flareon || Pyroli || {{Ruby|ブースター|Booster}} || {{Ruby|부스터|Booster}} || {{Ruby|火伊布 / 火伊布|Huǒyībù}} || {{#ic:Feuer}}
+|-
+| 137 || style="height: 28px;" | {{#icon:137}} || [[Porygon]] || Porygon || Porygon || {{Ruby|ポリゴン|Porygon}} || {{Ruby|폴리곤|Porygon}} || {{Ruby|多邊獸 / 多边兽|Duōbiānshòu}} || {{#ic:Normal}}
+|-
+| 138 || style="height: 28px;" | {{#icon:138}} || [[Amonitas]] || Omanyte || Amonita || {{Ruby|オムナイト|Omnite}} || {{Ruby|암나이트|Amnait}} || {{Ruby|菊石獸 / 菊石兽|Júshíshòu}} || {{#ic:Gestein}}&nbsp;{{#ic:Wasser}}
+|-
+| 139 || style="height: 28px;" | {{#icon:139}} || [[Amoroso]] || Omastar || Amonistar || {{Ruby|オムスター|Omstar}} || {{Ruby|암스타|Amsta}} || {{Ruby|多刺菊石獸 / 多刺菊石兽|Duōcìjúshíshòu}} || {{#ic:Gestein}}&nbsp;{{#ic:Wasser}}
+|-
+| 140 || style="height: 28px;" | {{#icon:140}} || [[Kabuto]] || Kabuto || Kabuto || {{Ruby|カブト|Kabuto}} || {{Ruby|투구|Toogu}} || {{Ruby|化石盔 / 化石盔|Huàshíkuī}} || {{#ic:Gestein}}&nbsp;{{#ic:Wasser}}
+|-
+| 141 || style="height: 28px;" | {{#icon:141}} || [[Kabutops]] || Kabutops || Kabutops || {{Ruby|カブトプス|Kabutops}} || {{Ruby|투구푸스|Tooguphus}} || {{Ruby|鐮刀盔 / 镰刀盔|Liándāokuī}} || {{#ic:Gestein}}&nbsp;{{#ic:Wasser}}
+|-
+| 142 || style="height: 28px;" | {{#icon:142}} || [[Aerodactyl]] || Aerodactyl || Ptéra || {{Ruby|プテラ|Ptera}} || {{Ruby|프테라|Ptera}} || {{Ruby|化石翼龍 / 化石翼龙|Huàshíyìlóng}} || {{#ic:Gestein}}&nbsp;{{#ic:Flug}}
+|-
+| 143 || style="height: 28px;" | {{#icon:143}} || [[Relaxo]] || Snorlax || Ronflex || {{Ruby|カビゴン|Kabigon}} || {{Ruby|잠만보|Jammanbo}} || {{Ruby|卡比獸 / 卡比兽|Kǎbǐshòu}} || {{#ic:Normal}}
+|-
+| 144 || style="height: 28px;" | {{#icon:144}} || [[Arktos]] || Articuno || Artikodin || {{Ruby|フリーザー|Freezer}} || {{Ruby|프리져|Freeser}} || {{Ruby|急凍鳥 / 急冻鸟|Jídòngniǎo}} || {{#ic:Eis}}&nbsp;{{#ic:Flug}}
+|-
+| 145 || style="height: 28px;" | {{#icon:145}} || [[Zapdos]] || Zapdos || Électhor || {{Ruby|サンダー|Thunder}} || {{Ruby|썬더|Sunder}} || {{Ruby|閃電鳥 / 闪电鸟|Shǎndiànniǎo}} || {{#ic:Elektro}}&nbsp;{{#ic:Flug}}
+|-
+| 146 || style="height: 28px;" | {{#icon:146}} || [[Lavados]] || Moltres || Sulfura || {{Ruby|ファイヤー|Fire}} || {{Ruby|파이어|Faier}} || {{Ruby|火焰鳥 / 火焰鸟|Huǒyànniǎo}} || {{#ic:Feuer}}&nbsp;{{#ic:Flug}}
+|-
+| 147 || style="height: 28px;" | {{#icon:147}} || [[Dratini]] || Dratini || Minidraco || {{Ruby|ミニリュウ|Miniryu}} || {{Ruby|미뇽|Minyong}} || {{Ruby|迷你龍 / 迷你龙|Mínǐlóng}} || {{#ic:Drache}}
+|-
+| 148 || style="height: 28px;" | {{#icon:148}} || [[Dragonir]] || Dragonair || Draco || {{Ruby|ハクリュー|Hakuryu}} || {{Ruby|신뇽|Sinnyong}} || {{Ruby|哈克龍 / 哈克龙|Hākèlóng}} || {{#ic:Drache}}
+|-
+| 149 || style="height: 28px;" | {{#icon:149}} || [[Dragoran]] || Dragonite || Dracolosse || {{Ruby|カイリュー|Kairyu}} || {{Ruby|망나뇽|Mangnanyong}} || {{Ruby|快龍 / 快龙|Kuàilóng}} || {{#ic:Drache}}&nbsp;{{#ic:Flug}}
+|-
+| 150 || style="height: 28px;" | {{#icon:150}} || [[Mewtu]] || Mewtwo || Mewtwo || {{Ruby|ミュウツー|Mewtwo}} || {{Ruby|뮤츠|Mewtwo}} || {{Ruby|超夢 / 超梦|Chāomèng}} || {{#ic:Psycho}}
+|-
+| 151 || style="height: 28px;" | {{#icon:151}} || [[Mew]] || Mew || Mew || {{Ruby|ミュウ|Mew}} || {{Ruby|뮤|Mew}} || {{Ruby|夢幻 / 梦幻|Mènghuàn}} || {{#ic:Psycho}}
+|-
+| <span id="nr152"></span> 152 || style="height: 28px;" | {{#icon:152}} || [[Endivie]] || Chikorita || Germignon || {{Ruby|チコリータ|Chikorita}} || {{Ruby|치코리타|Chikorita}} || {{Ruby|菊草葉 / 菊草叶|Júcǎoyè}} || {{#ic:Pflanze}}
+|-
+| 153 || style="height: 28px;" | {{#icon:153}} || [[Lorblatt]] || Bayleef || Macronium || {{Ruby|ベイリーフ|Bayleaf}} || {{Ruby|베이리프|Bayleef}} || {{Ruby|月桂葉 / 月桂叶|Yuèguìyè}} || {{#ic:Pflanze}}
+|-
+| 154 || style="height: 28px;" | {{#icon:154}} || [[Meganie]] || Meganium || Méganium || {{Ruby|メガニウム|Meganium}} || {{Ruby|메가니움|Meganium}} || {{Ruby|大竺葵 / 大竺葵|Dàzhúkuí}} || {{#ic:Pflanze}}
+|-
+| 155 || style="height: 28px;" | {{#icon:155}} || [[Feurigel]] || Cyndaquil || Héricendre || {{Ruby|ヒノアラシ|Hinoarashi}} || {{Ruby|브케인|Beukein}} || {{Ruby|火球鼠 / 火球鼠|Huǒqiúshǔ}} || {{#ic:Feuer}}
+|-
+| 156 || style="height: 28px;" | {{#icon:156}} || [[Igelavar]] || Quilava || Feurisson || {{Ruby|マグマラシ|Magmarashi}} || {{Ruby|마그케인|Mageukein}} || {{Ruby|火岩鼠 / 火岩鼠|Huǒyánshǔ}} || {{#ic:Feuer}}
+|-
+| 157 || style="height: 28px;" | {{#icon:157}} || [[Tornupto]] || Typhlosion || Typhlosion || {{Ruby|バクフーン|Bakphoon}} || {{Ruby|블레이범|Bleibeom}} || {{Ruby|火爆獸 / 火暴兽|Huǒbàoshòu}} || {{#ic:Feuer}}
+|-
+| 158 || style="height: 28px;" | {{#icon:158}} || [[Karnimani]] || Totodile || Kaiminus || {{Ruby|ワニノコ|Waninoko}} || {{Ruby|리아코|Liako}} || {{Ruby|小鋸鱷 / 小锯鳄|Xiǎojù'è}} || {{#ic:Wasser}}
+|-
+| 159 || style="height: 28px;" | {{#icon:159}} || [[Tyracroc]] || Croconaw || Crocrodil || {{Ruby|アリゲイツ|Alligates}} || {{Ruby|엘리게이|Elligei}} || {{Ruby|藍鱷 / 蓝鳄|Lán'è}} || {{#ic:Wasser}}
+|-
+| 160 || style="height: 28px;" | {{#icon:160}} || [[Impergator]] || Feraligatr || Aligatueur || {{Ruby|オーダイル|Ordile}} || {{Ruby|장크로다일|Jangkrodail}} || {{Ruby|大力鱷 / 大力鳄|Dàlì'è}} || {{#ic:Wasser}}
+|-
+| 161 || style="height: 28px;" | {{#icon:161}} || [[Wiesor]] || Sentret || Fouinette || {{Ruby|オタチ|Otachi}} || {{Ruby|꼬리선|Kkoriseon}} || {{Ruby|尾立 / 尾立|Wěilì}} || {{#ic:Normal}}
+|-
+| 162 || style="height: 28px;" | {{#icon:162}} || [[Wiesenior]] || Furret || Fouinar || {{Ruby|オオタチ|Ootachi}} || {{Ruby|다꼬리|Dakkori}} || {{Ruby|大尾立 / 大尾立|Dàwěilì}} || {{#ic:Normal}}
+|-
+| 163 || style="height: 28px;" | {{#icon:163}} || [[Hoothoot]] || Hoothoot || Hoothoot || {{Ruby|ホーホー|Hoho}} || {{Ruby|부우부|Buubu}} || {{Ruby|咕咕 / 咕咕|Gūgū}} || {{#ic:Normal}}&nbsp;{{#ic:Flug}}
+|-
+| 164 || style="height: 28px;" | {{#icon:164}} || [[Noctuh]] || Noctowl || Noarfang || {{Ruby|ヨルノズク|Yorunozuku}} || {{Ruby|야부엉|Yabueong}} || {{Ruby|貓頭夜鷹 / 猫头夜鹰|Māotóuyèyīng}} || {{#ic:Normal}}&nbsp;{{#ic:Flug}}
+|-
+| 165 || style="height: 28px;" | {{#icon:165}} || [[Ledyba]] || Ledyba || Coxy || {{Ruby|レディバ|Rediba}} || {{Ruby|레디바|Ledyba}} || {{Ruby|芭瓢蟲 / 芭瓢虫|Bāpiáochóng}} || {{#ic:Käfer}}&nbsp;{{#ic:Flug}}
+|-
+| 166 || style="height: 28px;" | {{#icon:166}} || [[Ledian]] || Ledian || Coxyclaque || {{Ruby|レディアン|Redian}} || {{Ruby|레디안|Ledian}} || {{Ruby|安瓢蟲 / 安瓢虫|Ānpiáochóng}} || {{#ic:Käfer}}&nbsp;{{#ic:Flug}}
+|-
+| 167 || style="height: 28px;" | {{#icon:167}} || [[Webarak]] || Spinarak || Mimigal || {{Ruby|イトマル|Itomaru}} || {{Ruby|페이검|Peigeom}} || {{Ruby|圓絲蛛 / 圆丝蛛|Yuánsīzhū}} || {{#ic:Käfer}}&nbsp;{{#ic:Gift}}
+|-
+| 168 || style="height: 28px;" | {{#icon:168}} || [[Ariados]] || Ariados || Migalos || {{Ruby|アリアドス|Ariados}} || {{Ruby|아리아도스|Ariados}} || {{Ruby|阿利多斯 / 阿利多斯|Ālìduōsī}} || {{#ic:Käfer}}&nbsp;{{#ic:Gift}}
+|-
+| 169 || style="height: 28px;" | {{#icon:169}} || [[Iksbat]] || Crobat || Nostenfer || {{Ruby|クロバット|Crobat}} || {{Ruby|크로뱃|Crobat}} || {{Ruby|叉字蝠 / 叉字蝠|Chāzìfú}} || {{#ic:Gift}}&nbsp;{{#ic:Flug}}
+|-
+| 170 || style="height: 28px;" | {{#icon:170}} || [[Lampi]] || Chinchou || Loupio || {{Ruby|チョンチー|Chonchie}} || {{Ruby|초라기|Choragi}} || {{Ruby|燈籠魚 / 灯笼鱼|Dēnglóngyú}} || {{#ic:Wasser}}&nbsp;{{#ic:Elektro}}
+|-
+| 171 || style="height: 28px;" | {{#icon:171}} || [[Lanturn]] || Lanturn || Lanturn || {{Ruby|ランターン|Lantern}} || {{Ruby|랜턴|Lanturn}} || {{Ruby|電燈怪 / 电灯怪|Diàndēngguài}} || {{#ic:Wasser}}&nbsp;{{#ic:Elektro}}
+|-
+| 172 || style="height: 28px;" | {{#icon:172}} || [[Pichu]] || Pichu || Pichu || {{Ruby|ピチュー|Pichu}} || {{Ruby|피츄|Pichu}} || {{Ruby|皮丘 / 皮丘|Píqiū}} || {{#ic:Elektro}}
+|-
+| 173 || style="height: 28px;" | {{#icon:173}} || [[Pii]] || Cleffa || Mélo || {{Ruby|ピィ|Py}} || {{Ruby|삐|Ppi}} || {{Ruby|皮寶寶 / 皮宝宝|Píbǎobǎo}} || {{#ic:Fee}}
+|-
+| 174 || style="height: 28px;" | {{#icon:174}} || [[Fluffeluff]] || Igglybuff || Toudoudou || {{Ruby|ププリン|Pupurin}} || {{Ruby|푸푸린|Pupurin}} || {{Ruby|寶寶丁 / 宝宝丁|Bǎobǎodīng}} || {{#ic:Normal}}&nbsp;{{#ic:Fee}}
+|-
+| 175 || style="height: 28px;" | {{#icon:175}} || [[Togepi]] || Togepi || Togepi || {{Ruby|トゲピー|Togepy}} || {{Ruby|토게피|Togepi}} || {{Ruby|波克比 / 波克比|Bōkèbĭ}} || {{#ic:Fee}}
+|-
+| 176 || style="height: 28px;" | {{#icon:176}} || [[Togetic]] || Togetic || Togetic || {{Ruby|トゲチック|Togechick}} || {{Ruby|토게틱|Togetic}} || {{Ruby|波克基古 / 波克基古|Bōkèjīgŭ}} || {{#ic:Fee}}&nbsp;{{#ic:Flug}}
+|-
+| 177 || style="height: 28px;" | {{#icon:177}} || [[Natu]] || Natu || Natu || {{Ruby|ネイティ|Naty}} || {{Ruby|네이티|Neiti}} || {{Ruby|天然雀 / 天然雀|Tiānránquè}} || {{#ic:Psycho}}&nbsp;{{#ic:Flug}}
+|-
+| 178 || style="height: 28px;" | {{#icon:178}} || [[Xatu]] || Xatu || Xatu || {{Ruby|ネイティオ|Natio}} || {{Ruby|네이티오|Neitio}} || {{Ruby|天然鳥 / 天然鸟|Tiānránniǎo}} || {{#ic:Psycho}}&nbsp;{{#ic:Flug}}
+|-
+| 179 || style="height: 28px;" | {{#icon:179}} || [[Voltilamm]] || Mareep || Wattouat || {{Ruby|メリープ|Merriep}} || {{Ruby|메리프|Meleep}} || {{Ruby|咩利羊 / 咩利羊|Miēlìyáng}} || {{#ic:Elektro}}
+|-
+| 180 || style="height: 28px;" | {{#icon:180}} || [[Waaty]] || Flaaffy || Lainergie || {{Ruby|モココ|Mokoko}} || {{Ruby|보송송|Bosongsong}} || {{Ruby|茸茸羊 / 茸茸羊|Róngróngyáng}} || {{#ic:Elektro}}
+|-
+| 181 || style="height: 28px;" | {{#icon:181}} || [[Ampharos]] || Ampharos || Pharamp || {{Ruby|デンリュウ|Denryu}} || {{Ruby|전룡|Jeonryong}} || {{Ruby|電龍 / 电龙|Diànlóng}} || {{#ic:Elektro}}
+|-
+| 182 || style="height: 28px;" | {{#icon:182}} || [[Blubella]] || Bellossom || Joliflor || {{Ruby|キレイハナ|Kireihana}} || {{Ruby|아르코|Areuko}} || {{Ruby|美麗花 / 美丽花|Měilìhuā}} || {{#ic:Pflanze}}
+|-
+| 183 || style="height: 28px;" | {{#icon:183}} || [[Marill]] || Marill || Marill || {{Ruby|マリル|Maril}} || {{Ruby|마릴|Marill}} || {{Ruby|瑪力露 / 玛力露|Mǎlìlù}} || {{#ic:Wasser}}&nbsp;{{#ic:Fee}}
+|-
+| 184 || style="height: 28px;" | {{#icon:184}} || [[Azumarill]] || Azumarill || Azumarill || {{Ruby|マリルリ|Marilli}} || {{Ruby|마릴리|Marilly}} || {{Ruby|瑪力露麗 / 玛力露丽|Mǎlìlùlí}} || {{#ic:Wasser}}&nbsp;{{#ic:Fee}}
+|-
+| 185 || style="height: 28px;" | {{#icon:185}} || [[Mogelbaum]] || Sudowoodo || Simularbre || {{Ruby|ウソッキー|Usokkie}} || {{Ruby|꼬지모|Kkojimo}} || {{Ruby|樹才怪 / 树才怪|Shùcáiguài}} || {{#ic:Gestein}}
+|-
+| 186 || style="height: 28px;" | {{#icon:186}} || [[Quaxo]] || Politoed || Tarpaud || {{Ruby|ニョロトノ|Nyorotono}} || {{Ruby|왕구리|Wangguri}} || {{Ruby|蚊香蛙皇 / 蚊香蛙皇|Wénxiāngwāhuáng}} || {{#ic:Wasser}}
+|-
+| 187 || style="height: 28px;" | {{#icon:187}} || [[Hoppspross]] || Hoppip || Granivol || {{Ruby|ハネッコ|Hanecco}} || {{Ruby|통통코|Tongtongko}} || {{Ruby|毽子草 / 毽子草|Jiànzǐcǎo}} || {{#ic:Pflanze}}&nbsp;{{#ic:Flug}}
+|-
+| 188 || style="height: 28px;" | {{#icon:188}} || [[Hubelupf]] || Skiploom || Floravol || {{Ruby|ポポッコ|Popocco}} || {{Ruby|두코|Duko}} || {{Ruby|毽子花 / 毽子花|Jiànzǐhuā}} || {{#ic:Pflanze}}&nbsp;{{#ic:Flug}}
+|-
+| 189 || style="height: 28px;" | {{#icon:189}} || [[Papungha]] || Jumpluff || Cotovol || {{Ruby|ワタッコ|Watacco}} || {{Ruby|솜솜코|Somsomko}} || {{Ruby|毽子棉 / 毽子棉|Jiànzǐmián}} || {{#ic:Pflanze}}&nbsp;{{#ic:Flug}}
+|-
+| 190 || style="height: 28px;" | {{#icon:190}} || [[Griffel]] || Aipom || Capumain || {{Ruby|エイパム|Eipam}} || {{Ruby|에이팜|Eipam}} || {{Ruby|長尾怪手 / 长尾怪手|Chángwěiguàishǒu}} || {{#ic:Normal}}
+|-
+| 191 || style="height: 28px;" | {{#icon:191}} || [[Sonnkern]] || Sunkern || Tournegrin || {{Ruby|ヒマナッツ|Himanuts}} || {{Ruby|해너츠|Haenuts}} || {{Ruby|向日種子 / 向日种子|Xiàngrìzhǒngzǐ}} || {{#ic:Pflanze}}
+|-
+| 192 || style="height: 28px;" | {{#icon:192}} || [[Sonnflora]] || Sunflora || Héliatronc || {{Ruby|キマワリ|Kimawari}} || {{Ruby|해루미|Haerumi}} || {{Ruby|向日花怪 / 向日花怪|Xiàngrìhuāguài}} || {{#ic:Pflanze}}
+|-
+| 193 || style="height: 28px;" | {{#icon:193}} || [[Yanma]] || Yanma || Yanma || {{Ruby|ヤンヤンマ|Yanyanma}} || {{Ruby|왕자리|Wangjari}} || {{Ruby|蜻蜻蜓 / 蜻蜻蜓|Qīngqīngtíng}} || {{#ic:Käfer}}&nbsp;{{#ic:Flug}}
+|-
+| 194 || style="height: 28px;" | {{#icon:194}} || [[Felino]] || Wooper || Axoloto || {{Ruby|ウパー|Upah}} || {{Ruby|우파|Woopa}} || {{Ruby|烏波 / 乌波|Wūbō}} || {{#ic:Wasser}}&nbsp;{{#ic:Boden}}
+|-
+| 195 || style="height: 28px;" | {{#icon:195}} || [[Morlord]] || Quagsire || Maraiste || {{Ruby|ヌオー|Nuoh}} || {{Ruby|누오|Nuo}} || {{Ruby|沼王 / 沼王|Zhǎowáng}} || {{#ic:Wasser}}&nbsp;{{#ic:Boden}}
+|-
+| 196 || style="height: 28px;" | {{#icon:196}} || [[Psiana]] || Espeon || Mentali || {{Ruby|エーフィ|Eifie}} || {{Ruby|에브이|Ebeui}} || {{Ruby|太陽伊布 / 太阳伊布|Tàiyángyībù}} || {{#ic:Psycho}}
+|-
+| 197 || style="height: 28px;" | {{#icon:197}} || [[Nachtara]] || Umbreon || Noctali || {{Ruby|ブラッキー|Blacky}} || {{Ruby|블래키|Blacky}} || {{Ruby|月亮伊布 / 月亮伊布|Yuèliàngyībù}} || {{#ic:Unlicht}}
+|-
+| 198 || style="height: 28px;" | {{#icon:198}} || [[Kramurx]] || Murkrow || Cornèbre || {{Ruby|ヤミカラス|Yamikarasu}} || {{Ruby|니로우|Nirou}} || {{Ruby|黑暗鴉 / 黑暗鸦|Hēi'ànyā}} || {{#ic:Unlicht}}&nbsp;{{#ic:Flug}}
+|-
+| 199 || style="height: 28px;" | {{#icon:199}} || [[Laschoking]] || Slowking || Roigada || {{Ruby|ヤドキング|Yadoking}} || {{Ruby|야도킹|Yadoking}} || {{Ruby|呆呆王 / 呆呆王|Dāidāiwáng}} || {{#ic:Wasser}}&nbsp;{{#ic:Psycho}}
+|-
+| 200 || style="height: 28px;" | {{#icon:200}} || [[Traunfugil]] || Misdreavus || Feuforêve || {{Ruby|ムウマ|Muma}} || {{Ruby|무우마|Muuma}} || {{Ruby|夢妖 / 梦妖|Mèngyāo}} || {{#ic:Geist}}
+|-
+| 201 || style="height: 28px;" | {{#icon:201}} || [[Icognito]] || Unown || Zarbi || {{Ruby|アンノーン|Unknown}} || {{Ruby|안농|Annown}} || {{Ruby|未知圖騰 / 未知图腾|Wèizhītúténg}} || {{#ic:Psycho}}
+|-
+| 202 || style="height: 28px;" | {{#icon:202}} || [[Woingenau]] || Wobbuffet || Qulbutoké || {{Ruby|ソーナンス|Sonans}} || {{Ruby|마자용|Mazayong}} || {{Ruby|果然翁 / 果然翁|Guǒránwēng}} || {{#ic:Psycho}}
+|-
+| 203 || style="height: 28px;" | {{#icon:203}} || [[Girafarig]] || Girafarig || Girafarig || {{Ruby|キリンリキ|Kirinriki}} || {{Ruby|키링키|Kilingki}} || {{Ruby|麒麟奇 / 麒麟奇|Qílínqí}} || {{#ic:Normal}}&nbsp;{{#ic:Psycho}}
+|-
+| 204 || style="height: 28px;" | {{#icon:204}} || [[Tannza]] || Pineco || Pomdepik || {{Ruby|クヌギダマ|Kunugidama}} || {{Ruby|피콘|Pikon}} || {{Ruby|榛果球 / 榛果球|Zhēnguǒqiú}} || {{#ic:Käfer}}
+|-
+| 205 || style="height: 28px;" | {{#icon:205}} || [[Forstellka]] || Forretress || Foretress || {{Ruby|フォレトス|Foretos}} || {{Ruby|쏘콘|Ssokon}} || {{Ruby|佛烈托斯 / 佛烈托斯|Fóliètuōsī}} || {{#ic:Käfer}}&nbsp;{{#ic:Stahl}}
+|-
+| 206 || style="height: 28px;" | {{#icon:206}} || [[Dummisel]] || Dunsparce || Insolourdo || {{Ruby|ノコッチ|Nokocchi}} || {{Ruby|노고치|Nogochi}} || {{Ruby|土龍弟弟 / 土龙弟弟|Tǔlóngdìdì}} || {{#ic:Normal}}
+|-
+| 207 || style="height: 28px;" | {{#icon:207}} || [[Skorgla]] || Gligar || Scorplane || {{Ruby|グライガー|Gliger}} || {{Ruby|글라이거|Glaiger}} || {{Ruby|天蠍 / 天蝎|Tiānxiē}} || {{#ic:Boden}}&nbsp;{{#ic:Flug}}
+|-
+| 208 || style="height: 28px;" | {{#icon:208}} || [[Stahlos]] || Steelix || Steelix || {{Ruby|ハガネール|Haganeil}} || {{Ruby|강철톤|Gangcheolton}} || {{Ruby|大鋼蛇 / 大钢蛇|Dàgāngshé}} || {{#ic:Stahl}}&nbsp;{{#ic:Boden}}
+|-
+| 209 || style="height: 28px;" | {{#icon:209}} || [[Snubbull]] || Snubbull || Snubbull || {{Ruby|ブルー|Bulu}} || {{Ruby|블루|Bullu}} || {{Ruby|布魯 / 布鲁|Bùlǔ}} || {{#ic:Fee}}
+|-
+| 210 || style="height: 28px;" | {{#icon:210}} || [[Granbull]] || Granbull || Granbull || {{Ruby|グランブル|Granbulu}} || {{Ruby|그랑블루|Granbullu}} || {{Ruby|布魯皇 / 布鲁皇|Bùlǔhuáng}} || {{#ic:Fee}}
+|-
+| 211 || style="height: 28px;" | {{#icon:211}} || [[Baldorfish]] || Qwilfish || Qwilfish || {{Ruby|ハリーセン|Harysen}} || {{Ruby|침바루|Chimbaru}} || {{Ruby|千針魚 / 千针鱼|Qiānzhēnyú}} || {{#ic:Wasser}}&nbsp;{{#ic:Gift}}
+|-
+| 212 || style="height: 28px;" | {{#icon:212}} || [[Scherox]] || Scizor || Cizayox || {{Ruby|ハッサム|Hassam}} || {{Ruby|핫삼|Hatsam}} || {{Ruby|巨鉗螳螂 / 巨钳螳螂|Jùqiántángláng}} || {{#ic:Käfer}}&nbsp;{{#ic:Stahl}}
+|-
+| 213 || style="height: 28px;" | {{#icon:213}} || [[Pottrott]] || Shuckle || Caratroc || {{Ruby|ツボツボ|Tsubotsubo}} || {{Ruby|단단지|Dandanji}} || {{Ruby|壺壺 / 壶壶|Húhú}} || {{#ic:Käfer}}&nbsp;{{#ic:Gestein}}
+|-
+| 214 || style="height: 28px;" | {{#icon:214}} || [[Skaraborn]] || Heracross || Scarhino || {{Ruby|ヘラクロス|Heracros}} || {{Ruby|헤라크로스|Heracross}} || {{Ruby|赫拉克羅斯 / 赫拉克罗斯|Hèlākèluósī}} || {{#ic:Käfer}}&nbsp;{{#ic:Kampf}}
+|-
+| 215 || style="height: 28px;" | {{#icon:215}} || [[Sniebel]] || Sneasel || Farfuret || {{Ruby|ニューラ|Nyula}} || {{Ruby|포푸니|Popuni}} || {{Ruby|狃拉 / 狃拉|Niǔlā}} || {{#ic:Unlicht}}&nbsp;{{#ic:Eis}}
+|-
+| 216 || style="height: 28px;" | {{#icon:216}} || [[Teddiursa]] || Teddiursa || Teddiursa || {{Ruby|ヒメグマ|Himeguma}} || {{Ruby|깜지곰|Kkamjigom}} || {{Ruby|熊寶寶 / 熊宝宝|Xióngbǎobǎo}} || {{#ic:Normal}}
+|-
+| 217 || style="height: 28px;" | {{#icon:217}} || [[Ursaring]] || Ursaring || Ursaring || {{Ruby|リングマ|Ringuma}} || {{Ruby|링곰|Ringgom}} || {{Ruby|圈圈熊 / 圈圈熊|Quānquānxióng}} || {{#ic:Normal}}
+|-
+| 218 || style="height: 28px;" | {{#icon:218}} || [[Schneckmag]] || Slugma || Limagma || {{Ruby|マグマッグ|Magmag}} || {{Ruby|마그마그|Magmag}} || {{Ruby|熔岩蟲 / 熔岩虫|Róngyánchóng}} || {{#ic:Feuer}}
+|-
+| 219 || style="height: 28px;" | {{#icon:219}} || [[Magcargo]] || Magcargo || Volcaropod || {{Ruby|マグカルゴ|Magcargot}} || {{Ruby|마그카르고|Magcargo}} || {{Ruby|熔岩蝸牛 / 熔岩蜗牛|Róngyánwōniú}} || {{#ic:Feuer}}&nbsp;{{#ic:Gestein}}
+|-
+| 220 || style="height: 28px;" | {{#icon:220}} || [[Quiekel]] || Swinub || Marcacrin || {{Ruby|ウリムー|Urimoo}} || {{Ruby|꾸꾸리|Kkukkuri}} || {{Ruby|小山豬 / 小山猪|Xiǎoshānzhū}} || {{#ic:Eis}}&nbsp;{{#ic:Boden}}
+|-
+| 221 || style="height: 28px;" | {{#icon:221}} || [[Keifel]] || Piloswine || Cochignon || {{Ruby|イノムー|Inomoo}} || {{Ruby|메꾸리|Mekkuri}} || {{Ruby|長毛豬 / 长毛猪|Chángmáozhū}} || {{#ic:Eis}}&nbsp;{{#ic:Boden}}
+|-
+| 222 || style="height: 28px;" | {{#icon:222}} || [[Corasonn]] || Corsola || Corayon || {{Ruby|サニーゴ|Sunnygo}} || {{Ruby|코산호|Kosanho}} || {{Ruby|太陽珊瑚 / 太阳珊瑚|Tàiyángshānhú}} || {{#ic:Wasser}}&nbsp;{{#ic:Gestein}}
+|-
+| 223 || style="height: 28px;" | {{#icon:223}} || [[Remoraid]] || Remoraid || Rémoraid || {{Ruby|テッポウオ|Teppouo}} || {{Ruby|총어|Chongeo}} || {{Ruby|鐵炮魚 / 铁炮鱼|Tiěpàoyú}} || {{#ic:Wasser}}
+|-
+| 224 || style="height: 28px;" | {{#icon:224}} || [[Octillery]] || Octillery || Octillery || {{Ruby|オクタン|Okutank}} || {{Ruby|대포무노|Daepomuno}} || {{Ruby|章魚桶 / 章鱼桶|Zhāngyútǒng}} || {{#ic:Wasser}}
+|-
+| 225 || style="height: 28px;" | {{#icon:225}} || [[Botogel]] || Delibird || Cadoizo || {{Ruby|デリバード|Delibird}} || {{Ruby|딜리버드|Delibird}} || {{Ruby|信使鳥 / 信使鸟|Xìnshǐniǎo}} || {{#ic:Eis}}&nbsp;{{#ic:Flug}}
+|-
+| 226 || style="height: 28px;" | {{#icon:226}} || [[Mantax]] || Mantine || Démanta || {{Ruby|マンタイン|Mantain}} || {{Ruby|만타인|Mantine}} || {{Ruby|巨翅飛魚 / 巨翅飞鱼|Jùchìfēiyú}} || {{#ic:Wasser}}&nbsp;{{#ic:Flug}}
+|-
+| 227 || style="height: 28px;" | {{#icon:227}} || [[Panzaeron]] || Skarmory || Airmure || {{Ruby|エアームド|Airmd}} || {{Ruby|무장조|Mujangjo}} || {{Ruby|盔甲鳥 / 盔甲鸟|Kuījiǎniǎo}} || {{#ic:Stahl}}&nbsp;{{#ic:Flug}}
+|-
+| 228 || style="height: 28px;" | {{#icon:228}} || [[Hunduster]] || Houndour || Malosse || {{Ruby|デルビル|Delvil}} || {{Ruby|델빌|Delvil}} || {{Ruby|戴魯比 / 戴鲁比|Dàilǔbǐ}} || {{#ic:Unlicht}}&nbsp;{{#ic:Feuer}}
+|-
+| 229 || style="height: 28px;" | {{#icon:229}} || [[Hundemon]] || Houndoom || Démolosse || {{Ruby|ヘルガー|Hellgar}} || {{Ruby|헬가|Helga}} || {{Ruby|黑魯加 / 黑鲁加|Hēilǔjiā}} || {{#ic:Unlicht}}&nbsp;{{#ic:Feuer}}
+|-
+| 230 || style="height: 28px;" | {{#icon:230}} || [[Seedraking]] || Kingdra || Hyporoi || {{Ruby|キングドラ|Kingdra}} || {{Ruby|킹드라|Kingdra}} || {{Ruby|刺龍王 / 刺龙王|Cìlóngwáng}} || {{#ic:Wasser}}&nbsp;{{#ic:Drache}}
+|-
+| 231 || style="height: 28px;" | {{#icon:231}} || [[Phanpy]] || Phanpy || Phanpy || {{Ruby|ゴマゾウ|Gomazou}} || {{Ruby|코코리|Kokori}} || {{Ruby|小小象 / 小小象|Xiǎoxiǎoxiàng}} || {{#ic:Boden}}
+|-
+| 232 || style="height: 28px;" | {{#icon:232}} || [[Donphan]] || Donphan || Donphan || {{Ruby|ドンファン|Donfan}} || {{Ruby|코리갑|Korigap}} || {{Ruby|頓甲 / 顿甲|Dùnjiǎ}} || {{#ic:Boden}}
+|-
+| 233 || style="height: 28px;" | {{#icon:233}} || [[Porygon2]] || Porygon2 || Porygon2 || {{Ruby|ポリゴン２|Porygon2}} || {{Ruby|폴리곤2|Porygon2}} || {{Ruby|多邊獸Ⅱ / {{tt|多边兽2型|früher: 多边兽Ⅱ}}|DuōbiānshòuII / Duōbiānshòu2xíng}} || {{#ic:Normal}}
+|-
+| 234 || style="height: 28px;" | {{#icon:234}} || [[Damhirplex]] || Stantler || Cerfrousse || {{Ruby|オドシシ|Odoshishi}} || {{Ruby|노라키|Noraki}} || {{Ruby|驚角鹿 / 惊角鹿|Jīngjiǎolù}} || {{#ic:Normal}}
+|-
+| 235 || style="height: 28px;" | {{#icon:235}} || [[Farbeagle]] || Smeargle || Queulorior || {{Ruby|ドーブル|Doble}} || {{Ruby|루브도|Rubeudo}} || {{Ruby|圖圖犬 / 图图犬|Tútúquǎn}} || {{#ic:Normal}}
+|-
+| 236 || style="height: 28px;" | {{#icon:236}} || [[Rabauz]] || Tyrogue || Debugant || {{Ruby|バルキー|Balkie}} || {{Ruby|배루키|Baeruki}} || {{Ruby|無畏小子 / 无畏小子|Wúwèixiǎozǐ}} || {{#ic:Kampf}}
+|-
+| 237 || style="height: 28px;" | {{#icon:237}} || [[Kapoera]] || Hitmontop || Kapoera || {{Ruby|カポエラー|Kapoerer}} || {{Ruby|카포에라|Kapoera}} || {{Ruby|戰舞郎 / 战舞郎|Zhànwǔláng}} || {{#ic:Kampf}}
+|-
+| 238 || style="height: 28px;" | {{#icon:238}} || [[Kussilla]] || Smoochum || Lippouti || {{Ruby|ムチュール|Muchul}} || {{Ruby|뽀뽀라|Ppoppora}} || {{Ruby|迷唇娃 / 迷唇娃|Míchúnwá}} || {{#ic:Eis}}&nbsp;{{#ic:Psycho}}
+|-
+| 239 || style="height: 28px;" | {{#icon:239}} || [[Elekid]] || Elekid || Élekid || {{Ruby|エレキッド|Elekid}} || {{Ruby|에레키드|Elekid}} || {{Ruby|電擊怪 / 电击怪|Diànjīguài}} || {{#ic:Elektro}}
+|-
+| 240 || style="height: 28px;" | {{#icon:240}} || [[Magby]] || Magby || Magby || {{Ruby|ブビィ|Buby}} || {{Ruby|마그비|Magby}} || {{Ruby|鴨嘴寶寶 / 鸭嘴宝宝|Yāzuǐbǎobǎo}} || {{#ic:Feuer}}
+|-
+| 241 || style="height: 28px;" | {{#icon:241}} || [[Miltank]] || Miltank || Écrémeuh || {{Ruby|ミルタンク|Miltank}} || {{Ruby|밀탱크|Miltank}} || {{Ruby|大奶罐 / 大奶罐|Dànǎiguàn}} || {{#ic:Normal}}
+|-
+| 242 || style="height: 28px;" | {{#icon:242}} || [[Heiteira]] || Blissey || Leuphorie || {{Ruby|ハピナス|Happinas}} || {{Ruby|해피너스|Happynus}} || {{Ruby|幸福蛋 / 幸福蛋|Xìngfúdàn}} || {{#ic:Normal}}
+|-
+| 243 || style="height: 28px;" | {{#icon:243}} || [[Raikou]] || Raikou || Raikou || {{Ruby|ライコウ|Raikou}} || {{Ruby|라이코|Raikou}} || {{Ruby|雷公 / 雷公|Léigōng}} || {{#ic:Elektro}}
+|-
+| 244 || style="height: 28px;" | {{#icon:244}} || [[Entei]] || Entei || Entei || {{Ruby|エンテイ|Entei}} || {{Ruby|앤테이|Entei}} || {{Ruby|炎帝 / 炎帝|Yándì}} || {{#ic:Feuer}}
+|-
+| 245 || style="height: 28px;" | {{#icon:245}} || [[Suicune]] || Suicune || Suicune || {{Ruby|スイクン|Suicune}} || {{Ruby|스이쿤|Suicune}} || {{Ruby|水君 / 水君|Shuǐjūn}} || {{#ic:Wasser}}
+|-
+| 246 || style="height: 28px;" | {{#icon:246}} || [[Larvitar]] || Larvitar || Embrylex || {{Ruby|ヨーギラス|Yogiras}} || {{Ruby|애버라스|Aebeoras}} || {{Ruby|幼基拉斯 / 幼基拉斯|Yòujīlāsī}} || {{#ic:Gestein}}&nbsp;{{#ic:Boden}}
+|-
+| 247 || style="height: 28px;" | {{#icon:247}} || [[Pupitar]] || Pupitar || Ymphect || {{Ruby|サナギラス|Sanagiras}} || {{Ruby|데기라스|Degiras}} || {{Ruby|沙基拉斯 / 沙基拉斯|Shājīlāsī}} || {{#ic:Gestein}}&nbsp;{{#ic:Boden}}
+|-
+| 248 || style="height: 28px;" | {{#icon:248}} || [[Despotar]] || Tyranitar || Tyranocif || {{Ruby|バンギラス|Bangiras}} || {{Ruby|마기라스|Magiras}} || {{Ruby|班基拉斯 / 班基拉斯|Bānjīlāsī}} || {{#ic:Gestein}}&nbsp;{{#ic:Unlicht}}
+|-
+| 249 || style="height: 28px;" | {{#icon:249}} || [[Lugia]] || Lugia || Lugia || {{Ruby|ルギア|Lugia}} || {{Ruby|루기아|Rugia}} || {{Ruby|洛奇亞 / 洛奇亚|Luòqíyà}} || {{#ic:Psycho}}&nbsp;{{#ic:Flug}}
+|-
+| 250 || style="height: 28px;" | {{#icon:250}} || [[Ho-Oh]] || Ho-Oh || Ho-Oh || {{Ruby|ホウオウ|Houou}} || {{Ruby|칠색조|Chilsaeckjo}} || {{Ruby|鳳王 / 凤王|Fèngwáng}} || {{#ic:Feuer}}&nbsp;{{#ic:Flug}}
+|-
+| 251 || style="height: 28px;" | {{#icon:251}} || [[Celebi]] || Celebi || Celebi || {{Ruby|セレビィ|Celebi}} || {{Ruby|세레비|Celebi}} || {{Ruby|時拉比 / 时拉比|Shílābǐ}} || {{#ic:Psycho}}&nbsp;{{#ic:Pflanze}}
+|-
+| <span id="nr252"></span> 252 || style="height: 28px;" | {{#icon:252}} || [[Geckarbor]] || Treecko || Arcko || {{Ruby|キモリ|Kimori}} || {{Ruby|나무지기|Namujigi}} || {{Ruby|木守宮 / 木守宫|Mùshǒugōng}} || {{#ic:Pflanze}}
+|-
+| 253 || style="height: 28px;" | {{#icon:253}} || [[Reptain]] || Grovyle || Massko || {{Ruby|ジュプトル|Juptile}} || {{Ruby|나무돌이|Namudori}} || {{Ruby|森林蜥蜴 / 森林蜥蜴|Sēnlínxīyì}} || {{#ic:Pflanze}}
+|-
+| 254 || style="height: 28px;" | {{#icon:254}} || [[Gewaldro]] || Sceptile || Jungko || {{Ruby|ジュカイン|Jukain}} || {{Ruby|나무킹|Namuking}} || {{Ruby|蜥蜴王 / 蜥蜴王|Xīyìwáng}} || {{#ic:Pflanze}}
+|-
+| 255 || style="height: 28px;" | {{#icon:255}} || [[Flemmli]] || Torchic || Poussifeu || {{Ruby|アチャモ|Achamo}} || {{Ruby|아차모|Achamo}} || {{Ruby|火稚雞 / 火稚鸡|Huǒzhìjī}} || {{#ic:Feuer}}
+|-
+| 256 || style="height: 28px;" | {{#icon:256}} || [[Jungglut]] || Combusken || Galifeu || {{Ruby|ワカシャモ|Wakasyamo}} || {{Ruby|영치코|Youngchiko}} || {{Ruby|力壯雞 / 力壮鸡|Lìzhuàngjī}} || {{#ic:Feuer}}&nbsp;{{#ic:Kampf}}
+|-
+| 257 || style="height: 28px;" | {{#icon:257}} || [[Lohgock]] || Blaziken || Braségali || {{Ruby|バシャーモ|Bursyamo}} || {{Ruby|번치코|Bunchiko}} || {{Ruby|火焰雞 / 火焰鸡|Huǒyànjī}} || {{#ic:Feuer}}&nbsp;{{#ic:Kampf}}
+|-
+| 258 || style="height: 28px;" | {{#icon:258}} || [[Hydropi]] || Mudkip || Gobou || {{Ruby|ミズゴロウ|Mizugorou}} || {{Ruby|물짱이|Muljjangi}} || {{Ruby|水躍魚 / 水跃鱼|Shuǐyuèyú}} || {{#ic:Wasser}}
+|-
+| 259 || style="height: 28px;" | {{#icon:259}} || [[Moorabbel]] || Marshtomp || Flobio || {{Ruby|ヌマクロー|Numacraw}} || {{Ruby|늪짱이|Nupjjangi}} || {{Ruby|沼躍魚 / 沼跃鱼|Zhǎoyuèyú}} || {{#ic:Wasser}}&nbsp;{{#ic:Boden}}
+|-
+| 260 || style="height: 28px;" | {{#icon:260}} || [[Sumpex]] || Swampert || Laggron || {{Ruby|ラグラージ|Laglarge}} || {{Ruby|대짱이|Daejjangi}} || {{Ruby|巨沼怪 / 巨沼怪|Jùzhǎoguài}} || {{#ic:Wasser}}&nbsp;{{#ic:Boden}}
+|-
+| 261 || style="height: 28px;" | {{#icon:261}} || [[Fiffyen]] || Poochyena || Medhyèna || {{Ruby|ポチエナ|Pochiena}} || {{Ruby|포챠나|Pochana}} || {{Ruby|土狼犬 / 土狼犬|Tǔlángquǎn}} || {{#ic:Unlicht}}
+|-
+| 262 || style="height: 28px;" | {{#icon:262}} || [[Magnayen]] || Mightyena || Grahyèna || {{Ruby|グラエナ|Graena}} || {{Ruby|그라에나|Guraeana}} || {{Ruby|大狼犬 / 大狼犬|Dàlángquǎn}} || {{#ic:Unlicht}}
+|-
+| 263 || style="height: 28px;" | {{#icon:263}} || [[Zigzachs]] || Zigzagoon || Zigzaton || {{Ruby|ジグザグマ|Jiguzaguma}} || {{Ruby|지그제구리|Jigujaeguri}} || {{Ruby|蛇紋熊 / 蛇纹熊|Shéwénxióng}} || {{#ic:Normal}}
+|-
+| 264 || style="height: 28px;" | {{#icon:264}} || [[Geradaks]] || Linoone || Linéon || {{Ruby|マッスグマ|Massuguma}} || {{Ruby|직구리|Jikguli}} || {{Ruby|直衝熊 / 直冲熊|Zhíchōngxióng}} || {{#ic:Normal}}
+|-
+| 265 || style="height: 28px;" | {{#icon:265}} || [[Waumpel]] || Wurmple || Chenipotte || {{Ruby|ケムッソ|Kemusso}} || {{Ruby|개무소|Gaemuso}} || {{Ruby|刺尾蟲 / 刺尾虫|Cìwěichóng}} || {{#ic:Käfer}}
+|-
+| 266 || style="height: 28px;" | {{#icon:266}} || [[Schaloko]] || Silcoon || Armulys || {{Ruby|カラサリス|Karasalis}} || {{Ruby|실쿤|Silcoon}} || {{Ruby|甲殼繭 / 甲壳茧|Jiǎkéjiǎn}} || {{#ic:Käfer}}
+|-
+| 267 || style="height: 28px;" | {{#icon:267}} || [[Papinella]] || Beautifly || Charmillon || {{Ruby|アゲハント|Agehunt}} || {{Ruby|뷰티플라이|Beautifly}} || {{Ruby|狩獵鳳蝶 / 狩猎凤蝶|Shòulièfèngdié}} || {{#ic:Käfer}}&nbsp;{{#ic:Flug}}
+|-
+| 268 || style="height: 28px;" | {{#icon:268}} || [[Panekon]] || Cascoon || Blindalys || {{Ruby|マユルド|Mayuld}} || {{Ruby|카스쿤|Cascoon}} || {{Ruby|盾甲繭 / 盾甲茧|Dùnjiǎjiǎn}} || {{#ic:Käfer}}
+|-
+| 269 || style="height: 28px;" | {{#icon:269}} || [[Pudox]] || Dustox || Papinox || {{Ruby|ドクケイル|Dokucale}} || {{Ruby|독케일|Dokkeil}} || {{Ruby|毒粉蛾 / 毒粉蛾|Dúfěn'é}} || {{#ic:Käfer}}&nbsp;{{#ic:Gift}}
+|-
+| 270 || style="height: 28px;" | {{#icon:270}} || [[Loturzel]] || Lotad || Nénupiot || {{Ruby|ハスボー|Hassboh}} || {{Ruby|연꽃몬|Yeonkkotmon}} || {{Ruby|蓮葉童子 / 莲叶童子|Liányètóngzǐ}} || {{#ic:Wasser}}&nbsp;{{#ic:Pflanze}}
+|-
+| 271 || style="height: 28px;" | {{#icon:271}} || [[Lombrero]] || Lombre || Lombre || {{Ruby|ハスブレロ|Hasubrero}} || {{Ruby|로토스|Rotosu}} || {{Ruby|蓮帽小童 / 莲帽小童|Liánmàoxiǎotóng}} || {{#ic:Wasser}}&nbsp;{{#ic:Pflanze}}
+|-
+| 272 || style="height: 28px;" | {{#icon:272}} || [[Kappalores]] || Ludicolo || Ludicolo || {{Ruby|ルンパッパ|Runpappa}} || {{Ruby|로파파|Ropapa}} || {{Ruby|樂天河童 / 乐天河童|Lètiānhétóng}} || {{#ic:Wasser}}&nbsp;{{#ic:Pflanze}}
+|-
+| 273 || style="height: 28px;" | {{#icon:273}} || [[Samurzel]] || Seedot || Grainipiot || {{Ruby|タネボー|Taneboh}} || {{Ruby|도토링|Dotoring}} || {{Ruby|橡實果 / 橡实果|Xiàngshíguǒ}} || {{#ic:Pflanze}}
+|-
+| 274 || style="height: 28px;" | {{#icon:274}} || [[Blanas]] || Nuzleaf || Pifeuil || {{Ruby|コノハナ|Konohana}} || {{Ruby|잎새코|Ipseko}} || {{Ruby|長鼻葉 / 长鼻叶|Chángbíyè}} || {{#ic:Pflanze}}&nbsp;{{#ic:Unlicht}}
+|-
+| 275 || style="height: 28px;" | {{#icon:275}} || [[Tengulist]] || Shiftry || Tengalice || {{Ruby|ダーテング|Dirteng}} || {{Ruby|다탱구|Datenggu}} || {{Ruby|狡猾天狗 / 狡猾天狗|Jiǎohuátiāngǒu}} || {{#ic:Pflanze}}&nbsp;{{#ic:Unlicht}}
+|-
+| 276 || style="height: 28px;" | {{#icon:276}} || [[Schwalbini]] || Taillow || Nirondelle || {{Ruby|スバメ|Subame}} || {{Ruby|테일로|Tailow}} || {{Ruby|傲骨燕 / 傲骨燕|Àogǔyàn}} || {{#ic:Normal}}&nbsp;{{#ic:Flug}}
+|-
+| 277 || style="height: 28px;" | {{#icon:277}} || [[Schwalboss]] || Swellow || Hélédelle || {{Ruby|オオスバメ|Ohsubame}} || {{Ruby|스왈로|Swalow}} || {{Ruby|大王燕 / 大王燕|Dàwángyàn}} || {{#ic:Normal}}&nbsp;{{#ic:Flug}}
+|-
+| 278 || style="height: 28px;" | {{#icon:278}} || [[Wingull]] || Wingull || Goélise || {{Ruby|キャモメ|Camome}} || {{Ruby|갈모매|Galmomae}} || {{Ruby|長翅鷗 / 长翅鸥|Chángchì'ōu}} || {{#ic:Wasser}}&nbsp;{{#ic:Flug}}
+|-
+| 279 || style="height: 28px;" | {{#icon:279}} || [[Pelipper]] || Pelipper || Bekipan || {{Ruby|ペリッパー|Pelipper}} || {{Ruby|패리퍼|Pelipper}} || {{Ruby|大嘴鷗 / 大嘴鸥|Dàzuǐ'ōu}} || {{#ic:Wasser}}&nbsp;{{#ic:Flug}}
+|-
+| 280 || style="height: 28px;" | {{#icon:280}} || [[Trasla]] || Ralts || Tarsal || {{Ruby|ラルトス|Ralts}} || {{Ruby|랄토스|Raltos}} || {{Ruby|拉魯拉絲 / 拉鲁拉丝|Lālǔlāsī}} || {{#ic:Psycho}}&nbsp;{{#ic:Fee}}
+|-
+| 281 || style="height: 28px;" | {{#icon:281}} || [[Kirlia]] || Kirlia || Kirlia || {{Ruby|キルリア|Kirlia}} || {{Ruby|킬리아|Kirlia}} || {{Ruby|奇魯莉安 / 奇鲁莉安|Qílǔlì'ān}} || {{#ic:Psycho}}&nbsp;{{#ic:Fee}}
+|-
+| 282 || style="height: 28px;" | {{#icon:282}} || [[Guardevoir]] || Gardevoir || Gardevoir || {{Ruby|サーナイト|Sirnight}} || {{Ruby|가디안|Gadian}} || {{Ruby|沙奈朵 / 沙奈朵|Shānàiduǒ}} || {{#ic:Psycho}}&nbsp;{{#ic:Fee}}
+|-
+| 283 || style="height: 28px;" | {{#icon:283}} || [[Gehweiher]] || Surskit || Arakdo || {{Ruby|アメタマ|Ametama}} || {{Ruby|비구술|Bigusul}} || {{Ruby|溜溜糖球 / 溜溜糖球|Liūliūtángqiú}} || {{#ic:Käfer}}&nbsp;{{#ic:Wasser}}
+|-
+| 284 || style="height: 28px;" | {{#icon:284}} || [[Maskeregen]] || Masquerain || Maskadra || {{Ruby|アメモース|Amemoth}} || {{Ruby|비나방|Binabang}} || {{Ruby|雨翅蛾 / 雨翅蛾|Yǔchì'é}} || {{#ic:Käfer}}&nbsp;{{#ic:Flug}}
+|-
+| 285 || style="height: 28px;" | {{#icon:285}} || [[Knilz]] || Shroomish || Balignon || {{Ruby|キノココ|Kinococo}} || {{Ruby|버섯꼬|Bosotkko}} || {{Ruby|蘑蘑菇 / 蘑蘑菇|Mómógū}} || {{#ic:Pflanze}}
+|-
+| 286 || style="height: 28px;" | {{#icon:286}} || [[Kapilz]] || Breloom || Chapignon || {{Ruby|キノガッサ|Kinogassa}} || {{Ruby|버섯모|Bosotmo}} || {{Ruby|斗笠菇 / 斗笠菇|Dǒulìgū}} || {{#ic:Pflanze}}&nbsp;{{#ic:Kampf}}
+|-
+| 287 || style="height: 28px;" | {{#icon:287}} || [[Bummelz]] || Slakoth || Parecool || {{Ruby|ナマケロ|Namakero}} || {{Ruby|게을로|Geulro}} || {{Ruby|懶人獺 / 懒人獭|Lǎnréntǎ}} || {{#ic:Normal}}
+|-
+| 288 || style="height: 28px;" | {{#icon:288}} || [[Muntier]] || Vigoroth || Vigoroth || {{Ruby|ヤルキモノ|Yarukimono}} || {{Ruby|발바로|Balbaro}} || {{Ruby|過動猿 / 过动猿|Guòdòngyuán}} || {{#ic:Normal}}
+|-
+| 289 || style="height: 28px;" | {{#icon:289}} || [[Letarking]] || Slaking || Monaflèmit || {{Ruby|ケッキング|Kekking}} || {{Ruby|게을킹|Geulking}} || {{Ruby|請假王 / 请假王|Qǐngjiàwáng}} || {{#ic:Normal}}
+|-
+| 290 || style="height: 28px;" | {{#icon:290}} || [[Nincada]] || Nincada || Ningale || {{Ruby|ツチニン|Tutinin}} || {{Ruby|토중몬|Tojungmon}} || {{Ruby|土居忍士 / 土居忍士|Tǔjūrěnshì}} || {{#ic:Käfer}}&nbsp;{{#ic:Boden}}
+|-
+| 291 || style="height: 28px;" | {{#icon:291}} || [[Ninjask]] || Ninjask || Ninjask || {{Ruby|テッカニン|Tekkanin}} || {{Ruby|아이스크|Aisukeu}} || {{Ruby|鐵面忍者 / 铁面忍者|Tiěmiànrěnzhě}} || {{#ic:Käfer}}&nbsp;{{#ic:Flug}}
+|-
+| 292 || style="height: 28px;" | {{#icon:292}} || [[Ninjatom]] || Shedinja || Munja || {{Ruby|ヌケニン|Nukenin}} || {{Ruby|껍질몬|Kkubjilmon}} || {{Ruby|脫殼忍者 / 脱壳忍者|Tuōkérěnzhě}} || {{#ic:Käfer}}&nbsp;{{#ic:Geist}}
+|-
+| 293 || style="height: 28px;" | {{#icon:293}} || [[Flurmel]] || Whismur || Chuchmur || {{Ruby|ゴニョニョ|Gonyonyo}} || {{Ruby|소곤룡|Sogonryong}} || {{Ruby|咕妞妞 / 咕妞妞|Gūniūniū}} || {{#ic:Normal}}
+|-
+| 294 || style="height: 28px;" | {{#icon:294}} || [[Krakeelo]] || Loudred || Ramboum || {{Ruby|ドゴーム|Dogohmb}} || {{Ruby|노공룡|Nogonryong}} || {{Ruby|吼爆彈 / 吼爆弹|Hǒubàodàn}} || {{#ic:Normal}}
+|-
+| 295 || style="height: 28px;" | {{#icon:295}} || [[Krawumms]] || Exploud || Brouhabam || {{Ruby|バクオング|Bakuong}} || {{Ruby|폭음룡|Pokumryong}} || {{Ruby|爆音怪 / 爆音怪|Bàoyīnguài}} || {{#ic:Normal}}
+|-
+| 296 || style="height: 28px;" | {{#icon:296}} || [[Makuhita]] || Makuhita || Makuhita || {{Ruby|マクノシタ|Makunoshita}} || {{Ruby|마크탕|Makeutang}} || {{Ruby|幕下力士 / 幕下力士|Mùxiàlìshì}} || {{#ic:Kampf}}
+|-
+| 297 || style="height: 28px;" | {{#icon:297}} || [[Hariyama]] || Hariyama || Hariyama || {{Ruby|ハリテヤマ|Hariteyama}} || {{Ruby|하리뭉|Harimung}} || {{Ruby|鐵掌力士 / 铁掌力士|Tiězhǎnglìshì}} || {{#ic:Kampf}}
+|-
+| 298 || style="height: 28px;" | {{#icon:298}} || [[Azurill]] || Azurill || Azurill || {{Ruby|ルリリ|Ruriri}} || {{Ruby|루리리|Ruriri}} || {{Ruby|露力麗 / 露力丽|Lùlìlí}} || {{#ic:Normal}}&nbsp;{{#ic:Fee}}
+|-
+| 299 || style="height: 28px;" | {{#icon:299}} || [[Nasgnet]] || Nosepass || Tarinor || {{Ruby|ノズパス|Nosepass}} || {{Ruby|코코파스|Kokopas}} || {{Ruby|朝北鼻 / 朝北鼻|Cháoběibí}} || {{#ic:Gestein}}
+|-
+| 300 || style="height: 28px;" | {{#icon:300}} || [[Eneco]] || Skitty || Skitty || {{Ruby|エネコ|Eneco}} || {{Ruby|에나비|Enabi}} || {{Ruby|向尾喵 / 向尾喵|Xiàngwěimiāo}} || {{#ic:Normal}}
+|-
+| 301 || style="height: 28px;" | {{#icon:301}} || [[Enekoro]] || Delcatty || Delcatty || {{Ruby|エネコロロ|Enekororo}} || {{Ruby|델케티|Delcatty}} || {{Ruby|優雅貓 / 优雅猫|Yōuyǎmāo}} || {{#ic:Normal}}
+|-
+| 302 || style="height: 28px;" | {{#icon:302}} || [[Zobiris]] || Sableye || Ténéfix || {{Ruby|ヤミラミ|Yamirami}} || {{Ruby|깜까미|Kamkami}} || {{Ruby|勾魂眼 / 勾魂眼|Gōuhúnyǎn}} || {{#ic:Unlicht}}&nbsp;{{#ic:Geist}}
+|-
+| 303 || style="height: 28px;" | {{#icon:303}} || [[Flunkifer]] || Mawile || Mysdibule || {{Ruby|クチート|Kucheat}} || {{Ruby|입치트|Ipchitt}} || {{Ruby|大嘴娃 / 大嘴娃|Dàzuǐwá}} || {{#ic:Stahl}}&nbsp;{{#ic:Fee}}
+|-
+| 304 || style="height: 28px;" | {{#icon:304}} || [[Stollunior]] || Aron || Galekid || {{Ruby|ココドラ|Cokodora}} || {{Ruby|가보리|Gabori}} || {{Ruby|可可多拉 / 可可多拉|Kěkěduōlā}} || {{#ic:Stahl}}&nbsp;{{#ic:Gestein}}
+|-
+| 305 || style="height: 28px;" | {{#icon:305}} || [[Stollrak]] || Lairon || Galegon || {{Ruby|コドラ|Kodora}} || {{Ruby|갱도라|Gaengdora}} || {{Ruby|可多拉 / 可多拉|Kěduōlā}} || {{#ic:Stahl}}&nbsp;{{#ic:Gestein}}
+|-
+| 306 || style="height: 28px;" | {{#icon:306}} || [[Stolloss]] || Aggron || Galeking || {{Ruby|ボスゴドラ|Bossgodora}} || {{Ruby|보스로라|Bosrora}} || {{Ruby|波士可多拉 / 波士可多拉|Bōshìkěduōlā}} || {{#ic:Stahl}}&nbsp;{{#ic:Gestein}}
+|-
+| 307 || style="height: 28px;" | {{#icon:307}} || [[Meditie]] || Meditite || Méditikka || {{Ruby|アサナン|Asanan}} || {{Ruby|요가랑|Yogarang}} || {{Ruby|瑪沙那 / 玛沙那|Mǎshānà}} || {{#ic:Kampf}}&nbsp;{{#ic:Psycho}}
+|-
+| 308 || style="height: 28px;" | {{#icon:308}} || [[Meditalis]] || Medicham || Charmina || {{Ruby|チャーレム|Charem}} || {{Ruby|요가램|Yogaram}} || {{Ruby|恰雷姆 / 恰雷姆|Qiàléimǔ}} || {{#ic:Kampf}}&nbsp;{{#ic:Psycho}}
+|-
+| 309 || style="height: 28px;" | {{#icon:309}} || [[Frizelbliz]] || Electrike || Dynavolt || {{Ruby|ラクライ|Rakurai}} || {{Ruby|썬더라이|Thunderai}} || {{Ruby|落雷獸 / 落雷兽|Luòléishòu}} || {{#ic:Elektro}}
+|-
+| 310 || style="height: 28px;" | {{#icon:310}} || [[Voltenso]] || Manectric || Élecsprint || {{Ruby|ライボルト|Livolt}} || {{Ruby|썬더볼트|Thundervolt}} || {{Ruby|雷電獸 / 雷电兽|Léidiànshòu}} || {{#ic:Elektro}}
+|-
+| 311 || style="height: 28px;" | {{#icon:311}} || [[Plusle]] || Plusle || Posipi || {{Ruby|プラスル|Prasle}} || {{Ruby|플러시|Plusy}} || {{Ruby|正電拍拍 / 正电拍拍|Zhèngdiànpāipāi}} || {{#ic:Elektro}}
+|-
+| 312 || style="height: 28px;" | {{#icon:312}} || [[Minun]] || Minun || Négapi || {{Ruby|マイナン|Minun}} || {{Ruby|마이농|Mainong}} || {{Ruby|負電拍拍 / 负电拍拍|Fùdiànpāipāi}} || {{#ic:Elektro}}
+|-
+| 313 || style="height: 28px;" | {{#icon:313}} || [[Volbeat]] || Volbeat || Muciole || {{Ruby|バルビート|Barubeat}} || {{Ruby|볼비트|Volbeat}} || {{Ruby|電螢蟲 / 电萤虫|Diànyíngchóng}} || {{#ic:Käfer}}
+|-
+| 314 || style="height: 28px;" | {{#icon:314}} || [[Illumise]] || Illumise || Lumivole || {{Ruby|イルミーゼ|Illumise}} || {{Ruby|네오비트|Neobeat}} || {{Ruby|甜甜螢 / 甜甜萤|Tiántiányíng}} || {{#ic:Käfer}}
+|-
+| 315 || style="height: 28px;" | {{#icon:315}} || [[Roselia]] || Roselia || Rosélia || {{Ruby|ロゼリア|Roselia}} || {{Ruby|로젤리아|Rozelia}} || {{Ruby|毒薔薇 / 毒蔷薇|Dúqiángwēi}} || {{#ic:Pflanze}}&nbsp;{{#ic:Gift}}
+|-
+| 316 || style="height: 28px;" | {{#icon:316}} || [[Schluppuck]] || Gulpin || Gloupti || {{Ruby|ゴクリン|Gokulin}} || {{Ruby|꼴깍몬|Kolkkakmon}} || {{Ruby|溶食獸 / 溶食兽|Róngshíshòu}} || {{#ic:Gift}}
+|-
+| 317 || style="height: 28px;" | {{#icon:317}} || [[Schlukwech]] || Swalot || Avaltout || {{Ruby|マルノーム|Marunoom}} || {{Ruby|꿀꺽몬|Koolkkokmon}} || {{Ruby|吞食獸 / 吞食兽|Tūnshíshòu}} || {{#ic:Gift}}
+|-
+| 318 || style="height: 28px;" | {{#icon:318}} || [[Kanivanha]] || Carvanha || Carvanha || {{Ruby|キバニア|Kibanha}} || {{Ruby|샤프니아|Sharpnia}} || {{Ruby|利牙魚 / 利牙鱼|Lìyáyú}} || {{#ic:Wasser}}&nbsp;{{#ic:Unlicht}}
+|-
+| 319 || style="height: 28px;" | {{#icon:319}} || [[Tohaido]] || Sharpedo || Sharpedo || {{Ruby|サメハダー|Samehader}} || {{Ruby|샤크니아|Sharknia}} || {{Ruby|巨牙鯊 / 巨牙鲨|Jùyáshā}} || {{#ic:Wasser}}&nbsp;{{#ic:Unlicht}}
+|-
+| 320 || style="height: 28px;" | {{#icon:320}} || [[Wailmer]] || Wailmer || Wailmer || {{Ruby|ホエルコ|Hoeruko}} || {{Ruby|고래왕자|Goraewangja}} || {{Ruby|吼吼鯨 / 吼吼鲸|Hǒuhǒujīng}} || {{#ic:Wasser}}
+|-
+| 321 || style="height: 28px;" | {{#icon:321}} || [[Wailord]] || Wailord || Wailord || {{Ruby|ホエルオー|Whaloh}} || {{Ruby|고래왕|Goraewang}} || {{Ruby|吼鯨王 / 吼鲸王|Hǒujīngwáng}} || {{#ic:Wasser}}
+|-
+| 322 || style="height: 28px;" | {{#icon:322}} || [[Camaub]] || Numel || Chamallot || {{Ruby|ドンメル|Donmel}} || {{Ruby|둔타|Doonta}} || {{Ruby|呆火駝 / 呆火驼|Dāihuǒtuó}} || {{#ic:Feuer}}&nbsp;{{#ic:Boden}}
+|-
+| 323 || style="height: 28px;" | {{#icon:323}} || [[Camerupt]] || Camerupt || Camérupt || {{Ruby|バクーダ|Bakuuda}} || {{Ruby|폭타|Pokta}} || {{Ruby|噴火駝 / 喷火驼|Pēnhuǒtuó}} || {{#ic:Feuer}}&nbsp;{{#ic:Boden}}
+|-
+| 324 || style="height: 28px;" | {{#icon:324}} || [[Qurtel]] || Torkoal || Chartor || {{Ruby|コータス|Cotoise}} || {{Ruby|코터스|Kotas}} || {{Ruby|煤炭龜 / 煤炭龟|Méitànguī}} || {{#ic:Feuer}}
+|-
+| 325 || style="height: 28px;" | {{#icon:325}} || [[Spoink]] || Spoink || Spoink || {{Ruby|バネブー|Baneboo}} || {{Ruby|피그점프|Pigjump}} || {{Ruby|跳跳豬 / 跳跳猪|Tiàotiàozhū}} || {{#ic:Psycho}}
+|-
+| 326 || style="height: 28px;" | {{#icon:326}} || [[Groink]] || Grumpig || Groret || {{Ruby|ブーピッグ|Boopig}} || {{Ruby|피그킹|Pigking}} || {{Ruby|噗噗豬 / 噗噗猪|Pūpūzhū}} || {{#ic:Psycho}}
+|-
+| 327 || style="height: 28px;" | {{#icon:327}} || [[Pandir]] || Spinda || Spinda || {{Ruby|パッチール|Patcheel}} || {{Ruby|얼루기|Ollugi}} || {{Ruby|晃晃斑 / 晃晃斑|Huànghuàngbān}} || {{#ic:Normal}}
+|-
+| 328 || style="height: 28px;" | {{#icon:328}} || [[Knacklion]] || Trapinch || Kraknoix || {{Ruby|ナックラー|Nuckrar}} || {{Ruby|톱치|Topchi}} || {{Ruby|大顎蟻 / 大颚蚁|Dà‘èyǐ}} || {{#ic:Boden}}
+|-
+| 329 || style="height: 28px;" | {{#icon:329}} || [[Vibrava]] || Vibrava || Vibraninf || {{Ruby|ビブラーバ|Vibrava}} || {{Ruby|비브라바|Vibrava}} || {{Ruby|超音波幼蟲 / 超音波幼虫|Chāoyīnbōyòuchóng}} || {{#ic:Boden}}&nbsp;{{#ic:Drache}}
+|-
+| 330 || style="height: 28px;" | {{#icon:330}} || [[Libelldra]] || Flygon || Libégon || {{Ruby|フライゴン|Flygon}} || {{Ruby|플라이곤|Flygon}} || {{Ruby|沙漠蜻蜓 / 沙漠蜻蜓|Shāmòqīngtíng}} || {{#ic:Boden}}&nbsp;{{#ic:Drache}}
+|-
+| 331 || style="height: 28px;" | {{#icon:331}} || [[Tuska]] || Cacnea || Cacnea || {{Ruby|サボネア|Sabonea}} || {{Ruby|선인왕|Seoninwang}} || {{Ruby|刺球仙人掌 / 刺球仙人掌|Cìqiúxiānrénzhǎng}} || {{#ic:Pflanze}}
+|-
+| 332 || style="height: 28px;" | {{#icon:332}} || [[Noktuska]] || Cacturne || Cacturne || {{Ruby|ノクタス|Noctus}} || {{Ruby|밤선인|Bamseonin}} || {{Ruby|夢歌仙人掌 / 梦歌仙人掌|Mènggēxiānrénzhǎng}} || {{#ic:Pflanze}}&nbsp;{{#ic:Unlicht}}
+|-
+| 333 || style="height: 28px;" | {{#icon:333}} || [[Wablu]] || Swablu || Tylton || {{Ruby|チルット|Tyltto}} || {{Ruby|파비코|Pavico}} || {{Ruby|青綿鳥 / 青绵鸟|Qīngmiánniǎo}} || {{#ic:Normal}}&nbsp;{{#ic:Flug}}
+|-
+| 334 || style="height: 28px;" | {{#icon:334}} || [[Altaria]] || Altaria || Altaria || {{Ruby|チルタリス|Tyltalis}} || {{Ruby|파비코리|Pavicori}} || {{Ruby|七夕青鳥 / 七夕青鸟|Qīxīqīngniǎo}} || {{#ic:Drache}}&nbsp;{{#ic:Flug}}
+|-
+| 335 || style="height: 28px;" | {{#icon:335}} || [[Sengo]] || Zangoose || Mangriff || {{Ruby|ザングース|Zangoose}} || {{Ruby|쟝고|Zanggo}} || {{Ruby|貓鼬斬 / 猫鼬斩|Māoyòuzhǎn}} || {{#ic:Normal}}
+|-
+| 336 || style="height: 28px;" | {{#icon:336}} || [[Vipitis]] || Seviper || Séviper || {{Ruby|ハブネーク|Habunake}} || {{Ruby|세비퍼|Seviper}} || {{Ruby|飯匙蛇 / 饭匙蛇|Fànchíshé}} || {{#ic:Gift}}
+|-
+| 337 || style="height: 28px;" | {{#icon:337}} || [[Lunastein]] || Lunatone || Séléroc || {{Ruby|ルナトーン|Lunatone}} || {{Ruby|루나톤|Lunatone}} || {{Ruby|月石 / 月石|Yuèshí}} || {{#ic:Gestein}}&nbsp;{{#ic:Psycho}}
+|-
+| 338 || style="height: 28px;" | {{#icon:338}} || [[Sonnfel]] || Solrock || Solaroc || {{Ruby|ソルロック|Solrock}} || {{Ruby|솔록|Solrock}} || {{Ruby|太陽岩 / 太阳岩|Tàiyángyán}} || {{#ic:Gestein}}&nbsp;{{#ic:Psycho}}
+|-
+| 339 || style="height: 28px;" | {{#icon:339}} || [[Schmerbe]] || Barboach || Barloche || {{Ruby|ドジョッチ|Dojoach}} || {{Ruby|미꾸리|Mikuri}} || {{Ruby|泥泥鰍 / 泥泥鳅|Níníqiū}} || {{#ic:Wasser}}&nbsp;{{#ic:Boden}}
+|-
+| 340 || style="height: 28px;" | {{#icon:340}} || [[Welsar]] || Whiscash || Barbicha || {{Ruby|ナマズン|Namazun}} || {{Ruby|메깅|Meging}} || {{Ruby|鯰魚王 / 鲶鱼王|Niányúwáng}} || {{#ic:Wasser}}&nbsp;{{#ic:Boden}}
+|-
+| 341 || style="height: 28px;" | {{#icon:341}} || [[Krebscorps]] || Corphish || Écrapince || {{Ruby|ヘイガニ|Heigani}} || {{Ruby|가재군|Gazegun}} || {{Ruby|龍蝦小兵 / 龙虾小兵|Lóngxiāxiǎobīng}} || {{#ic:Wasser}}
+|-
+| 342 || style="height: 28px;" | {{#icon:342}} || [[Krebutack]] || Crawdaunt || Colhomard || {{Ruby|シザリガー|Shizariger}} || {{Ruby|가재장군|Gazezanggun}} || {{Ruby|鐵螯龍蝦 / 铁螯龙虾|Tiě'áolóngxiā}} || {{#ic:Wasser}}&nbsp;{{#ic:Unlicht}}
+|-
+| 343 || style="height: 28px;" | {{#icon:343}} || [[Puppance]] || Baltoy || Balbuto || {{Ruby|ヤジロン|Yajilon}} || {{Ruby|오뚝군|Ohttukgun}} || {{Ruby|天秤偶 / 天秤偶|Tiānchèng'ǒu}} || {{#ic:Boden}}&nbsp;{{#ic:Psycho}}
+|-
+| 344 || style="height: 28px;" | {{#icon:344}} || [[Lepumentas]] || Claydol || Kaorine || {{Ruby|ネンドール|Nendoll}} || {{Ruby|점토도리|Zeumtodori}} || {{Ruby|念力土偶 / 念力土偶|Niànlìtǔ'ǒu}} || {{#ic:Boden}}&nbsp;{{#ic:Psycho}}
+|-
+| 345 || style="height: 28px;" | {{#icon:345}} || [[Liliep]] || Lileep || Lilia || {{Ruby|リリーラ|Lilyla}} || {{Ruby|릴링|Lilring}} || {{Ruby|觸手百合 / 触手百合|Chùshǒubǎihé}} || {{#ic:Gestein}}&nbsp;{{#ic:Pflanze}}
+|-
+| 346 || style="height: 28px;" | {{#icon:346}} || [[Wielie]] || Cradily || Vacilys || {{Ruby|ユレイドル|Yuradle}} || {{Ruby|릴리요|Lilriyo}} || {{Ruby|搖籃百合 / 摇篮百合|Yáolánbǎihé}} || {{#ic:Gestein}}&nbsp;{{#ic:Pflanze}}
+|-
+| 347 || style="height: 28px;" | {{#icon:347}} || [[Anorith]] || Anorith || Anorith || {{Ruby|アノプス|Anopth}} || {{Ruby|아노딥스|Anodeeps}} || {{Ruby|太古羽蟲 / 太古羽虫|Tàigǔyǔchóng}} || {{#ic:Gestein}}&nbsp;{{#ic:Käfer}}
+|-
+| 348 || style="height: 28px;" | {{#icon:348}} || [[Armaldo]] || Armaldo || Armaldo || {{Ruby|アーマルド|Armaldo}} || {{Ruby|아말도|Amaldo}} || {{Ruby|太古盔甲 / 太古盔甲|Tàigǔkuījiǎ}} || {{#ic:Gestein}}&nbsp;{{#ic:Käfer}}
+|-
+| 349 || style="height: 28px;" | {{#icon:349}} || [[Barschwa]] || Feebas || Barpau || {{Ruby|ヒンバス|Hinbass}} || {{Ruby|빈티나|Vintina}} || {{Ruby|醜醜魚 / 丑丑鱼|Chǒuchǒuyú}} || {{#ic:Wasser}}
+|-
+| 350 || style="height: 28px;" | {{#icon:350}} || [[Milotic]] || Milotic || Milobellus || {{Ruby|ミロカロス|Milokaross}} || {{Ruby|밀로틱|Milotic}} || {{Ruby|美納斯 / 美纳斯|Měinàsī}} || {{#ic:Wasser}}
+|-
+| 351 || style="height: 28px;" | {{#icon:351}} || [[Formeo]] || Castform || Morphéo || {{Ruby|ポワルン|Powalen}} || {{Ruby|캐스퐁|Castpong}} || {{Ruby|飄浮泡泡 / 飘浮泡泡|Piāofúpàopào}} || {{#ic:Normal}}
+|-
+| 352 || style="height: 28px;" | {{#icon:352}} || [[Kecleon]] || Kecleon || Kecleon || {{Ruby|カクレオン|Kakureon}} || {{Ruby|켈리몬|Kelimon}} || {{Ruby|變隱龍 / 变隐龙|Biànyǐnlóng}} || {{#ic:Normal}}
+|-
+| 353 || style="height: 28px;" | {{#icon:353}} || [[Shuppet]] || Shuppet || Polichombr || {{Ruby|カゲボウズ|Kagebouzu}} || {{Ruby|어둠대신|Udumdaesin}} || {{Ruby|怨影娃娃 / 怨影娃娃|Yuànyǐngwáwá}} || {{#ic:Geist}}
+|-
+| 354 || style="height: 28px;" | {{#icon:354}} || [[Banette]] || Banette || Branette || {{Ruby|ジュペッタ|Juppeta}} || {{Ruby|다크펫|Darkpet}} || {{Ruby|詛咒娃娃 / 诅咒娃娃|Zǔzhòuwáwá}} || {{#ic:Geist}}
+|-
+| 355 || style="height: 28px;" | {{#icon:355}} || [[Zwirrlicht]] || Duskull || Skelénox || {{Ruby|ヨマワル|Yomawaru}} || {{Ruby|해골몽|Haegolmong}} || {{Ruby|夜巡靈 / 夜巡灵|Yèxúnlíng}} || {{#ic:Geist}}
+|-
+| 356 || style="height: 28px;" | {{#icon:356}} || [[Zwirrklop]] || Dusclops || Téraclope || {{Ruby|サマヨール|Samayouru}} || {{Ruby|미라몽|Miramong}} || {{Ruby|彷徨夜靈 / 彷徨夜灵|Pánghuángyèlíng}} || {{#ic:Geist}}
+|-
+| 357 || style="height: 28px;" | {{#icon:357}} || [[Tropius]] || Tropius || Tropius || {{Ruby|トロピウス|Tropius}} || {{Ruby|트로피우스|Tropius}} || {{Ruby|熱帶龍 / 热带龙|Rèdàilóng}} || {{#ic:Pflanze}}&nbsp;{{#ic:Flug}}
+|-
+| 358 || style="height: 28px;" | {{#icon:358}} || [[Palimpalim]] || Chimecho || Éoko || {{Ruby|チリーン|Chirean}} || {{Ruby|치렁|Chirung}} || {{Ruby|風鈴鈴 / 风铃铃|Fēnglínglíng}} || {{#ic:Psycho}}
+|-
+| 359 || style="height: 28px;" | {{#icon:359}} || [[Absol]] || Absol || Absol || {{Ruby|アブソル|Absol}} || {{Ruby|앱솔|Absol}} || {{Ruby|阿勃梭魯 / 阿勃梭鲁|Ābósuōlǔ}} || {{#ic:Unlicht}}
+|-
+| 360 || style="height: 28px;" | {{#icon:360}} || [[Isso]] || Wynaut || Okéoké || {{Ruby|ソーナノ|Sohnano}} || {{Ruby|마자|Maza}} || {{Ruby|小果然 / 小果然|Xiǎoguǒrán}} || {{#ic:Psycho}}
+|-
+| 361 || style="height: 28px;" | {{#icon:361}} || [[Schneppke]] || Snorunt || Stalgamin || {{Ruby|ユキワラシ|Yukiwarashi}} || {{Ruby|눈꼬마|Nunkoma}} || {{Ruby|雪童子 / 雪童子|Xuětóngzǐ}} || {{#ic:Eis}}
+|-
+| 362 || style="height: 28px;" | {{#icon:362}} || [[Firnontor]] || Glalie || Oniglali || {{Ruby|オニゴーリ|Onigohri}} || {{Ruby|얼음귀신|Urumkisin}} || {{Ruby|冰鬼護 / 冰鬼护|Bīngguǐhù}} || {{#ic:Eis}}
+|-
+| 363 || style="height: 28px;" | {{#icon:363}} || [[Seemops]] || Spheal || Obalie || {{Ruby|タマザラシ|Tamazarashi}} || {{Ruby|대굴레오|Degulleo}} || {{Ruby|海豹球 / 海豹球|Hǎibàoqiú}} || {{#ic:Eis}}&nbsp;{{#ic:Wasser}}
+|-
+| 364 || style="height: 28px;" | {{#icon:364}} || [[Seejong]] || Sealeo || Phogleur || {{Ruby|トドグラー|Todoggler}} || {{Ruby|씨레오|Sealeo}} || {{Ruby|海魔獅 / 海魔狮|Hǎimóshī}} || {{#ic:Eis}}&nbsp;{{#ic:Wasser}}
+|-
+| 365 || style="height: 28px;" | {{#icon:365}} || [[Walraisa]] || Walrein || Kaimorse || {{Ruby|トドゼルガ|Todoseruga}} || {{Ruby|씨카이저|Seakaiser}} || {{Ruby|帝牙海獅 / 帝牙海狮|Dìyáhǎishī}} || {{#ic:Eis}}&nbsp;{{#ic:Wasser}}
+|-
+| 366 || style="height: 28px;" | {{#icon:366}} || [[Perlu]] || Clamperl || Coquiperl || {{Ruby|パールル|Pearlulu}} || {{Ruby|진주몽|Zinzumong}} || {{Ruby|珍珠貝 / 珍珠贝|Zhēnzhūbèi}} || {{#ic:Wasser}}
+|-
+| 367 || style="height: 28px;" | {{#icon:367}} || [[Aalabyss]] || Huntail || Serpang || {{Ruby|ハンテール|Huntail}} || {{Ruby|헌테일|Huntail}} || {{Ruby|獵斑魚 / 猎斑鱼|Lièbānyú}} || {{#ic:Wasser}}
+|-
+| 368 || style="height: 28px;" | {{#icon:368}} || [[Saganabyss]] || Gorebyss || Rosabyss || {{Ruby|サクラビス|Sakurabyss}} || {{Ruby|분홍장이|Bunhongzangi}} || {{Ruby|櫻花魚 / 樱花鱼|Yīnghuāyú}} || {{#ic:Wasser}}
+|-
+| 369 || style="height: 28px;" | {{#icon:369}} || [[Relicanth]] || Relicanth || Relicanth || {{Ruby|ジーランス|Glanth}} || {{Ruby|시라칸|Searakan}} || {{Ruby|古空棘魚 / 古空棘鱼|Gǔkōngjíyú}} || {{#ic:Wasser}}&nbsp;{{#ic:Gestein}}
+|-
+| 370 || style="height: 28px;" | {{#icon:370}} || [[Liebiskus]] || Luvdisc || Lovdisc || {{Ruby|ラブカス|Lovecus}} || {{Ruby|사랑동이|Sarangdongi}} || {{Ruby|愛心魚 / 爱心鱼|Àixīnyú}} || {{#ic:Wasser}}
+|-
+| 371 || style="height: 28px;" | {{#icon:371}} || [[Kindwurm]] || Bagon || Draby || {{Ruby|タツベイ|Tatsubay}} || {{Ruby|아공이|Agongi}} || {{Ruby|寶貝龍 / 宝贝龙|Bǎobèilóng}} || {{#ic:Drache}}
+|-
+| 372 || style="height: 28px;" | {{#icon:372}} || [[Draschel]] || Shelgon || Drackhaus || {{Ruby|コモルー|Komoruu}} || {{Ruby|쉘곤|Shelgon}} || {{Ruby|甲殼龍 / 甲壳龙|Jiǎkélóng}} || {{#ic:Drache}}
+|-
+| 373 || style="height: 28px;" | {{#icon:373}} || [[Brutalanda]] || Salamence || Drattak || {{Ruby|ボーマンダ|Bohmander}} || {{Ruby|보만다|Bomanda}} || {{Ruby|暴飛龍 / 暴飞龙|Bàofēilóng}} || {{#ic:Drache}}&nbsp;{{#ic:Flug}}
+|-
+| 374 || style="height: 28px;" | {{#icon:374}} || [[Tanhel]] || Beldum || Terhal || {{Ruby|ダンバル|Dumbber}} || {{Ruby|메탕|Metan}} || {{Ruby|鐵啞鈴 / 铁哑铃|Tiěyǎlíng}} || {{#ic:Stahl}}&nbsp;{{#ic:Psycho}}
+|-
+| 375 || style="height: 28px;" | {{#icon:375}} || [[Metang]] || Metang || Métang || {{Ruby|メタング|Metang}} || {{Ruby|메탕구|Metangoo}} || {{Ruby|金屬怪 / 金属怪|Jīnshǔguài}} || {{#ic:Stahl}}&nbsp;{{#ic:Psycho}}
+|-
+| 376 || style="height: 28px;" | {{#icon:376}} || [[Metagross]] || Metagross || Métalosse || {{Ruby|メタグロス|Metagross}} || {{Ruby|메타그로스|Metagross}} || {{Ruby|巨金怪 / 巨金怪|Jùjīnguài}} || {{#ic:Stahl}}&nbsp;{{#ic:Psycho}}
+|-
+| 377 || style="height: 28px;" | {{#icon:377}} || [[Regirock]] || Regirock || Regirock || {{Ruby|レジロック|Regirock}} || {{Ruby|레지락|Regirock}} || {{Ruby|雷吉洛克 / 雷吉洛克|Léijíluòkè}} || {{#ic:Gestein}}
+|-
+| 378 || style="height: 28px;" | {{#icon:378}} || [[Regice]] || Regice || Regice || {{Ruby|レジアイス|Regice}} || {{Ruby|레지아이스|Regice}} || {{Ruby|雷吉艾斯 / 雷吉艾斯|Léijí'àisī}} || {{#ic:Eis}}
+|-
+| 379 || style="height: 28px;" | {{#icon:379}} || [[Registeel]] || Registeel || Registeel || {{Ruby|レジスチル|Registeel}} || {{Ruby|레지스틸|Registeel}} || {{Ruby|雷吉斯奇魯 / 雷吉斯奇鲁|Léijísījīlǔ}} || {{#ic:Stahl}}
+|-
+| 380 || style="height: 28px;" | {{#icon:380}} || [[Latias]] || Latias || Latias || {{Ruby|ラティアス|Latias}} || {{Ruby|라티아스|Latias}} || {{Ruby|拉帝亞斯 / 拉帝亚斯|Lādìyàsī}} || {{#ic:Drache}}&nbsp;{{#ic:Psycho}}
+|-
+| 381 || style="height: 28px;" | {{#icon:381}} || [[Latios]] || Latios || Latios || {{Ruby|ラティオス|Latios}} || {{Ruby|라티오스|Latios}} || {{Ruby|拉帝歐斯 / 拉帝欧斯|Lādì'ōusī}} || {{#ic:Drache}}&nbsp;{{#ic:Psycho}}
+|-
+| 382 || style="height: 28px;" | {{#icon:382}} || [[Kyogre]] || Kyogre || Kyogre || {{Ruby|カイオーガ|Kyogre}} || {{Ruby|가이오가|Kyogre}} || {{Ruby|蓋歐卡 / 盖欧卡|Gài'ōukǎ}} || {{#ic:Wasser}}
+|-
+| 383 || style="height: 28px;" | {{#icon:383}} || [[Groudon]] || Groudon || Groudon || {{Ruby|グラードン|Groudon}} || {{Ruby|그란돈|Groudon}} || {{Ruby|固拉多 / 固拉多|Gùlāduō}} || {{#ic:Boden}}
+|-
+| 384 || style="height: 28px;" | {{#icon:384}} || [[Rayquaza]] || Rayquaza || Rayquaza || {{Ruby|レックウザ|Rayquaza}} || {{Ruby|레쿠쟈|Rayquaza}} || {{Ruby|烈空坐 / 烈空坐|Lièkōngzuò}} || {{#ic:Drache}}&nbsp;{{#ic:Flug}}
+|-
+| 385 || style="height: 28px;" | {{#icon:385}} || [[Jirachi]] || Jirachi || Jirachi || {{Ruby|ジラーチ|Jirachi}} || {{Ruby|지라치|Jirachi}} || {{Ruby|基拉祈 / 基拉祈|Jīlāqí}} || {{#ic:Stahl}}&nbsp;{{#ic:Psycho}}
+|-
+| 386 || style="height: 28px;" | {{#icon:386}} || [[Deoxys]] || Deoxys || Deoxys || {{Ruby|デオキシス|Deoxys}} || {{Ruby|테오키스|Teoxys}} || {{Ruby|代歐奇希斯 / 代欧奇希斯|Dài'ōuqíxīsī}} || {{#ic:Psycho}}
+|-
+| <span id="nr387"></span> 387 || style="height: 28px;" | {{#icon:387}} || [[Chelast]] || Turtwig || Tortipouss || {{Ruby|ナエトル|Naetle}} || {{Ruby|모부기|Mobugi}} || {{Ruby|草苗龜 / 草苗龟|Cǎomiáoguī}} || {{#ic:Pflanze}}
+|-
+| 388 || style="height: 28px;" | {{#icon:388}} || [[Chelcarain]] || Grotle || Boskara || {{Ruby|ハヤシガメ|Hayashigame}} || {{Ruby|수풀부기|Supulbugi}} || {{Ruby|樹林龜 / 树林龟|Shùlínguī}} || {{#ic:Pflanze}}
+|-
+| 389 || style="height: 28px;" | {{#icon:389}} || [[Chelterrar]] || Torterra || Torterra || {{Ruby|ドダイトス|Dodaitose}} || {{Ruby|토대부기|Todaibugi}} || {{Ruby|土台龜 / 土台龟|Tǔtáiguī}} || {{#ic:Pflanze}}&nbsp;{{#ic:Boden}}
+|-
+| 390 || style="height: 28px;" | {{#icon:390}} || [[Panflam]] || Chimchar || Ouisticram || {{Ruby|ヒコザル|Hikozaru}} || {{Ruby|불꽃숭이|Bulkotsoongi}} || {{Ruby|小火焰猴 / 小火焰猴|Xiǎohuǒyànhóu}} || {{#ic:Feuer}}
+|-
+| 391 || style="height: 28px;" | {{#icon:391}} || [[Panpyro]] || Monferno || Chimpenfeu || {{Ruby|モウカザル|Moukazaru}} || {{Ruby|파이숭이|Paisoongi}} || {{Ruby|猛火猴 / 猛火猴|Měnghuǒhóu}} || {{#ic:Feuer}}&nbsp;{{#ic:Kampf}}
+|-
+| 392 || style="height: 28px;" | {{#icon:392}} || [[Panferno]] || Infernape || Simiabraz || {{Ruby|ゴウカザル|Goukazaru}} || {{Ruby|초염몽|Choyeommong}} || {{Ruby|烈焰猴 / 烈焰猴|Lièyànhóu}} || {{#ic:Feuer}}&nbsp;{{#ic:Kampf}}
+|-
+| 393 || style="height: 28px;" | {{#icon:393}} || [[Plinfa]] || Piplup || Tiplouf || {{Ruby|ポッチャマ|Pochama}} || {{Ruby|팽도리|Pengdori}} || {{Ruby|波加曼 / 波加曼|Bōjiāmàn}} || {{#ic:Wasser}}
+|-
+| 394 || style="height: 28px;" | {{#icon:394}} || [[Pliprin]] || Prinplup || Prinplouf || {{Ruby|ポッタイシ|Pottaishi}} || {{Ruby|팽태자|Pengtaiza}} || {{Ruby|波皇子 / 波皇子|Bōhuángzǐ}} || {{#ic:Wasser}}
+|-
+| 395 || style="height: 28px;" | {{#icon:395}} || [[Impoleon]] || Empoleon || Pingoléon || {{Ruby|エンペルト|Emperte}} || {{Ruby|엠페르트|Emperut}} || {{Ruby|帝王拿波 / 帝王拿波|Dìwángnábō}} || {{#ic:Wasser}}&nbsp;{{#ic:Stahl}}
+|-
+| 396 || style="height: 28px;" | {{#icon:396}} || [[Staralili]] || Starly || Étourmi || {{Ruby|ムックル|Mukkuru}} || {{Ruby|찌르꼬|Jjiruko}} || {{Ruby|姆克兒 / 姆克儿|Mǔkè'ér}} || {{#ic:Normal}}&nbsp;{{#ic:Flug}}
+|-
+| 397 || style="height: 28px;" | {{#icon:397}} || [[Staravia]] || Staravia || Étourvol || {{Ruby|ムクバード|Mukubird}} || {{Ruby|찌르버드|Jjirubird}} || {{Ruby|姆克鳥 / 姆克鸟|Mǔkèniǎo}} || {{#ic:Normal}}&nbsp;{{#ic:Flug}}
+|-
+| 398 || style="height: 28px;" | {{#icon:398}} || [[Staraptor]] || Staraptor || Étouraptor || {{Ruby|ムクホーク|Mukuhawk}} || {{Ruby|찌르호크|Jjiruhawk}} || {{Ruby|姆克鷹 / 姆克鹰|Mǔkèyīng}} || {{#ic:Normal}}&nbsp;{{#ic:Flug}}
+|-
+| 399 || style="height: 28px;" | {{#icon:399}} || [[Bidiza]] || Bidoof || Keunotor || {{Ruby|ビッパ|Bippa}} || {{Ruby|비버니|Bibeoni}} || {{Ruby|大牙狸 / 大牙狸|Dàyálí}} || {{#ic:Normal}}
+|-
+| 400 || style="height: 28px;" | {{#icon:400}} || [[Bidifas]] || Bibarel || Castorno || {{Ruby|ビーダル|Beadaru}} || {{Ruby|비버통|Bibeotong}} || {{Ruby|大尾狸 / 大尾狸|Dàwěilí}} || {{#ic:Normal}}&nbsp;{{#ic:Wasser}}
+|-
+| 401 || style="height: 28px;" | {{#icon:401}} || [[Zirpurze]] || Kricketot || Crikzik || {{Ruby|コロボーシ|Korobohshi}} || {{Ruby|귀뚤뚜기|Gwittulttugi}} || {{Ruby|圓法師 / 圆法师|Yuánfǎshī}} || {{#ic:Käfer}}
+|-
+| 402 || style="height: 28px;" | {{#icon:402}} || [[Zirpeise]] || Kricketune || Mélokrik || {{Ruby|コロトック|Korotock}} || {{Ruby|귀뚤톡크|Gwittultock}} || {{Ruby|音箱蟀 / 音箱蟀|Yīnxiāngshuài}} || {{#ic:Käfer}}
+|-
+| 403 || style="height: 28px;" | {{#icon:403}} || [[Sheinux]] || Shinx || Lixy || {{Ruby|コリンク|Kolink}} || {{Ruby|꼬링크|Koringku}} || {{Ruby|小貓怪 / 小猫怪|Xiǎomāoguài}} || {{#ic:Elektro}}
+|-
+| 404 || style="height: 28px;" | {{#icon:404}} || [[Luxio]] || Luxio || Luxio || {{Ruby|ルクシオ|Luxio}} || {{Ruby|럭시오|Leoksio}} || {{Ruby|勒克貓 / 勒克猫|Lèkèmāo}} || {{#ic:Elektro}}
+|-
+| 405 || style="height: 28px;" | {{#icon:405}} || [[Luxtra]] || Luxray || Luxray || {{Ruby|レントラー|Rentorar}} || {{Ruby|렌트라|Renteura}} || {{Ruby|倫琴貓 / 伦琴猫|Lúnqínmāo}} || {{#ic:Elektro}}
+|-
+| 406 || style="height: 28px;" | {{#icon:406}} || [[Knospi]] || Budew || Rozbouton || {{Ruby|スボミー|Subomie}} || {{Ruby|꼬몽울|Komongul}} || {{Ruby|含羞苞 / 含羞苞|Hánxiūbāo}} || {{#ic:Pflanze}}&nbsp;{{#ic:Gift}}
+|-
+| 407 || style="height: 28px;" | {{#icon:407}} || [[Roserade]] || Roserade || Roserade || {{Ruby|ロズレイド|Roserade}} || {{Ruby|로즈레이드|Rozureid}} || {{Ruby|羅絲雷朵 / 罗丝雷朵|Luósīléiduǒ}} || {{#ic:Pflanze}}&nbsp;{{#ic:Gift}}
+|-
+| 408 || style="height: 28px;" | {{#icon:408}} || [[Koknodon]] || Cranidos || Kranidos || {{Ruby|ズガイドス|Zugaidos}} || {{Ruby|두개도스|Dugaedos}} || {{Ruby|頭蓋龍 / 头盖龙|Tóugàilóng}} || {{#ic:Gestein}}
+|-
+| 409 || style="height: 28px;" | {{#icon:409}} || [[Rameidon]] || Rampardos || Charkos || {{Ruby|ラムパルド|Rampald}} || {{Ruby|램펄드|Ramparld}} || {{Ruby|戰槌龍 / 战槌龙|Zhànchuílóng}} || {{#ic:Gestein}}
+|-
+| 410 || style="height: 28px;" | {{#icon:410}} || [[Schilterus]] || Shieldon || Dinoclier || {{Ruby|タテトプス|Tatetops}} || {{Ruby|방패톱스|Bangpaetops}} || {{Ruby|盾甲龍 / 盾甲龙|Dùnjiǎlóng}} || {{#ic:Gestein}}&nbsp;{{#ic:Stahl}}
+|-
+| 411 || style="height: 28px;" | {{#icon:411}} || [[Bollterus]] || Bastiodon || Bastiodon || {{Ruby|トリデプス|Torideps}} || {{Ruby|바리톱스|Baritops}} || {{Ruby|護城龍 / 护城龙|Hùchénglóng}} || {{#ic:Gestein}}&nbsp;{{#ic:Stahl}}
+|-
+| 412 || style="height: 28px;" | {{#icon:412}} || [[Burmy]] || Burmy || Cheniti || {{Ruby|ミノムッチ|Minomucchi}} || {{Ruby|도롱충이|Dorongchungi}} || {{Ruby|結草兒 / 结草儿|Jiécǎo'ér}} || {{#ic:Käfer}}
+|-
+| 413 || style="height: 28px;" | {{#icon:413}} || [[Burmadame]] || Wormadam || Cheniselle || {{Ruby|ミノマダム|Minomadam}} || {{Ruby|도롱마담|Dorongmadam}} || {{Ruby|結草貴婦 / 结草贵妇|Jiécǎoguìfù}} || {{#ic:Käfer}}&nbsp;{{#ic:Pflanze}}
+|-
+| 414 || style="height: 28px;" | {{#icon:414}} || [[Moterpel]] || Mothim || Papilord || {{Ruby|ガーメイル|Gamale}} || {{Ruby|나메일|Nameil}} || {{Ruby|紳士蛾 / 绅士蛾|Shēnshì'é}} || {{#ic:Käfer}}&nbsp;{{#ic:Flug}}
+|-
+| 415 || style="height: 28px;" | {{#icon:415}} || [[Wadribie]] || Combee || Apitrini || {{Ruby|ミツハニー|Mitsuhoney}} || {{Ruby|세꿀버리|Sekkulbeori}} || {{Ruby|三蜜蜂 / 三蜜蜂|Sānmìfēng}} || {{#ic:Käfer}}&nbsp;{{#ic:Flug}}
+|-
+| 416 || style="height: 28px;" | {{#icon:416}} || [[Honweisel]] || Vespiquen || Apireine || {{Ruby|ビークイン|Beequen}} || {{Ruby|비퀸|Beequein}} || {{Ruby|蜂女王 / 蜂女王|Fēngnǚwáng}} || {{#ic:Käfer}}&nbsp;{{#ic:Flug}}
+|-
+| 417 || style="height: 28px;" | {{#icon:417}} || [[Pachirisu]] || Pachirisu || Pachirisu || {{Ruby|パチリス|Pachirisu}} || {{Ruby|파치리스|Pachirisu}} || {{Ruby|帕奇利茲 / 帕奇利兹|Pàqílìzī}} || {{#ic:Elektro}}
+|-
+| 418 || style="height: 28px;" | {{#icon:418}} || [[Bamelin]] || Buizel || Mustébouée || {{Ruby|ブイゼル|Buoysel}} || {{Ruby|브이젤|Buijel}} || {{Ruby|泳圈鼬 / 泳圈鼬|Yǒngquānyòu}} || {{#ic:Wasser}}
+|-
+| 419 || style="height: 28px;" | {{#icon:419}} || [[Bojelin]] || Floatzel || Mustéflott || {{Ruby|フローゼル|Floazel}} || {{Ruby|플로젤|Pulrozel}} || {{Ruby|浮潛鼬 / 浮潜鼬|Fúqiányòu}} || {{#ic:Wasser}}
+|-
+| 420 || style="height: 28px;" | {{#icon:420}} || [[Kikugi]] || Cherubi || Ceribou || {{Ruby|チェリンボ|Cherinbo}} || {{Ruby|체리버|Cheriber}} || {{Ruby|櫻花寶 / 樱花宝|Yīnghuābǎo}} || {{#ic:Pflanze}}
+|-
+| 421 || style="height: 28px;" | {{#icon:421}} || [[Kinoso]] || Cherrim || Ceriflor || {{Ruby|チェリム|Cherrim}} || {{Ruby|체리꼬|Cheriko}} || {{Ruby|櫻花兒 / 樱花儿|Yīnghuā'ér}} || {{#ic:Pflanze}}
+|-
+| 422 || style="height: 28px;" | {{#icon:422}} || [[Schalellos]] || Shellos || Sancoki || {{Ruby|カラナクシ|Karanakushi}} || {{Ruby|깝질무|Kapjilmu}} || {{Ruby|無殼海兔 / 无壳海兔|Wúkéhǎitù}} || {{#ic:Wasser}}
+|-
+| 423 || style="height: 28px;" | {{#icon:423}} || [[Gastrodon]] || Gastrodon || Tritosor || {{Ruby|トリトドン|Tritodon}} || {{Ruby|트리토돈|Tritodon}} || {{Ruby|海兔獸 / 海兔兽|Hǎitùshòu}} || {{#ic:Wasser}}&nbsp;{{#ic:Boden}}
+|-
+| 424 || style="height: 28px;" | {{#icon:424}} || [[Ambidiffel]] || Ambipom || Capidextre || {{Ruby|エテボース|Eteboth}} || {{Ruby|겟핸보숭|Gethainbosung}} || {{Ruby|雙尾怪手 / 双尾怪手|Shuāngwěiguàishǒu}} || {{#ic:Normal}}
+|-
+| 425 || style="height: 28px;" | {{#icon:425}} || [[Driftlon]] || Drifloon || Baudrive || {{Ruby|フワンテ|Fuwante}} || {{Ruby|흔들풍손|Hundlpungson}} || {{Ruby|飄飄球 / 飘飘球|Piāopiāoqiú}} || {{#ic:Geist}}&nbsp;{{#ic:Flug}}
+|-
+| 426 || style="height: 28px;" | {{#icon:426}} || [[Drifzepeli]] || Drifblim || Grodrive || {{Ruby|フワライド|Fuwaride}} || {{Ruby|둥실라이드|Dungsilraid}} || {{Ruby|隨風球 / 随风球|Suífēngqiú}} || {{#ic:Geist}}&nbsp;{{#ic:Flug}}
+|-
+| 427 || style="height: 28px;" | {{#icon:427}} || [[Haspiror]] || Buneary || Laporeille || {{Ruby|ミミロル|Mimirol}} || {{Ruby|이어롤|Ieorol}} || {{Ruby|捲捲耳 / 卷卷耳|Juǎnjuǎn'ěr}} || {{#ic:Normal}}
+|-
+| 428 || style="height: 28px;" | {{#icon:428}} || [[Schlapor]] || Lopunny || Lockpin || {{Ruby|ミミロップ|Mimilop}} || {{Ruby|이어롭|Ieorop}} || {{Ruby|長耳兔 / 长耳兔|Cháng'ěrtù}} || {{#ic:Normal}}
+|-
+| 429 || style="height: 28px;" | {{#icon:429}} || [[Traunmagil]] || Mismagius || Magirêve || {{Ruby|ムウマージ|Mumargi}} || {{Ruby|무우마직|Muumajik}} || {{Ruby|夢妖魔 / 梦妖魔|Mèngyāomó}} || {{#ic:Geist}}
+|-
+| 430 || style="height: 28px;" | {{#icon:430}} || [[Kramshef]] || Honchkrow || Corboss || {{Ruby|ドンカラス|Dongkarasu}} || {{Ruby|돈크로우|Donkeurou}} || {{Ruby|烏鴉頭頭 / 乌鸦头头|Wūyātóutóu}} || {{#ic:Unlicht}}&nbsp;{{#ic:Flug}}
+|-
+| 431 || style="height: 28px;" | {{#icon:431}} || [[Charmian]] || Glameow || Chaglam || {{Ruby|ニャルマー|Nyarmar}} || {{Ruby|나옹마|Naongma}} || {{Ruby|魅力喵 / 魅力喵|Mèilìmiāo}} || {{#ic:Normal}}
+|-
+| 432 || style="height: 28px;" | {{#icon:432}} || [[Shnurgarst]] || Purugly || Chaffreux || {{Ruby|ブニャット|Bunyatto}} || {{Ruby|몬냥이|Monnyangi}} || {{Ruby|東施喵 / 东施喵|Dōngshīmiāo}} || {{#ic:Normal}}
+|-
+| 433 || style="height: 28px;" | {{#icon:433}} || [[Klingplim]] || Chingling || Korillon || {{Ruby|リーシャン|Lisyan}} || {{Ruby|랑딸랑|Rangttallang}} || {{Ruby|鈴鐺響 / 铃铛响|Língdāngxiǎng}} || {{#ic:Psycho}}
+|-
+| 434 || style="height: 28px;" | {{#icon:434}} || [[Skunkapuh]] || Stunky || Moufouette || {{Ruby|スカンプー|Skunpuu}} || {{Ruby|스컹뿡|Skunbbung}} || {{Ruby|臭鼬噗 / 臭鼬噗|Chòuyòupū}} || {{#ic:Gift}}&nbsp;{{#ic:Unlicht}}
+|-
+| 435 || style="height: 28px;" | {{#icon:435}} || [[Skuntank]] || Skuntank || Moufflair || {{Ruby|スカタンク|Skutank}} || {{Ruby|스컹탱크|Skuntank}} || {{Ruby|坦克臭鼬 / 坦克臭鼬|Tǎnkèchòuyòu}} || {{#ic:Gift}}&nbsp;{{#ic:Unlicht}}
+|-
+| 436 || style="height: 28px;" | {{#icon:436}} || [[Bronzel]] || Bronzor || Archéomire || {{Ruby|ドーミラー|Dohmirror}} || {{Ruby|동미러|Dongmirror}} || {{Ruby|銅鏡怪 / 铜镜怪|Tóngjìngguài}} || {{#ic:Stahl}}&nbsp;{{#ic:Psycho}}
+|-
+| 437 || style="height: 28px;" | {{#icon:437}} || [[Bronzong]] || Bronzong || Archéodong || {{Ruby|ドータクン|Dohtakun}} || {{Ruby|동탁군|Dongtakgun}} || {{Ruby|青銅鐘 / 青铜钟|Qīngtóngzhōng}} || {{#ic:Stahl}}&nbsp;{{#ic:Psycho}}
+|-
+| 438 || style="height: 28px;" | {{#icon:438}} || [[Mobai]] || Bonsly || Manzaï || {{Ruby|ウソハチ|Usohachi}} || {{Ruby|꼬지지|Kkojiji}} || {{Ruby|盆才怪 / 盆才怪|Péncáiguài}} || {{#ic:Gestein}}
+|-
+| 439 || style="height: 28px;" | {{#icon:439}} || [[Pantimimi]] || Mime Jr. || Mime Jr. || {{Ruby|マネネ|Manene}} || {{Ruby|흉내내|Hungnaenae}} || {{Ruby|魔尼尼 / 魔尼尼|Móníní}} || {{#ic:Psycho}}&nbsp;{{#ic:Fee}}
+|-
+| 440 || style="height: 28px;" | {{#icon:440}} || [[Wonneira]] || Happiny || Ptiravi || {{Ruby|ピンプク|Pinpuku}} || {{Ruby|핑복|Pingbok}} || {{Ruby|小福蛋 / 小福蛋|Xiǎofúdàn}} || {{#ic:Normal}}
+|-
+| 441 || style="height: 28px;" | {{#icon:441}} || [[Plaudagei]] || Chatot || Pijako || {{Ruby|ペラップ|Perap}} || {{Ruby|페라페|Perape}} || {{Ruby|聒噪鳥 / 聒噪鸟|Guōzàoniǎo}} || {{#ic:Normal}}&nbsp;{{#ic:Flug}}
+|-
+| 442 || style="height: 28px;" | {{#icon:442}} || [[Kryppuk]] || Spiritomb || Spiritomb || {{Ruby|ミカルゲ|Mikaruge}} || {{Ruby|화강돌|Hwagangdol}} || {{Ruby|花岩怪 / 花岩怪|Huāyánguài}} || {{#ic:Geist}}&nbsp;{{#ic:Unlicht}}
+|-
+| 443 || style="height: 28px;" | {{#icon:443}} || [[Kaumalat]] || Gible || Griknot || {{Ruby|フカマル|Fukamaru}} || {{Ruby|딥상어동|Dipsangeodong}} || {{Ruby|圓陸鯊 / 圆陆鲨|Yuánlùshā}} || {{#ic:Drache}}&nbsp;{{#ic:Boden}}
+|-
+| 444 || style="height: 28px;" | {{#icon:444}} || [[Knarksel]] || Gabite || Carmache || {{Ruby|ガバイト|Gabite}} || {{Ruby|한바이트|Hanbite}} || {{Ruby|尖牙陸鯊 / 尖牙陆鲨|Jiānyálùshā}} || {{#ic:Drache}}&nbsp;{{#ic:Boden}}
+|-
+| 445 || style="height: 28px;" | {{#icon:445}} || [[Knakrack]] || Garchomp || Carchacrok || {{Ruby|ガブリアス|Gaburias}} || {{Ruby|한카리아스|Hankarias}} || {{Ruby|烈咬陸鯊 / 烈咬陆鲨|Lièyǎolùshā}} || {{#ic:Drache}}&nbsp;{{#ic:Boden}}
+|-
+| 446 || style="height: 28px;" | {{#icon:446}} || [[Mampfaxo]] || Munchlax || Goinfrex || {{Ruby|ゴンベ|Gonbe}} || {{Ruby|먹고자|Moukgoja}} || {{Ruby|小卡比獸 / 小卡比兽|Xiǎokǎbǐshòu}} || {{#ic:Normal}}
+|-
+| 447 || style="height: 28px;" | {{#icon:447}} || [[Riolu]] || Riolu || Riolu || {{Ruby|リオル|Riolu}} || {{Ruby|리오르|Riolu}} || {{Ruby|利歐路 / 利欧路|Lì'ōulù}} || {{#ic:Kampf}}
+|-
+| 448 || style="height: 28px;" | {{#icon:448}} || [[Lucario]] || Lucario || Lucario || {{Ruby|ルカリオ|Lucario}} || {{Ruby|루카리오|Lucario}} || {{Ruby|路卡利歐 / 路卡利欧|Lùkǎlì'ōu}} || {{#ic:Kampf}}&nbsp;{{#ic:Stahl}}
+|-
+| 449 || style="height: 28px;" | {{#icon:449}} || [[Hippopotas]] || Hippopotas || Hippopotas || {{Ruby|ヒポポタス|Hippopotas}} || {{Ruby|히포포타스|Hipopotaseu}} || {{Ruby|沙河馬 / 沙河马|Shāhémǎ}} || {{#ic:Boden}}
+|-
+| 450 || style="height: 28px;" | {{#icon:450}} || [[Hippoterus]] || Hippowdon || Hippodocus || {{Ruby|カバルドン|Kabaldon}} || {{Ruby|하마돈|Hamadon}} || {{Ruby|河馬獸 / 河马兽|Hémǎshòu}} || {{#ic:Boden}}
+|-
+| 451 || style="height: 28px;" | {{#icon:451}} || [[Pionskora]] || Skorupi || Rapion || {{Ruby|スコルピ|Scorupi}} || {{Ruby|스콜피|Skorupi}} || {{Ruby|鉗尾蠍 / 钳尾蝎|Qiánwěixiē}} || {{#ic:Gift}}&nbsp;{{#ic:Käfer}}
+|-
+| 452 || style="height: 28px;" | {{#icon:452}} || [[Piondragi]] || Drapion || Drascore || {{Ruby|ドラピオン|Dorapion}} || {{Ruby|드래피온|Drapion}} || {{Ruby|龍王蠍 / 龙王蝎|Lóngwángxiē}} || {{#ic:Gift}}&nbsp;{{#ic:Unlicht}}
+|-
+| 453 || style="height: 28px;" | {{#icon:453}} || [[Glibunkel]] || Croagunk || Cradopaud || {{Ruby|グレッグル|Gureggru}} || {{Ruby|삐딱구리|Pitakguri}} || {{Ruby|不良蛙 / 不良蛙|Bùliángwā}} || {{#ic:Gift}}&nbsp;{{#ic:Kampf}}
+|-
+| 454 || style="height: 28px;" | {{#icon:454}} || [[Toxiquak]] || Toxicroak || Coatox || {{Ruby|ドクロッグ|Dokurog}} || {{Ruby|독개굴|Dokgaegul}} || {{Ruby|毒骷蛙 / 毒骷蛙|Dùkūwā}} || {{#ic:Gift}}&nbsp;{{#ic:Kampf}}
+|-
+| 455 || style="height: 28px;" | {{#icon:455}} || [[Venuflibis]] || Carnivine || Vortente || {{Ruby|マスキッパ|Muskippa}} || {{Ruby|무스틈니|Museuteumni}} || {{Ruby|尖牙籠 / 尖牙笼|Jiānyálóng}} || {{#ic:Pflanze}}
+|-
+| 456 || style="height: 28px;" | {{#icon:456}} || [[Finneon]] || Finneon || Écayon || {{Ruby|ケイコウオ|Keikouo}} || {{Ruby|형광어|Hyeonggwangeo}} || {{Ruby|螢光魚 / 荧光鱼|Yíngguāngyú}} || {{#ic:Wasser}}
+|-
+| 457 || style="height: 28px;" | {{#icon:457}} || [[Lumineon]] || Lumineon || Luminéon || {{Ruby|ネオラント|Neolant}} || {{Ruby|네오라이트|Neolite}} || {{Ruby|霓虹魚 / 霓虹鱼|Níhóngyú}} || {{#ic:Wasser}}
+|-
+| 458 || style="height: 28px;" | {{#icon:458}} || [[Mantirps]] || Mantyke || Babimanta || {{Ruby|タマンタ|Tamanta}} || {{Ruby|타만타|Tamanta}} || {{Ruby|小球飛魚 / 小球飞鱼|Xiǎoqiúfēiyú}} || {{#ic:Wasser}}&nbsp;{{#ic:Flug}}
+|-
+| 459 || style="height: 28px;" | {{#icon:459}} || [[Shnebedeck]] || Snover || Blizzi || {{Ruby|ユキカブリ|Yukikaburi}} || {{Ruby|눈쓰개|Nunsseugae}} || {{Ruby|雪笠怪 / 雪笠怪|Xuělìguài}} || {{#ic:Pflanze}}&nbsp;{{#ic:Eis}}
+|-
+| 460 || style="height: 28px;" | {{#icon:460}} || [[Rexblisar]] || Abomasnow || Blizzaroi || {{Ruby|ユキノオー|Yukinooh}} || {{Ruby|눈설왕|Nunseolwang}} || {{Ruby|暴雪王 / 暴雪王|Bàoxuěwáng}} || {{#ic:Pflanze}}&nbsp;{{#ic:Eis}}
+|-
+| 461 || style="height: 28px;" | {{#icon:461}} || [[Snibunna]] || Weavile || Dimoret || {{Ruby|マニューラ|Manyula}} || {{Ruby|포푸니라|Popunira}} || {{Ruby|瑪狃拉 / 玛狃拉|Mǎniǔlā}} || {{#ic:Unlicht}}&nbsp;{{#ic:Eis}}
+|-
+| 462 || style="height: 28px;" | {{#icon:462}} || [[Magnezone]] || Magnezone || Magnézone || {{Ruby|ジバコイル|Jibacoil}} || {{Ruby|자포코일|Zapokoil}} || {{Ruby|自爆磁怪 / 自爆磁怪|Zìbàocíguài}} || {{#ic:Elektro}}&nbsp;{{#ic:Stahl}}
+|-
+| 463 || style="height: 28px;" | {{#icon:463}} || [[Schlurplek]] || Lickilicky || Coudlangue || {{Ruby|ベロベルト|Berobelt}} || {{Ruby|내룸벨트|Naerumbelt}} || {{Ruby|大舌舔 / 大舌舔|Dàshétiǎn}} || {{#ic:Normal}}
+|-
+| 464 || style="height: 28px;" | {{#icon:464}} || [[Rihornior]] || Rhyperior || Rhinastoc || {{Ruby|ドサイドン|Dosidon}} || {{Ruby|거대코뿌리|Geodaekopuri}} || {{Ruby|超甲狂犀 / 超甲狂犀|Chāojiǎkuángxī}} || {{#ic:Boden}}&nbsp;{{#ic:Gestein}}
+|-
+| 465 || style="height: 28px;" | {{#icon:465}} || [[Tangoloss]] || Tangrowth || Bouldeneu || {{Ruby|モジャンボ|Mojumbo}} || {{Ruby|덩쿠림보|Deongkurimbo}} || {{Ruby|巨蔓藤 / 巨蔓藤|Jùmànténg}} || {{#ic:Pflanze}}
+|-
+| 466 || style="height: 28px;" | {{#icon:466}} || [[Elevoltek]] || Electivire || Élekable || {{Ruby|エレキブル|Elekible}} || {{Ruby|에레키블|Elekible}} || {{Ruby|電擊魔獸 / 电击魔兽|Diànjīmóshòu}} || {{#ic:Elektro}}
+|-
+| 467 || style="height: 28px;" | {{#icon:467}} || [[Magbrant]] || Magmortar || Maganon || {{Ruby|ブーバーン|Booburn}} || {{Ruby|마그마번|Magmaburn}} || {{Ruby|鴨嘴炎獸 / 鸭嘴炎兽|Yāzuǐyánshòu}} || {{#ic:Feuer}}
+|-
+| 468 || style="height: 28px;" | {{#icon:468}} || [[Togekiss]] || Togekiss || Togekiss || {{Ruby|トゲキッス|Togekiss}} || {{Ruby|토게키스|Togekiss}} || {{Ruby|波克基斯 / 波克基斯|Bōkèjīsī}} || {{#ic:Fee}}&nbsp;{{#ic:Flug}}
+|-
+| 469 || style="height: 28px;" | {{#icon:469}} || [[Yanmega]] || Yanmega || Yanmega || {{Ruby|メガヤンマ|Megayanma}} || {{Ruby|메가자리|Megajari}} || {{Ruby|遠古巨蜓 / 远古巨蜓|Yuǎngǔjùtíng}} || {{#ic:Käfer}}&nbsp;{{#ic:Flug}}
+|-
+| 470 || style="height: 28px;" | {{#icon:470}} || [[Folipurba]] || Leafeon || Phyllali || {{Ruby|リーフィア|Leafia}} || {{Ruby|리피아|Lipia}} || {{Ruby|葉伊布 / 叶伊布|Yèyībù}} || {{#ic:Pflanze}}
+|-
+| 471 || style="height: 28px;" | {{#icon:471}} || [[Glaziola]] || Glaceon || Givrali || {{Ruby|グレイシア|Glacia}} || {{Ruby|글레이시아|Geulleisia}} || {{Ruby|冰伊布 / 冰伊布|Bīngyībù}} || {{#ic:Eis}}
+|-
+| 472 || style="height: 28px;" | {{#icon:472}} || [[Skorgro]] || Gliscor || Scorvol || {{Ruby|グライオン|Glion}} || {{Ruby|글라이온|Glion}} || {{Ruby|天蠍王 / 天蝎王|Tiānxiēwáng}} || {{#ic:Boden}}&nbsp;{{#ic:Flug}}
+|-
+| 473 || style="height: 28px;" | {{#icon:473}} || [[Mamutel]] || Mamoswine || Mammochon || {{Ruby|マンムー|Mammoo}} || {{Ruby|맘모꾸리|Mammokkuri}} || {{Ruby|象牙豬 / 象牙猪|Xiàngyázhū}} || {{#ic:Eis}}&nbsp;{{#ic:Boden}}
+|-
+| 474 || style="height: 28px;" | {{#icon:474}} || [[Porygon-Z]] || Porygon-Z || Porygon-Z || {{Ruby|ポリゴンＺ|Porygon-Z}} || {{Ruby|폴리곤Z|PorygonZ}} || {{Ruby|多邊獸Ｚ / {{tt|多边兽乙型|früher: 多边兽Ｚ}}|DuōbiānshòuZ / Duōbiānshòuyǐxíng}} || {{#ic:Normal}}
+|-
+| 475 || style="height: 28px;" | {{#icon:475}} || [[Galagladi]] || Gallade || Gallame || {{Ruby|エルレイド|Erureido}} || {{Ruby|엘레이드|Ellade}} || {{Ruby|艾路雷朵 / 艾路雷朵|Àilùléiduǒ}} || {{#ic:Psycho}}&nbsp;{{#ic:Kampf}}
+|-
+| 476 || style="height: 28px;" | {{#icon:476}} || [[Voluminas]] || Probopass || Tarinorme || {{Ruby|ダイノーズ|Dainose}} || {{Ruby|대코파스|Daekopas}} || {{Ruby|大朝北鼻 / 大朝北鼻|Dàcháoběibí}} || {{#ic:Gestein}}&nbsp;{{#ic:Stahl}}
+|-
+| 477 || style="height: 28px;" | {{#icon:477}} || [[Zwirrfinst]] || Dusknoir || Noctunoir || {{Ruby|ヨノワール|Yonoir}} || {{Ruby|야느와르몽|Yaneuwareumong}} || {{Ruby|黑夜魔靈 / 黑夜魔灵|Hēiyèmólíng}} || {{#ic:Geist}}
+|-
+| 478 || style="height: 28px;" | {{#icon:478}} || [[Frosdedje]] || Froslass || Momartik || {{Ruby|ユキメノコ|Yukimenoko}} || {{Ruby|눈여아|Nunyeoa}} || {{Ruby|雪妖女 / 雪妖女|Xuěyāonǚ}} || {{#ic:Eis}}&nbsp;{{#ic:Geist}}
+|-
+| 479 || style="height: 28px;" | {{#icon:479}} || [[Rotom]] || Rotom || Motisma || {{Ruby|ロトム|Rotom}} || {{Ruby|로토무|Rotomu}} || {{Ruby|洛托姆 / 洛托姆|Luòtuōmǔ}} || {{#ic:Elektro}}&nbsp;{{#ic:Geist}}
+|-
+| 480 || style="height: 28px;" | {{#icon:480}} || [[Selfe]] || Uxie || Créhelf || {{Ruby|ユクシー|Yuxie}} || {{Ruby|유크시|Yuxie}} || {{Ruby|由克希 / 由克希|Yóukèxī}} || {{#ic:Psycho}}
+|-
+| 481 || style="height: 28px;" | {{#icon:481}} || [[Vesprit]] || Mesprit || Créfollet || {{Ruby|エムリット|Emrit}} || {{Ruby|엠라이트|Emrite}} || {{Ruby|艾姆利多 / 艾姆利多|Àimǔlìduō}} || {{#ic:Psycho}}
+|-
+| 482 || style="height: 28px;" | {{#icon:482}} || [[Tobutz]] || Azelf || Créfadet || {{Ruby|アグノム|Agnome}} || {{Ruby|아그놈|Agnome}} || {{Ruby|亞克諾姆 / 亚克诺姆|Yàkènuòmǔ}} || {{#ic:Psycho}}
+|-
+| 483 || style="height: 28px;" | {{#icon:483}} || [[Dialga]] || Dialga || Dialga || {{Ruby|ディアルガ|Dialga}} || {{Ruby|디아루가|Dialga}} || {{Ruby|帝牙盧卡 / 帝牙卢卡|Dìyálúkǎ}} || {{#ic:Stahl}}&nbsp;{{#ic:Drache}}
+|-
+| 484 || style="height: 28px;" | {{#icon:484}} || [[Palkia]] || Palkia || Palkia || {{Ruby|パルキア|Palkia}} || {{Ruby|펄기아|Palkia}} || {{Ruby|帕路奇亞 / 帕路奇亚|Pàlùqíyà}} || {{#ic:Wasser}}&nbsp;{{#ic:Drache}}
+|-
+| 485 || style="height: 28px;" | {{#icon:485}} || [[Heatran]] || Heatran || Heatran || {{Ruby|ヒードラン|Heatran}} || {{Ruby|히드런|Heatran}} || {{Ruby|席多藍恩 / 席多蓝恩|Xíduōlán'ēn}} || {{#ic:Feuer}}&nbsp;{{#ic:Stahl}}
+|-
+| 486 || style="height: 28px;" | {{#icon:486}} || [[Regigigas]] || Regigigas || Regigigas || {{Ruby|レジギガス|Regigigas}} || {{Ruby|레지기가스|Regigigas}} || {{Ruby|雷吉奇卡斯 / 雷吉奇卡斯|Léijíqíkǎsī}} || {{#ic:Normal}}
+|-
+| 487 || style="height: 28px;" | {{#icon:487}} || [[Giratina]] || Giratina || Giratina || {{Ruby|ギラティナ|Giratina}} || {{Ruby|기라티나|Giratina}} || {{Ruby|騎拉帝納 / 骑拉帝纳|Qílādìnà}} || {{#ic:Geist}}&nbsp;{{#ic:Drache}}
+|-
+| 488 || style="height: 28px;" | {{#icon:488}} || [[Cresselia]] || Cresselia || Cresselia || {{Ruby|クレセリア|Cresselia}} || {{Ruby|크레세리아|Cresselia}} || {{Ruby|克雷色利亞 / 克雷色利亚|Kèléisèlìyà}} || {{#ic:Psycho}}
+|-
+| 489 || style="height: 28px;" | {{#icon:489}} || [[Phione]] || Phione || Phione || {{Ruby|フィオネ|Phione}} || {{Ruby|피오네|Phione}} || {{Ruby|霏歐納 / 霏欧纳|Fēi'ōunà}} || {{#ic:Wasser}}
+|-
+| 490 || style="height: 28px;" | {{#icon:490}} || [[Manaphy]] || Manaphy || Manaphy || {{Ruby|マナフィ|Manaphy}} || {{Ruby|마나피|Manaphy}} || {{Ruby|瑪納霏 / 玛纳霏|Mǎnàfēi}} || {{#ic:Wasser}}
+|-
+| 491 || style="height: 28px;" | {{#icon:491}} || [[Darkrai]] || Darkrai || Darkrai || {{Ruby|ダークライ|Darkrai}} || {{Ruby|다크라이|Darkrai}} || {{Ruby|達克萊伊 / 达克莱伊|Dákèláiyī}} || {{#ic:Unlicht}}
+|-
+| 492 || style="height: 28px;" | {{#icon:492}} || [[Shaymin]] || Shaymin || Shaymin || {{Ruby|シェイミ|Shaymin}} || {{Ruby|쉐이미|Shaymin}} || {{Ruby|謝米 / 谢米|Xièmǐ}} || {{#ic:Pflanze}}
+|-
+| 493 || style="height: 28px;" | {{#icon:493}} || [[Arceus]] || Arceus || Arceus || {{Ruby|アルセウス|Arceus}} || {{Ruby|아르세우스|Arceus}} || {{Ruby|阿爾宙斯 / 阿尔宙斯|Ā'ěrzhòusī}} || {{#ic:Normal}}
+|-
+| <span id="nr494"></span> 494 || style="height: 28px;" | {{#icon:494}} || [[Victini]] || Victini || Victini || {{Ruby|ビクティニ|Victini}} || {{Ruby|비크티니|Bikeutini}} || {{Ruby|比克提尼 / 比克提尼|Bǐkètíní}} || {{#ic:Psycho}}&nbsp;{{#ic:Feuer}}
+|-
+| 495 || style="height: 28px;" | {{#icon:495}} || [[Serpifeu]] || Snivy || Vipélierre || {{Ruby|ツタージャ|Tsutarja}} || {{Ruby|주리비얀|Juribiyan}} || {{Ruby|藤藤蛇 / 藤藤蛇|Téngténgshé}} || {{#ic:Pflanze}}
+|-
+| 496 || style="height: 28px;" | {{#icon:496}} || [[Efoserp]] || Servine || Lianaja || {{Ruby|ジャノビー|Janovy}} || {{Ruby|샤비|Syabi}} || {{Ruby|青藤蛇 / 青藤蛇|Qīngténgshé}} || {{#ic:Pflanze}}
+|-
+| 497 || style="height: 28px;" | {{#icon:497}} || [[Serpiroyal]] || Serperior || Majaspic || {{Ruby|ジャローダ|Jalorda}} || {{Ruby|샤로다|Syaroda}} || {{Ruby|君主蛇 / 君主蛇|Jūnzhǔshé}} || {{#ic:Pflanze}}
+|-
+| 498 || style="height: 28px;" | {{#icon:498}} || [[Floink]] || Tepig || Gruikui || {{Ruby|ポカブ|Pokabu}} || {{Ruby|뚜꾸리|Ttukkuri}} || {{Ruby|暖暖豬 / 暖暖猪|Nuǎnnuǎnzhū}} || {{#ic:Feuer}}
+|-
+| 499 || style="height: 28px;" | {{#icon:499}} || [[Ferkokel]] || Pignite || Grotichon || {{Ruby|チャオブー|Chaoboo}} || {{Ruby|챠오꿀|Chaokkul}} || {{Ruby|炒炒豬 / 炒炒猪|Chǎochǎozhū}} || {{#ic:Feuer}}&nbsp;{{#ic:Kampf}}
+|-
+| 500 || style="height: 28px;" | {{#icon:500}} || [[Flambirex]] || Emboar || Roitiflam || {{Ruby|エンブオー|Enbuoh}} || {{Ruby|염무왕|Yeommuwang}} || {{Ruby|炎武王 / 炎武王|Yánwǔwáng}} || {{#ic:Feuer}}&nbsp;{{#ic:Kampf}}
+|-
+| 501 || style="height: 28px;" | {{#icon:501}} || [[Ottaro]] || Oshawott || Moustillon || {{Ruby|ミジュマル|Mijumaru}} || {{Ruby|수댕이|Sudaengi}} || {{Ruby|水水獺 / 水水獭|Shuǐshuǐtǎ}} || {{#ic:Wasser}}
+|-
+| 502 || style="height: 28px;" | {{#icon:502}} || [[Zwottronin]] || Dewott || Mateloutre || {{Ruby|フタチマル|Futachimaru}} || {{Ruby|쌍검자비|Ssangeomzabi}} || {{Ruby|雙刃丸 / 双刃丸|Shuāngrènwán}} || {{#ic:Wasser}}
+|-
+| 503 || style="height: 28px;" | {{#icon:503}} || [[Admurai]] || Samurott || Clamiral || {{Ruby|ダイケンキ|Daikenki}} || {{Ruby|대검귀|Daegeomgwi}} || {{Ruby|大劍鬼 / 大剑鬼|Dàjiànguǐ}} || {{#ic:Wasser}}
+|-
+| 504 || style="height: 28px;" | {{#icon:504}} || [[Nagelotz]] || Patrat || Ratentif || {{Ruby|ミネズミ|Minezumi}} || {{Ruby|보르쥐|Borujwi}} || {{Ruby|探探鼠 / 探探鼠|Tàntànshŭ}} || {{#ic:Normal}}
+|-
+| 505 || style="height: 28px;" | {{#icon:505}} || [[Kukmarda]] || Watchog || Miradar || {{Ruby|ミルホッグ|Miruhog}} || {{Ruby|보르그|Borugu}} || {{Ruby|步哨鼠 / 步哨鼠|Bùshàoshŭ}} || {{#ic:Normal}}
+|-
+| 506 || style="height: 28px;" | {{#icon:506}} || [[Yorkleff]] || Lillipup || Ponchiot || {{Ruby|ヨーテリー|Yorterrie}} || {{Ruby|요테리|Yorterrie}} || {{Ruby|小約克 / 小约克|Xiǎoyuēkè}} || {{#ic:Normal}}
+|-
+| 507 || style="height: 28px;" | {{#icon:507}} || [[Terribark]] || Herdier || Ponchien || {{Ruby|ハーデリア|Herderrie}} || {{Ruby|하데리어|Herderrie}} || {{Ruby|哈約克 / 哈约克|Hāyuēkè}} || {{#ic:Normal}}
+|-
+| 508 || style="height: 28px;" | {{#icon:508}} || [[Bissbark]] || Stoutland || Mastouffe || {{Ruby|ムーランド|Mooland}} || {{Ruby|바랜드|Baland}} || {{Ruby|長毛狗 / 长毛狗|Chángmáogŏu}} || {{#ic:Normal}}
+|-
+| 509 || style="height: 28px;" | {{#icon:509}} || [[Felilou]] || Purrloin || Chacripan || {{Ruby|チョロネコ|Choroneko}} || {{Ruby|쌔비냥|Ssaebinyang}} || {{Ruby|扒手貓 / 扒手猫|Páshǒumāo}} || {{#ic:Unlicht}}
+|-
+| 510 || style="height: 28px;" | {{#icon:510}} || [[Kleoparda]] || Liepard || Léopardus || {{Ruby|レパルダス|Lepardas}} || {{Ruby|레파르다스|Lepardas}} || {{Ruby|酷豹 / 酷豹|Kùbào}} || {{#ic:Unlicht}}
+|-
+| 511 || style="height: 28px;" | {{#icon:511}} || [[Vegimak]] || Pansage || Feuillajou || {{Ruby|ヤナップ|Yanappu}} || {{Ruby|야나프|Yanappu}} || {{Ruby|花椰猴 / 花椰猴|Huāyēhóu}} || {{#ic:Pflanze}}
+|-
+| 512 || style="height: 28px;" | {{#icon:512}} || [[Vegichita]] || Simisage || Feuiloutan || {{Ruby|ヤナッキー|Yanakkie}} || {{Ruby|야나키|Yanakkie}} || {{Ruby|花椰猿 / 花椰猿|Huāyēyuán}} || {{#ic:Pflanze}}
+|-
+| 513 || style="height: 28px;" | {{#icon:513}} || [[Grillmak]] || Pansear || Flamajou || {{Ruby|バオップ|Baoppu}} || {{Ruby|바오프|Baoppu}} || {{Ruby|爆香猴 / 爆香猴|Bàoxiānghóu}} || {{#ic:Feuer}}
+|-
+| 514 || style="height: 28px;" | {{#icon:514}} || [[Grillchita]] || Simisear || Flamoutan || {{Ruby|バオッキー|Baokkie}} || {{Ruby|바오키|Baokkie}} || {{Ruby|爆香猿 / 爆香猿|Bàoxiāngyuán}} || {{#ic:Feuer}}
+|-
+| 515 || style="height: 28px;" | {{#icon:515}} || [[Sodamak]] || Panpour || Flotajou || {{Ruby|ヒヤップ|Hiyappu}} || {{Ruby|앗차프|Atchappu}} || {{Ruby|冷水猴 / 冷水猴|Lěngshuǐhóu}} || {{#ic:Wasser}}
+|-
+| 516 || style="height: 28px;" | {{#icon:516}} || [[Sodachita]] || Simipour || Flotoutan || {{Ruby|ヒヤッキー|Hiyakkie}} || {{Ruby|앗차키|Atchakkie}} || {{Ruby|冷水猿 / 冷水猿|Lěngshuǐyuán}} || {{#ic:Wasser}}
+|-
+| 517 || style="height: 28px;" | {{#icon:517}} || [[Somniam]] || Munna || Munna || {{Ruby|ムンナ|Munna}} || {{Ruby|몽나|Mongna}} || {{Ruby|食夢夢 / 食梦梦|Shímèngmèng}} || {{#ic:Psycho}}
+|-
+| 518 || style="height: 28px;" | {{#icon:518}} || [[Somnivora]] || Musharna || Mushana || {{Ruby|ムシャーナ|Musharna}} || {{Ruby|몽얌나|Mongyamna}} || {{Ruby|夢夢蝕 / 梦梦蚀|Mèngmèngshí}} || {{#ic:Psycho}}
+|-
+| 519 || style="height: 28px;" | {{#icon:519}} || [[Dusselgurr]] || Pidove || Poichigeon || {{Ruby|マメパト|Mamepato}} || {{Ruby|콩둘기|Kongdulgi}} || {{Ruby|豆豆鴿 / 豆豆鸽|Dòudòugē}} || {{#ic:Normal}}&nbsp;{{#ic:Flug}}
+|-
+| 520 || style="height: 28px;" | {{#icon:520}} || [[Navitaub]] || Tranquill || Colombeau || {{Ruby|ハトーボー|Hatoboh}} || {{Ruby|유토브|Yutobu}} || {{Ruby|咕咕鴿 / 咕咕鸽|Gūgūgē}} || {{#ic:Normal}}&nbsp;{{#ic:Flug}}
+|-
+| 521 || style="height: 28px;" | {{#icon:521}} || [[Fasasnob]] || Unfezant || Déflaisan || {{Ruby|ケンホロウ|Kenhallow}} || {{Ruby|켄호로우|Kenhorrow}} || {{Ruby|高傲雉雞 / 高傲雉鸡|Gāo'àozhìjī}} || {{#ic:Normal}}&nbsp;{{#ic:Flug}}
+|-
+| 522 || style="height: 28px;" | {{#icon:522}} || [[Elezeba]] || Blitzle || Zébibron || {{Ruby|シママ|Shimama}} || {{Ruby|줄뮤마|Julmyuma}} || {{Ruby|斑斑馬 / 斑斑马|Bānbānmǎ}} || {{#ic:Elektro}}
+|-
+| 523 || style="height: 28px;" | {{#icon:523}} || [[Zebritz]] || Zebstrika || Zéblitz || {{Ruby|ゼブライカ|Zebraika}} || {{Ruby|제브라이카|Zebraika}} || {{Ruby|雷電斑馬 / 雷电斑马|Léidiànbānmǎ}} || {{#ic:Elektro}}
+|-
+| 524 || style="height: 28px;" | {{#icon:524}} || [[Kiesling]] || Roggenrola || Nodulithe || {{Ruby|ダンゴロ|Dangoro}} || {{Ruby|단굴|Dangul}} || {{Ruby|石丸子 / 石丸子|Shíwánzǐ}} || {{#ic:Gestein}}
+|-
+| 525 || style="height: 28px;" | {{#icon:525}} || [[Sedimantur]] || Boldore || Géolithe || {{Ruby|ガントル|Gantle}} || {{Ruby|암트르|Amtru}} || {{Ruby|地幔岩 / 地幔岩|Dìmànyán}} || {{#ic:Gestein}}
+|-
+| 526 || style="height: 28px;" | {{#icon:526}} || [[Brockoloss]] || Gigalith || Gigalithe || {{Ruby|ギガイアス|Gigaiath}} || {{Ruby|기가이어스|Gigaiath}} || {{Ruby|龐岩怪 / 庞岩怪|Pángyánguài}} || {{#ic:Gestein}}
+|-
+| 527 || style="height: 28px;" | {{#icon:527}} || [[Fleknoil]] || Woobat || Chovsourir || {{Ruby|コロモリ|Koromori}} || {{Ruby|또르박쥐|Ttorbakjwi}} || {{Ruby|滾滾蝙蝠 / 滚滚蝙蝠|Gǔngǔnbiānfú}} || {{#ic:Psycho}}&nbsp;{{#ic:Flug}}
+|-
+| 528 || style="height: 28px;" | {{#icon:528}} || [[Fletiamo]] || Swoobat || Rhinolove || {{Ruby|ココロモリ|Kokoromori}} || {{Ruby|맘박쥐|Mambakjwi}} || {{Ruby|心蝙蝠 / 心蝙蝠|Xīnbiānfú}} || {{#ic:Psycho}}&nbsp;{{#ic:Flug}}
+|-
+| 529 || style="height: 28px;" | {{#icon:529}} || [[Rotomurf]] || Drilbur || Rototaupe || {{Ruby|モグリュー|Mogurew}} || {{Ruby|두더류|Dudeoryu}} || {{Ruby|螺釘地鼠 / 螺钉地鼠|Luódīngdìshǔ}} || {{#ic:Boden}}
+|-
+| 530 || style="height: 28px;" | {{#icon:530}} || [[Stalobor]] || Excadrill || Minotaupe || {{Ruby|ドリュウズ|Doryuzu}} || {{Ruby|몰드류|Moldryu}} || {{Ruby|龍頭地鼠 / 龙头地鼠|Lóngtóudìshǔ}} || {{#ic:Boden}}&nbsp;{{#ic:Stahl}}
+|-
+| 531 || style="height: 28px;" | {{#icon:531}} || [[Ohrdoch]] || Audino || Nanméouïe || {{Ruby|タブンネ|Tabunne}} || {{Ruby|다부니|Dabunie}} || {{Ruby|差不多娃娃 / 差不多娃娃|Chàbùduōwáwá}} || {{#ic:Normal}}
+|-
+| 532 || style="height: 28px;" | {{#icon:532}} || [[Praktibalk]] || Timburr || Charpenti || {{Ruby|ドッコラー|Dokkorer}} || {{Ruby|으랏차|Uratcha}} || {{Ruby|搬運小匠 / 搬运小匠|Bānyùnxiǎojiàng}} || {{#ic:Kampf}}
+|-
+| 533 || style="height: 28px;" | {{#icon:533}} || [[Strepoli]] || Gurdurr || Ouvrifier || {{Ruby|ドテッコツ|Dotekkotsu}} || {{Ruby|토쇠골|Tosoegol}} || {{Ruby|鐵骨土人 / 铁骨土人|Tiěgǔtǔrén}} || {{#ic:Kampf}}
+|-
+| 534 || style="height: 28px;" | {{#icon:534}} || [[Meistagrif]] || Conkeldurr || Bétochef || {{Ruby|ローブシン|Roubushin}} || {{Ruby|노보청|Nobocheong}} || {{Ruby|修建老匠 / 修建老匠|Xiūjiànlǎojiàng}} || {{#ic:Kampf}}
+|-
+| 535 || style="height: 28px;" | {{#icon:535}} || [[Schallquap]] || Tympole || Tritonde || {{Ruby|オタマロ|Otamaro}} || {{Ruby|동챙이|Dongchaengi}} || {{Ruby|圓蝌蚪 / 圆蝌蚪|Yuánkēdǒu}} || {{#ic:Wasser}}
+|-
+| 536 || style="height: 28px;" | {{#icon:536}} || [[Mebrana]] || Palpitoad || Batracné || {{Ruby|ガマガル|Gamagaru}} || {{Ruby|두까비|Dukkabi}} || {{Ruby|藍蟾蜍 / 蓝蟾蜍|Lánchánchú}} || {{#ic:Wasser}}&nbsp;{{#ic:Boden}}
+|-
+| 537 || style="height: 28px;" | {{#icon:537}} || [[Branawarz]] || Seismitoad || Crapustule || {{Ruby|ガマゲロゲ|Gamageroge}} || {{Ruby|두빅굴|Dubiggul}} || {{Ruby|蟾蜍王 / 蟾蜍王|Chánchúwáng}} || {{#ic:Wasser}}&nbsp;{{#ic:Boden}}
+|-
+| 538 || style="height: 28px;" | {{#icon:538}} || [[Jiutesto]] || Throh || Judokrak || {{Ruby|ナゲキ|Nageki}} || {{Ruby|던지미|Deonjimi}} || {{Ruby|投摔鬼 / 投摔鬼|Tóushuāiguǐ}} || {{#ic:Kampf}}
+|-
+| 539 || style="height: 28px;" | {{#icon:539}} || [[Karadonis]] || Sawk || Karaclée || {{Ruby|ダゲキ|Dageki}} || {{Ruby|타격귀|Tagyeokgwi}} || {{Ruby|打擊鬼 / 打击鬼|Dǎjīguǐ}} || {{#ic:Kampf}}
+|-
+| 540 || style="height: 28px;" | {{#icon:540}} || [[Strawickl]] || Sewaddle || Larveyette || {{Ruby|クルミル|Kurumiru}} || {{Ruby|두르보|Durbo}} || {{Ruby|蟲寶包 / 虫宝包|Chóngbǎobāo}} || {{#ic:Käfer}}&nbsp;{{#ic:Pflanze}}
+|-
+| 541 || style="height: 28px;" | {{#icon:541}} || [[Folikon]] || Swadloon || Couverdure || {{Ruby|クルマユ|Kurumayu}} || {{Ruby|두르쿤|Durcoon}} || {{Ruby|寶包繭 / 宝包茧|Bǎobāojiǎn}} || {{#ic:Käfer}}&nbsp;{{#ic:Pflanze}}
+|-
+| 542 || style="height: 28px;" | {{#icon:542}} || [[Matrifol]] || Leavanny || Manternel || {{Ruby|ハハコモリ|Hahakomori}} || {{Ruby|모아머|Moameo}} || {{Ruby|保母蟲 / 保姆虫|Bǎomǔchóng}} || {{#ic:Käfer}}&nbsp;{{#ic:Pflanze}}
+|-
+| 543 || style="height: 28px;" | {{#icon:543}} || [[Toxiped]] || Venipede || Venipatte || {{Ruby|フシデ|Fushide}} || {{Ruby|마디네|Madine}} || {{Ruby|百足蜈蚣 / 百足蜈蚣|Bǎizúwúgōng}} || {{#ic:Käfer}}&nbsp;{{#ic:Gift}}
+|-
+| 544 || style="height: 28px;" | {{#icon:544}} || [[Rollum]] || Whirlipede || Scobolide || {{Ruby|ホイーガ|Wheega}} || {{Ruby|휠구|Hwilgu}} || {{Ruby|車輪毬 / 车轮球|Chēlúnqiú}} || {{#ic:Käfer}}&nbsp;{{#ic:Gift}}
+|-
+| 545 || style="height: 28px;" | {{#icon:545}} || [[Cerapendra]] || Scolipede || Brutapode || {{Ruby|ペンドラー|Pendror}} || {{Ruby|펜드라|Pendror}} || {{Ruby|蜈蚣王 / 蜈蚣王|Wúgōngwáng}} || {{#ic:Käfer}}&nbsp;{{#ic:Gift}}
+|-
+| 546 || style="height: 28px;" | {{#icon:546}} || [[Waumboll]] || Cottonee || Doudouvet || {{Ruby|モンメン|Monmen}} || {{Ruby|소미안|Somian}} || {{Ruby|木棉球 / 木棉球|Mùmiánqiú}} || {{#ic:Pflanze}}&nbsp;{{#ic:Fee}}
+|-
+| 547 || style="height: 28px;" | {{#icon:547}} || [[Elfun]] || Whimsicott || Farfaduvet || {{Ruby|エルフーン|Elfuun}} || {{Ruby|엘풍|Elfuun}} || {{Ruby|風妖精 / 风妖精|Fēngyāojīng}} || {{#ic:Pflanze}}&nbsp;{{#ic:Fee}}
+|-
+| 548 || style="height: 28px;" | {{#icon:548}} || [[Lilminip]] || Petilil || Chlorobule || {{Ruby|チュリネ|Churine}} || {{Ruby|치릴리|Chirilri}} || {{Ruby|百合根娃娃 / 百合根娃娃|Bǎihégēnwáwá}} || {{#ic:Pflanze}}
+|-
+| 549 || style="height: 28px;" | {{#icon:549}} || [[Dressella]] || Lilligant || Fragilady || {{Ruby|ドレディア|Dredear}} || {{Ruby|드레디어|Dredear}} || {{Ruby|裙兒小姐 / 裙儿小姐|Qún'érxiǎojiě}} || {{#ic:Pflanze}}
+|-
+| 550 || style="height: 28px;" | {{#icon:550}} || [[Barschuft]] || Basculin || Bargantua || {{Ruby|バスラオ|Bassrao}} || {{Ruby|배쓰나이|Bessnai}} || {{Ruby|野蠻鱸魚 / 野蛮鲈鱼|Yěmánlúyú}} || {{#ic:Wasser}}
+|-
+| 551 || style="height: 28px;" | {{#icon:551}} || [[Ganovil]] || Sandile || Mascaïman || {{Ruby|メグロコ|Meguroco}} || {{Ruby|깜눈크|Kkamnunku}} || {{Ruby|黑眼鱷 / 黑眼鳄|Hēiyǎn'è}} || {{#ic:Boden}}&nbsp;{{#ic:Unlicht}}
+|-
+| 552 || style="height: 28px;" | {{#icon:552}} || [[Rokkaiman]] || Krokorok || Escroco || {{Ruby|ワルビル|Waruvile}} || {{Ruby|악비르|Akbir}} || {{Ruby|混混鱷 / 混混鳄|Hùnhùn'è}} || {{#ic:Boden}}&nbsp;{{#ic:Unlicht}}
+|-
+| 553 || style="height: 28px;" | {{#icon:553}} || [[Rabigator]] || Krookodile || Crocorible || {{Ruby|ワルビアル|Waruvial}} || {{Ruby|악비아르|Akbiar}} || {{Ruby|流氓鱷 / 流氓鳄|Liúmáng'è}} || {{#ic:Boden}}&nbsp;{{#ic:Unlicht}}
+|-
+| 554 || style="height: 28px;" | {{#icon:554}} || [[Flampion]] || Darumaka || Darumarond || {{Ruby|ダルマッカ|Darumakka}} || {{Ruby|달막화|Dalmakhwa}} || {{Ruby|火紅不倒翁 / 火红不倒翁|Huǒhóngbùdǎowēng}} || {{#ic:Feuer}}
+|-
+| 555 || style="height: 28px;" | {{#icon:555}} || [[Flampivian]] || Darmanitan || Darumacho || {{Ruby|ヒヒダルマ|Hihidaruma}} || {{Ruby|불비달마|Bulbidalma}} || {{Ruby|達摩狒狒 / 达摩狒狒|Dámófèifèi}} || {{#ic:Feuer}}
+|-
+| 556 || style="height: 28px;" | {{#icon:556}} || [[Maracamba]] || Maractus || Maracachi || {{Ruby|マラカッチ|Maracacchi}} || {{Ruby|마라카치|Maracacchi}} || {{Ruby|沙鈴仙人掌 / 沙铃仙人掌|Shālíngxiānrénzhǎng}} || {{#ic:Pflanze}}
+|-
+| 557 || style="height: 28px;" | {{#icon:557}} || [[Lithomith]] || Dwebble || Crabicoque || {{Ruby|イシズマイ|Ishizumai}} || {{Ruby|돌살이|Dolsari}} || {{Ruby|石居蟹 / 石居蟹|Shíjūxiè}} || {{#ic:Käfer}}&nbsp;{{#ic:Gestein}}
+|-
+| 558 || style="height: 28px;" | {{#icon:558}} || [[Castellith]] || Crustle || Crabaraque || {{Ruby|イワパレス|Iwapalace}} || {{Ruby|암팰리스|Ampalace}} || {{Ruby|岩殿居蟹 / 岩殿居蟹|Yándiànjūxiè}} || {{#ic:Käfer}}&nbsp;{{#ic:Gestein}}
+|-
+| 559 || style="height: 28px;" | {{#icon:559}} || [[Zurrokex]] || Scraggy || Baggiguane || {{Ruby|ズルッグ|Zuruggu}} || {{Ruby|곤율랭|Gonyulraeng}} || {{Ruby|滑滑小子 / 滑滑小子|Huáhuáxiǎozǐ}} || {{#ic:Unlicht}}&nbsp;{{#ic:Kampf}}
+|-
+| 560 || style="height: 28px;" | {{#icon:560}} || [[Irokex]] || Scrafty || Baggaïd || {{Ruby|ズルズキン|Zuruzukin}} || {{Ruby|곤율거니|Gonyulgeoni}} || {{Ruby|頭巾混混 / 头巾混混|Tóujīnhùnhùn}} || {{#ic:Unlicht}}&nbsp;{{#ic:Kampf}}
+|-
+| 561 || style="height: 28px;" | {{#icon:561}} || [[Symvolara]] || Sigilyph || Cryptéro || {{Ruby|シンボラー|Symboler}} || {{Ruby|심보러|Symboler}} || {{Ruby|象徵鳥 / 象征鸟|Xiàngzhēngniǎo}} || {{#ic:Psycho}}&nbsp;{{#ic:Flug}}
+|-
+| 562 || style="height: 28px;" | {{#icon:562}} || [[Makabaja]] || Yamask || Tutafeh || {{Ruby|デスマス|Desumasu}} || {{Ruby|데스마스|Desumasu}} || {{Ruby|哭哭面具 / 哭哭面具|Kūkūmiànjù}} || {{#ic:Geist}}
+|-
+| 563 || style="height: 28px;" | {{#icon:563}} || [[Echnatoll]] || Cofagrigus || Tutankafer || {{Ruby|デスカーン|Desukarn}} || {{Ruby|데스니칸|Desunikan}} || {{Ruby|死神棺 / {{tt|迭失棺|früher: 死神棺}}|Sǐshénguān / Diéshīguān}} || {{#ic:Geist}}
+|-
+| 564 || style="height: 28px;" | {{#icon:564}} || [[Galapaflos]] || Tirtouga || Carapagos || {{Ruby|プロトーガ|Protoga}} || {{Ruby|프로토가|Protoga}} || {{Ruby|原蓋海龜 / 原盖海龟|Yuángàihǎiguī}} || {{#ic:Wasser}}&nbsp;{{#ic:Gestein}}
+|-
+| 565 || style="height: 28px;" | {{#icon:565}} || [[Karippas]] || Carracosta || Mégapagos || {{Ruby|アバゴーラ|Abagoura}} || {{Ruby|늑골라|Neukgolra}} || {{Ruby|肋骨海龜 / 肋骨海龟|Lèigǔhǎiguī}} || {{#ic:Wasser}}&nbsp;{{#ic:Gestein}}
+|-
+| 566 || style="height: 28px;" | {{#icon:566}} || [[Flapteryx]] || Archen || Arkéapti || {{Ruby|アーケン|Archen}} || {{Ruby|아켄|Aken}} || {{Ruby|始祖小鳥 / 始祖小鸟|Shǐzǔxiǎoniǎo}} || {{#ic:Gestein}}&nbsp;{{#ic:Flug}}
+|-
+| 567 || style="height: 28px;" | {{#icon:567}} || [[Aeropteryx]] || Archeops || Aéroptéryx || {{Ruby|アーケオス|Archeos}} || {{Ruby|아케오스|Akeos}} || {{Ruby|始祖大鳥 / 始祖大鸟|Shǐzǔdàniǎo}} || {{#ic:Gestein}}&nbsp;{{#ic:Flug}}
+|-
+| 568 || style="height: 28px;" | {{#icon:568}} || [[Unratütox]] || Trubbish || Miamiasme || {{Ruby|ヤブクロン|Yabukuron}} || {{Ruby|깨봉이|Kkaebongi}} || {{Ruby|破破袋 / 破破袋|Pòpòdài}} || {{#ic:Gift}}
+|-
+| 569 || style="height: 28px;" | {{#icon:569}} || [[Deponitox]] || Garbodor || Miasmax || {{Ruby|ダストダス|Dustdas}} || {{Ruby|더스트나|Dustna}} || {{Ruby|灰塵山 / 灰尘山|Huīchénshān}} || {{#ic:Gift}}
+|-
+| 570 || style="height: 28px;" | {{#icon:570}} || [[Zorua]] || Zorua || Zorua || {{Ruby|ゾロア|Zorua}} || {{Ruby|조로아|Zorua}} || {{Ruby|索羅亞 / 索罗亚|Suǒluóyà}} || {{#ic:Unlicht}}
+|-
+| 571 || style="height: 28px;" | {{#icon:571}} || [[Zoroark]] || Zoroark || Zoroark || {{Ruby|ゾロアーク|Zoroark}} || {{Ruby|조로아크|Zoroark}} || {{Ruby|索羅亞克 / 索罗亚克|Suǒluóyàkè}} || {{#ic:Unlicht}}
+|-
+| 572 || style="height: 28px;" | {{#icon:572}} || [[Picochilla]] || Minccino || Chinchidou || {{Ruby|チラーミィ|Chillarmy}} || {{Ruby|치라미|Chillarmy}} || {{Ruby|泡沫栗鼠 / 泡沫栗鼠|Pàomòlìshǔ}} || {{#ic:Normal}}
+|-
+| 573 || style="height: 28px;" | {{#icon:573}} || [[Chillabell]] || Cinccino || Pashmilla || {{Ruby|チラチーノ|Chillaccino}} || {{Ruby|치라치노|Chillaccino}} || {{Ruby|奇諾栗鼠 / 奇诺栗鼠|Qínuòlìshǔ}} || {{#ic:Normal}}
+|-
+| 574 || style="height: 28px;" | {{#icon:574}} || [[Mollimorba]] || Gothita || Scrutella || {{Ruby|ゴチム|Gothimu}} || {{Ruby|고디탱|Goditeng}} || {{Ruby|哥德寶寶 / 哥德宝宝|Gēdébǎobǎo}} || {{#ic:Psycho}}
+|-
+| 575 || style="height: 28px;" | {{#icon:575}} || [[Hypnomorba]] || Gothorita || Mesmérella || {{Ruby|ゴチミル|Gothimiru}} || {{Ruby|고디보미|Godibomi}} || {{Ruby|哥德小童 / 哥德小童|Gēdéxiǎotóng}} || {{#ic:Psycho}}
+|-
+| 576 || style="height: 28px;" | {{#icon:576}} || [[Morbitesse]] || Gothitelle || Sidérella || {{Ruby|ゴチルゼル|Gothiruselle}} || {{Ruby|고디모아젤|Godimoiselle}} || {{Ruby|哥德小姐 / 哥德小姐|Gēdéxiǎojiě}} || {{#ic:Psycho}}
+|-
+| 577 || style="height: 28px;" | {{#icon:577}} || [[Monozyto]] || Solosis || Nucléos || {{Ruby|ユニラン|Uniran}} || {{Ruby|유니란|Uniran}} || {{Ruby|單卵細胞球 / 单卵细胞球|Dānluǎnxìbāoqiú}} || {{#ic:Psycho}}
+|-
+| 578 || style="height: 28px;" | {{#icon:578}} || [[Mitodos]] || Duosion || Méios || {{Ruby|ダブラン|Doublan}} || {{Ruby|듀란|Dyuran}} || {{Ruby|雙卵細胞球 / 双卵细胞球|Shuāngluǎnxìbāoqiú}} || {{#ic:Psycho}}
+|-
+| 579 || style="height: 28px;" | {{#icon:579}} || [[Zytomega]] || Reuniclus || Symbios || {{Ruby|ランクルス|Lanculus}} || {{Ruby|란쿨루스|Lanculus}} || {{Ruby|人造細胞卵 / 人造细胞卵|Rénzàoxìbāoluǎn}} || {{#ic:Psycho}}
+|-
+| 580 || style="height: 28px;" | {{#icon:580}} || [[Piccolente]] || Ducklett || Couaneton || {{Ruby|コアルヒー|Koaruhie}} || {{Ruby|꼬지보리|Kkojibori}} || {{Ruby|鴨寶寶 / 鸭宝宝|Yābǎobǎo}} || {{#ic:Wasser}}&nbsp;{{#ic:Flug}}
+|-
+| 581 || style="height: 28px;" | {{#icon:581}} || [[Swaroness]] || Swanna || Lakmécygne || {{Ruby|スワンナ|Swanna}} || {{Ruby|스완나|Swanna}} || {{Ruby|舞天鵝 / 舞天鹅|Wǔtiān'é}} || {{#ic:Wasser}}&nbsp;{{#ic:Flug}}
+|-
+| 582 || style="height: 28px;" | {{#icon:582}} || [[Gelatini]] || Vanillite || Sorbébé || {{Ruby|バニプッチ|Vanipeti}} || {{Ruby|바닐프티|Vanipeti}} || {{Ruby|迷你冰 / 迷你冰|Mínǐbīng}} || {{#ic:Eis}}
+|-
+| 583 || style="height: 28px;" | {{#icon:583}} || [[Gelatroppo]] || Vanillish || Sorboul || {{Ruby|バニリッチ|Vanirich}} || {{Ruby|바닐리치|Vanirich}} || {{Ruby|多多冰 / 多多冰|Duōduōbīng}} || {{#ic:Eis}}
+|-
+| 584 || style="height: 28px;" | {{#icon:584}} || [[Gelatwino]] || Vanilluxe || Sorbouboul || {{Ruby|バイバニラ|Baivanilla}} || {{Ruby|배바닐라|Baevanilla}} || {{Ruby|雙倍多多冰 / 双倍多多冰|Shuāngbèiduōduōbīng}} || {{#ic:Eis}}
+|-
+| 585 || style="height: 28px;" | {{#icon:585}} || [[Sesokitz]] || Deerling || Vivaldaim || {{Ruby|シキジカ|Shikijika}} || {{Ruby|사철록|Sacheolrok}} || {{Ruby|四季鹿 / 四季鹿|Sìjìlù}} || {{#ic:Normal}}&nbsp;{{#ic:Pflanze}}
+|-
+| 586 || style="height: 28px;" | {{#icon:586}} || [[Kronjuwild]] || Sawsbuck || Haydaim || {{Ruby|メブキジカ|Mebukijika}} || {{Ruby|바라철록|Baracheolrok}} || {{Ruby|萌芽鹿 / 萌芽鹿|Méngyálù}} || {{#ic:Normal}}&nbsp;{{#ic:Pflanze}}
+|-
+| 587 || style="height: 28px;" | {{#icon:587}} || [[Emolga]] || Emolga || Emolga || {{Ruby|エモンガ|Emonga}} || {{Ruby|에몽가|Emonga}} || {{Ruby|電飛鼠 / 电飞鼠|Diànfēishǔ}} || {{#ic:Elektro}}&nbsp;{{#ic:Flug}}
+|-
+| 588 || style="height: 28px;" | {{#icon:588}} || [[Laukaps]] || Karrablast || Carabing || {{Ruby|カブルモ|Kaburumo}} || {{Ruby|딱정곤|Ttakjeonggon}} || {{Ruby|蓋蓋蟲 / 盖盖虫|Gàigàichóng}} || {{#ic:Käfer}}
+|-
+| 589 || style="height: 28px;" | {{#icon:589}} || [[Cavalanzas]] || Escavalier || Lançargot || {{Ruby|シュバルゴ|Chevargo}} || {{Ruby|슈바르고|Chevargo}} || {{Ruby|騎士蝸牛 / 骑士蜗牛|Qíshìwōniú}} || {{#ic:Käfer}}&nbsp;{{#ic:Stahl}}
+|-
+| 590 || style="height: 28px;" | {{#icon:590}} || [[Tarnpignon]] || Foongus || Trompignon || {{Ruby|タマゲタケ|Tamagetake}} || {{Ruby|깜놀버슬|Kamnolberseul}} || {{Ruby|哎呀球菇 / 哎呀球菇|Āiyāqiúgū}} || {{#ic:Pflanze}}&nbsp;{{#ic:Gift}}
+|-
+| 591 || style="height: 28px;" | {{#icon:591}} || [[Hutsassa]] || Amoonguss || Gaulet || {{Ruby|モロバレル|Morobareru}} || {{Ruby|뽀록나|Pporokna}} || {{Ruby|敗露球菇 / 败露球菇|Bàilùqiúgū}} || {{#ic:Pflanze}}&nbsp;{{#ic:Gift}}
+|-
+| 592 || style="height: 28px;" | {{#icon:592}} || [[Quabbel]] || Frillish || Viskuse || {{Ruby|プルリル|Pururill}} || {{Ruby|탱그릴|Tengguril}} || {{Ruby|輕飄飄 / 轻飘飘|Qīngpiāopiāo}} || {{#ic:Wasser}}&nbsp;{{#ic:Geist}}
+|-
+| 593 || style="height: 28px;" | {{#icon:593}} || [[Apoquallyp]] || Jellicent || Moyade || {{Ruby|ブルンゲル|Burungel}} || {{Ruby|탱탱겔|Taengtaenggel}} || {{Ruby|胖嘟嘟 / 胖嘟嘟|Pàngdūdū}} || {{#ic:Wasser}}&nbsp;{{#ic:Geist}}
+|-
+| 594 || style="height: 28px;" | {{#icon:594}} || [[Mamolida]] || Alomomola || Mamanbo || {{Ruby|ママンボウ|Mamanbou}} || {{Ruby|맘복치|Mambokchi}} || {{Ruby|保母曼波 / 保姆曼波|Bǎomǔmànbō}} || {{#ic:Wasser}}
+|-
+| 595 || style="height: 28px;" | {{#icon:595}} || [[Wattzapf]] || Joltik || Statitik || {{Ruby|バチュル|Bachuru}} || {{Ruby|피쪼옥|Pazzouok}} || {{Ruby|電電蟲 / 电电虫|Diàndiànchóng}} || {{#ic:Käfer}}&nbsp;{{#ic:Elektro}}
+|-
+| 596 || style="height: 28px;" | {{#icon:596}} || [[Voltula]] || Galvantula || Mygavolt || {{Ruby|デンチュラ|Dentula}} || {{Ruby|전툴라|Jeontula}} || {{Ruby|電蜘蛛 / 电蜘蛛|Diànzhīzhū}} || {{#ic:Käfer}}&nbsp;{{#ic:Elektro}}
+|-
+| 597 || style="height: 28px;" | {{#icon:597}} || [[Kastadur]] || Ferroseed || Grindur || {{Ruby|テッシード|Tesseed}} || {{Ruby|철시드|Cheolseed}} || {{Ruby|種子鐵球 / 种子铁球|Zhǒngzǐtiěqiú}} || {{#ic:Pflanze}}&nbsp;{{#ic:Stahl}}
+|-
+| 598 || style="height: 28px;" | {{#icon:598}} || [[Tentantel]] || Ferrothorn || Noacier || {{Ruby|ナットレイ|Nutrey}} || {{Ruby|너트령|Nutryung}} || {{Ruby|堅果啞鈴 / 坚果哑铃|Jiānguǒyǎlíng}} || {{#ic:Pflanze}}&nbsp;{{#ic:Stahl}}
+|-
+| 599 || style="height: 28px;" | {{#icon:599}} || [[Klikk]] || Klink || Tic || {{Ruby|ギアル|Giaru}} || {{Ruby|기어르|Giaru}} || {{Ruby|齒輪兒 / 齿轮儿|Chǐlún'ér}} || {{#ic:Stahl}}
+|-
+| 600 || style="height: 28px;" | {{#icon:600}} || [[Kliklak]] || Klang || Clic || {{Ruby|ギギアル|Gigiaru}} || {{Ruby|기기어르|Gigiaru}} || {{Ruby|齒輪組 / 齿轮组|Chǐlúnzǔ}} || {{#ic:Stahl}}
+|-
+| 601 || style="height: 28px;" | {{#icon:601}} || [[Klikdiklak]] || Klinklang || Cliticlic || {{Ruby|ギギギアル|Gigigiaru}} || {{Ruby|기기기어르|Gigigiaru}} || {{Ruby|齒輪怪 / 齿轮怪|Chǐlúnguài}} || {{#ic:Stahl}}
+|-
+| 602 || style="height: 28px;" | {{#icon:602}} || [[Zapplardin]] || Tynamo || Anchwatt || {{Ruby|シビシラス|Shibishirasu}} || {{Ruby|저리어|Jeorieo}} || {{Ruby|麻麻小魚 / 麻麻小鱼|Mámáxiǎoyú}} || {{#ic:Elektro}}
+|-
+| 603 || style="height: 28px;" | {{#icon:603}} || [[Zapplalek]] || Eelektrik || Lampéroie || {{Ruby|シビビール|Shibibeel}} || {{Ruby|저리릴|Jeoriril}} || {{Ruby|麻麻鰻 / 麻麻鳗|Mámámán}} || {{#ic:Elektro}}
+|-
+| 604 || style="height: 28px;" | {{#icon:604}} || [[Zapplarang]] || Eelektross || Ohmassacre || {{Ruby|シビルドン|Shibirudon}} || {{Ruby|저리더프|Jeorideof}} || {{Ruby|麻麻鰻魚王 / 麻麻鳗鱼王|Mámámányúwáng}} || {{#ic:Elektro}}
+|-
+| 605 || style="height: 28px;" | {{#icon:605}} || [[Pygraulon]] || Elgyem || Lewsor || {{Ruby|リグレー|Ligray}} || {{Ruby|리그레|Ligray}} || {{Ruby|小灰怪 / 小灰怪|Xiǎohuīguài}} || {{#ic:Psycho}}
+|-
+| 606 || style="height: 28px;" | {{#icon:606}} || [[Megalon]] || Beheeyem || Neitram || {{Ruby|オーベム|Ohbem}} || {{Ruby|벰크|Bemk}} || {{Ruby|大宇怪 / 大宇怪|Dàyǔguài}} || {{#ic:Psycho}}
+|-
+| 607 || style="height: 28px;" | {{#icon:607}} || [[Lichtel]] || Litwick || Funécire || {{Ruby|ヒトモシ|Hitomoshi}} || {{Ruby|불켜미|Bulkyeomi}} || {{Ruby|燭光靈 / 烛光灵|Zhúguānglíng}} || {{#ic:Geist}}&nbsp;{{#ic:Feuer}}
+|-
+| 608 || style="height: 28px;" | {{#icon:608}} || [[Laternecto]] || Lampent || Mélancolux || {{Ruby|ランプラー|Lampler}} || {{Ruby|램프라|Lampler}} || {{Ruby|燈火幽靈 / 灯火幽灵|Dēnghuǒyōulíng}} || {{#ic:Geist}}&nbsp;{{#ic:Feuer}}
+|-
+| 609 || style="height: 28px;" | {{#icon:609}} || [[Skelabra]] || Chandelure || Lugulabre || {{Ruby|シャンデラ|Chandela}} || {{Ruby|샹델라|Chandela}} || {{Ruby|水晶燈火靈 / 水晶灯火灵|Shuǐjīngdēnghuǒlíng}} || {{#ic:Geist}}&nbsp;{{#ic:Feuer}}
+|-
+| 610 || style="height: 28px;" | {{#icon:610}} || [[Milza]] || Axew || Coupenotte || {{Ruby|キバゴ|Kibago}} || {{Ruby|터검니|Teogeomni}} || {{Ruby|牙牙 / 牙牙|Yáyá}} || {{#ic:Drache}}
+|-
+| 611 || style="height: 28px;" | {{#icon:611}} || [[Sharfax]] || Fraxure || Incisache || {{Ruby|オノンド|Onondo}} || {{Ruby|액슨도|Axndo}} || {{Ruby|斧牙龍 / 斧牙龙|Fǔyálóng}} || {{#ic:Drache}}
+|-
+| 612 || style="height: 28px;" | {{#icon:612}} || [[Maxax]] || Haxorus || Tranchodon || {{Ruby|オノノクス|Ononokus}} || {{Ruby|액스라이즈|Axrise}} || {{Ruby|雙斧戰龍 / 双斧战龙|Shuāngfǔzhànlóng}} || {{#ic:Drache}}
+|-
+| 613 || style="height: 28px;" | {{#icon:613}} || [[Petznief]] || Cubchoo || Polarhume || {{Ruby|クマシュン|Kumasyun}} || {{Ruby|코고미|Kogomi}} || {{Ruby|噴嚏熊 / 喷嚏熊|Pēntìxióng}} || {{#ic:Eis}}
+|-
+| 614 || style="height: 28px;" | {{#icon:614}} || [[Siberio]] || Beartic || Polagriffe || {{Ruby|ツンベアー|Tunbear}} || {{Ruby|툰베어|Tunbear}} || {{Ruby|凍原熊 / 冻原熊|Dòngyuánxióng}} || {{#ic:Eis}}
+|-
+| 615 || style="height: 28px;" | {{#icon:615}} || [[Frigometri]] || Cryogonal || Hexagel || {{Ruby|フリージオ|Freegeo}} || {{Ruby|프리지오|Freegeo}} || {{Ruby|幾何雪花 / 几何雪花|Jǐhéxuěhuā}} || {{#ic:Eis}}
+|-
+| 616 || style="height: 28px;" | {{#icon:616}} || [[Schnuthelm]] || Shelmet || Escargaume || {{Ruby|チョボマキ|Chobomaki}} || {{Ruby|쪼마리|Jjomari}} || {{Ruby|小嘴蝸 / 小嘴蜗|Xiǎozuǐwō}} || {{#ic:Käfer}}
+|-
+| 617 || style="height: 28px;" | {{#icon:617}} || [[Hydragil]] || Accelgor || Limaspeed || {{Ruby|アギルダー|Agilder}} || {{Ruby|어지리더|Eojirideo}} || {{Ruby|敏捷蟲 / 敏捷虫|Mǐnjiéchóng}} || {{#ic:Käfer}}
+|-
+| 618 || style="height: 28px;" | {{#icon:618}} || [[Flunschlik]] || Stunfisk || Limonde || {{Ruby|マッギョ|Maggyo}} || {{Ruby|메더|Medeo}} || {{Ruby|泥巴魚 / 泥巴鱼|Níbāyú}} || {{#ic:Boden}}&nbsp;{{#ic:Elektro}}
+|-
+| 619 || style="height: 28px;" | {{#icon:619}} || [[Lin-Fu]] || Mienfoo || Kungfouine || {{Ruby|コジョフー|Kojofu}} || {{Ruby|비조푸|Bizofu}} || {{Ruby|功夫鼬 / 功夫鼬|Gōngfūyòu}} || {{#ic:Kampf}}
+|-
+| 620 || style="height: 28px;" | {{#icon:620}} || [[Wie-Shu]] || Mienshao || Shaofouine || {{Ruby|コジョンド|Kojondo}} || {{Ruby|비조도|Bizodo}} || {{Ruby|師父鼬 / 师父鼬|Shīfùyòu}} || {{#ic:Kampf}}
+|-
+| 621 || style="height: 28px;" | {{#icon:621}} || [[Shardrago]] || Druddigon || Drakkarmin || {{Ruby|クリムガン|Crimgan}} || {{Ruby|크리만|Criman}} || {{Ruby|赤面龍 / 赤面龙|Chìmiànlóng}} || {{#ic:Drache}}
+|-
+| 622 || style="height: 28px;" | {{#icon:622}} || [[Golbit]] || Golett || Gringolem || {{Ruby|ゴビット|Gobit}} || {{Ruby|골비람|Golbiram}} || {{Ruby|泥偶小人 / 泥偶小人|Ní'ǒuxiǎorén}} || {{#ic:Boden}}&nbsp;{{#ic:Geist}}
+|-
+| 623 || style="height: 28px;" | {{#icon:623}} || [[Golgantes]] || Golurk || Golemastoc || {{Ruby|ゴルーグ|Goloog}} || {{Ruby|골루그|Goloog}} || {{Ruby|泥偶巨人 / 泥偶巨人|Ní'ǒujùrén}} || {{#ic:Boden}}&nbsp;{{#ic:Geist}}
+|-
+| 624 || style="height: 28px;" | {{#icon:624}} || [[Gladiantri]] || Pawniard || Scalpion || {{Ruby|コマタナ|Komatana}} || {{Ruby|자망칼|Jamangkal}} || {{Ruby|駒刀小兵 / 驹刀小兵|Jūdāoxiǎobīng}} || {{#ic:Unlicht}}&nbsp;{{#ic:Stahl}}
+|-
+| 625 || style="height: 28px;" | {{#icon:625}} || [[Caesurio]] || Bisharp || Scalproie || {{Ruby|キリキザン|Kirikizan}} || {{Ruby|절각참|Jeolgakcham}} || {{Ruby|劈斬司令 / 劈斩司令|Pīzhǎnsīlìng}} || {{#ic:Unlicht}}&nbsp;{{#ic:Stahl}}
+|-
+| 626 || style="height: 28px;" | {{#icon:626}} || [[Bisofank]] || Bouffalant || Frison || {{Ruby|バッフロン|Buffron}} || {{Ruby|버프론|Buffron}} || {{Ruby|爆炸頭水牛 / 爆炸头水牛|Bàozhàtóushuǐniú}} || {{#ic:Normal}}
+|-
+| 627 || style="height: 28px;" | {{#icon:627}} || [[Geronimatz]] || Rufflet || Furaiglon || {{Ruby|ワシボン|Washibon}} || {{Ruby|수리둥보|Suridungbo}} || {{Ruby|毛頭小鷹 / 毛头小鹰|Máotóuxiǎoyīng}} || {{#ic:Normal}}&nbsp;{{#ic:Flug}}
+|-
+| 628 || style="height: 28px;" | {{#icon:628}} || [[Washakwil]] || Braviary || Gueriaigle || {{Ruby|ウォーグル|Warrgle}} || {{Ruby|워글|Warrgle}} || {{Ruby|勇士雄鷹 / 勇士雄鹰|Yǒngshìxióngyīng}} || {{#ic:Normal}}&nbsp;{{#ic:Flug}}
+|-
+| 629 || style="height: 28px;" | {{#icon:629}} || [[Skallyk]] || Vullaby || Vostourno || {{Ruby|バルチャイ|Valchai}} || {{Ruby|벌차이|Beolchai}} || {{Ruby|禿鷹丫頭 / 秃鹰丫头|Tūyīngyātóu}} || {{#ic:Unlicht}}&nbsp;{{#ic:Flug}}
+|-
+| 630 || style="height: 28px;" | {{#icon:630}} || [[Grypheldis]] || Mandibuzz || Vaututrice || {{Ruby|バルジーナ|Vulgina}} || {{Ruby|버랜지나|Beorenjina}} || {{Ruby|禿鷹娜 / 秃鹰娜|Tūyīngnà}} || {{#ic:Unlicht}}&nbsp;{{#ic:Flug}}
+|-
+| 631 || style="height: 28px;" | {{#icon:631}} || [[Furnifraß]] || Heatmor || Aflamanoir || {{Ruby|クイタラン|Kuitaran}} || {{Ruby|앤티골|Antigol}} || {{Ruby|熔蟻獸 / 熔蚁兽|Róngyǐshòu}} || {{#ic:Feuer}}
+|-
+| 632 || style="height: 28px;" | {{#icon:632}} || [[Fermicula]] || Durant || Fermite || {{Ruby|アイアント|Aiant}} || {{Ruby|아이앤트|Aiant}} || {{Ruby|鐵蟻 / 铁蚁|Tiěyǐ}} || {{#ic:Käfer}}&nbsp;{{#ic:Stahl}}
+|-
+| 633 || style="height: 28px;" | {{#icon:633}} || [[Kapuno]] || Deino || Solochi || {{Ruby|モノズ|Monozu}} || {{Ruby|모노두|Monodoo}} || {{Ruby|單首龍 / 单首龙|Dānshǒulóng}} || {{#ic:Unlicht}}&nbsp;{{#ic:Drache}}
+|-
+| 634 || style="height: 28px;" | {{#icon:634}} || [[Duodino]] || Zweilous || Diamat || {{Ruby|ジヘッド|Dihead}} || {{Ruby|디헤드|Dihead}} || {{Ruby|雙首暴龍 / 双首暴龙|Shuāngshǒubàolóng}} || {{#ic:Unlicht}}&nbsp;{{#ic:Drache}}
+|-
+| 635 || style="height: 28px;" | {{#icon:635}} || [[Trikephalo]] || Hydreigon || Trioxhydre || {{Ruby|サザンドラ|Sazandora}} || {{Ruby|삼삼드래|Samsamdrae}} || {{Ruby|三首惡龍 / 三首恶龙|Sānshǒu'èlóng}} || {{#ic:Unlicht}}&nbsp;{{#ic:Drache}}
+|-
+| 636 || style="height: 28px;" | {{#icon:636}} || [[Ignivor]] || Larvesta || Pyronille || {{Ruby|メラルバ|Merlarva}} || {{Ruby|활화르바|Hwalhwaruba}} || {{Ruby|燃燒蟲 / 燃烧虫|Ránshāochóng}} || {{#ic:Käfer}}&nbsp;{{#ic:Feuer}}
+|-
+| 637 || style="height: 28px;" | {{#icon:637}} || [[Ramoth]] || Volcarona || Pyrax || {{Ruby|ウルガモス|Ulgamoth}} || {{Ruby|불카모스|Bulkamos}} || {{Ruby|火神蛾 / 火神蛾|Huǒshén'é}} || {{#ic:Käfer}}&nbsp;{{#ic:Feuer}}
+|-
+| 638 || style="height: 28px;" | {{#icon:638}} || [[Kobalium]] || Cobalion || Cobaltium || {{Ruby|コバルオン|Cobalon}} || {{Ruby|코바르온|Cobalon}} || {{Ruby|勾帕路翁 / 勾帕路翁|Gōupàlùwēng}} || {{#ic:Stahl}}&nbsp;{{#ic:Kampf}}
+|-
+| 639 || style="height: 28px;" | {{#icon:639}} || [[Terrakium]] || Terrakion || Terrakium || {{Ruby|テラキオン|Terrakion}} || {{Ruby|테라키온|Terrakion}} || {{Ruby|代拉基翁 / 代拉基翁|Dàilājīwēng}} || {{#ic:Gestein}}&nbsp;{{#ic:Kampf}}
+|-
+| 640 || style="height: 28px;" | {{#icon:640}} || [[Viridium]] || Virizion || Viridium || {{Ruby|ビリジオン|Virizion}} || {{Ruby|비리디온|Virizion}} || {{Ruby|畢力吉翁 / 毕力吉翁|Bìlìjíwēng}} || {{#ic:Pflanze}}&nbsp;{{#ic:Kampf}}
+|-
+| 641 || style="height: 28px;" | {{#icon:641}} || [[Boreos]] || Tornadus || Boréas || {{Ruby|トルネロス|Tornelos}} || {{Ruby|토네로스|Tornelos}} || {{Ruby|龍捲雲 / 龙卷云|Lóngjuǎnyún}} || {{#ic:Flug}}
+|-
+| 642 || style="height: 28px;" | {{#icon:642}} || [[Voltolos]] || Thundurus || Fulguris || {{Ruby|ボルトロス|Voltolos}} || {{Ruby|볼트로스|Voltolos}} || {{Ruby|雷電雲 / 雷电云|Léidiànyún}} || {{#ic:Elektro}}&nbsp;{{#ic:Flug}}
+|-
+| 643 || style="height: 28px;" | {{#icon:643}} || [[Reshiram]] || Reshiram || Reshiram || {{Ruby|レシラム|Reshiram}} || {{Ruby|레시라무|Reshiram}} || {{Ruby|萊希拉姆 / 莱希拉姆|Láixīlāmǔ}} || {{#ic:Drache}}&nbsp;{{#ic:Feuer}}
+|-
+| 644 || style="height: 28px;" | {{#icon:644}} || [[Zekrom]] || Zekrom || Zekrom || {{Ruby|ゼクロム|Zekrom}} || {{Ruby|제크로무|Zekrom}} || {{Ruby|捷克羅姆 / 捷克罗姆|Jiékèluómǔ}} || {{#ic:Drache}}&nbsp;{{#ic:Elektro}}
+|-
+| 645 || style="height: 28px;" | {{#icon:645}} || [[Demeteros]] || Landorus || Démétéros || {{Ruby|ランドロス|Landlos}} || {{Ruby|랜드로스|Landlos}} || {{Ruby|土地雲 / 土地云|Tǔdìyún}} || {{#ic:Boden}}&nbsp;{{#ic:Flug}}
+|-
+| 646 || style="height: 28px;" | {{#icon:646}} || [[Kyurem]] || Kyurem || Kyurem || {{Ruby|キュレム|Kyurem}} || {{Ruby|큐레무|Kyurem}} || {{Ruby|酋雷姆 / 酋雷姆|Qiúléimǔ}} || {{#ic:Drache}}&nbsp;{{#ic:Eis}}
+|-
+| 647 || style="height: 28px;" | {{#icon:647}} || [[Keldeo]] || Keldeo || Keldeo || {{Ruby|ケルディオ|Keldeo}} || {{Ruby|케르디오|Kereudio}} || {{Ruby|凱路迪歐 / 凯路迪欧|Kǎilùdí'ōu}} || {{#ic:Wasser}}&nbsp;{{#ic:Kampf}}
+|-
+| 648 || style="height: 28px;" | {{#icon:648}} || [[Meloetta]] || Meloetta || Meloetta || {{Ruby|メロエッタ|Meloetta}} || {{Ruby|메로엣타|Meroetta}} || {{Ruby|美洛耶塔 / 美洛耶塔|Měiluòyētǎ}} || {{#ic:Normal}}&nbsp;{{#ic:Psycho}}
+|-
+| 649 || style="height: 28px;" | {{#icon:649}} || [[Genesect]] || Genesect || Genesect || {{Ruby|ゲノセクト|Genesect}} || {{Ruby|게노세크트|Genosekeuteu}} || {{Ruby|蓋諾賽克特 / 盖诺赛克特|Gàinuòsàikètè}} || {{#ic:Käfer}}&nbsp;{{#ic:Stahl}}
+|-
+| <span id="nr650"></span> 650 || style="height: 28px;" | {{#icon:650}} || [[Igamaro]] || Chespin || Marisson || {{Ruby|ハリマロン|Harimaron}} || {{Ruby|도치마론|Dochimaron}} || {{Ruby|哈力栗 / 哈力栗|Hālìlì}} || {{#ic:Pflanze}}
+|-
+| 651 || style="height: 28px;" | {{#icon:651}} || [[Igastarnish]] || Quilladin || Boguérisse || {{Ruby|ハリボーグ|Hariborg}} || {{Ruby|도치보구|Dochibogu}} || {{Ruby|胖胖哈力 / 胖胖哈力|Pàngpànghālì}} || {{#ic:Pflanze}}
+|-
+| 652 || style="height: 28px;" | {{#icon:652}} || [[Brigaron]] || Chesnaught || Blindépique || {{Ruby|ブリガロン|Brigarron}} || {{Ruby|브리가론|Beurigaron}} || {{Ruby|布里卡隆 / 布里卡隆|Bùlǐkǎlóng}} || {{#ic:Pflanze}}&nbsp;{{#ic:Kampf}}
+|-
+| 653 || style="height: 28px;" | {{#icon:653}} || [[Fynx]] || Fennekin || Feunnec || {{Ruby|フォッコ|Fokko}} || {{Ruby|푸호꼬|Puhokko}} || {{Ruby|火狐狸 / 火狐狸|Huǒhúlí}} || {{#ic:Feuer}}
+|-
+| 654 || style="height: 28px;" | {{#icon:654}} || [[Rutena]] || Braixen || Roussil || {{Ruby|テールナー|Tairenar}} || {{Ruby|테르나|Tereuna}} || {{Ruby|長尾火狐 / 长尾火狐|Chángwěihuǒhú}} || {{#ic:Feuer}}
+|-
+| 655 || style="height: 28px;" | {{#icon:655}} || [[Fennexis]] || Delphox || Goupelin || {{Ruby|マフォクシー|Mahoxy}} || {{Ruby|마폭시|Mapoksi}} || {{Ruby|妖火紅狐 / 妖火红狐|Yāohuǒhónghú}} || {{#ic:Feuer}}&nbsp;{{#ic:Psycho}}
+|-
+| 656 || style="height: 28px;" | {{#icon:656}} || [[Froxy]] || Froakie || Grenousse || {{Ruby|ケロマツ|Keromatsu}} || {{Ruby|개구마르|Gaegumareu}} || {{Ruby|呱呱泡蛙 / 呱呱泡蛙|Guāguāpàowā}} || {{#ic:Wasser}}
+|-
+| 657 || style="height: 28px;" | {{#icon:657}} || [[Amphizel]] || Frogadier || Croâporal || {{Ruby|ゲコガシラ|Gekogashira}} || {{Ruby|개굴반장|Gaegulbanjang}} || {{Ruby|呱頭蛙 / 呱头蛙|Guātóuwā}} || {{#ic:Wasser}}
+|-
+| 658 || style="height: 28px;" | {{#icon:658}} || [[Quajutsu]] || Greninja || Amphinobi || {{Ruby|ゲッコウガ|Gekkouga}} || {{Ruby|개굴닌자|Gaegulninja}} || {{Ruby|甲賀忍蛙 / 甲贺忍蛙|Jiǎhèrěnwā}} || {{#ic:Wasser}}&nbsp;{{#ic:Unlicht}}
+|-
+| 659 || style="height: 28px;" | {{#icon:659}} || [[Scoppel]] || Bunnelby || Sapereau || {{Ruby|ホルビー|Horubee}} || {{Ruby|파르빗|Pareubit}} || {{Ruby|掘掘兔 / 掘掘兔|Juéjuétù}} || {{#ic:Normal}}
+|-
+| 660 || style="height: 28px;" | {{#icon:660}} || [[Grebbit]] || Diggersby || Excavarenne || {{Ruby|ホルード|Horudo}} || {{Ruby|파르토|Pareuto}} || {{Ruby|掘地兔 / 掘地兔|Juédìtù}} || {{#ic:Normal}}&nbsp;{{#ic:Boden}}
+|-
+| 661 || style="height: 28px;" | {{#icon:661}} || [[Dartiri]] || Fletchling || Passerouge || {{Ruby|ヤヤコマ|Yayakoma}} || {{Ruby|화살꼬빈|Hwasal'kkobin}} || {{Ruby|小箭雀 / 小箭雀|Xiǎojiànquè}} || {{#ic:Normal}}&nbsp;{{#ic:Flug}}
+|-
+| 662 || style="height: 28px;" | {{#icon:662}} || [[Dartignis]] || Fletchinder || Braisillon || {{Ruby|ヒノヤコマ|Hinoyakoma}} || {{Ruby|불화살빈|Bulhwasalbin}} || {{Ruby|火箭雀 / 火箭雀|Huǒjiànquè}} || {{#ic:Feuer}}&nbsp;{{#ic:Flug}}
+|-
+| 663 || style="height: 28px;" | {{#icon:663}} || [[Fiaro]] || Talonflame || Flambusard || {{Ruby|ファイアロー|Fiarrow}} || {{Ruby|파이어로|Pai'eoro}} || {{Ruby|烈箭鷹 / 烈箭鹰|Lièjiànyīng}} || {{#ic:Feuer}}&nbsp;{{#ic:Flug}}
+|-
+| 664 || style="height: 28px;" | {{#icon:664}} || [[Purmel]] || Scatterbug || Lépidonille || {{Ruby|コフキムシ|Kofukimushi}} || {{Ruby|분이벌레|Bun'ibeolle}} || {{Ruby|粉蝶蟲 / 粉蝶虫|Fěndiéchóng}} || {{#ic:Käfer}}
+|-
+| 665 || style="height: 28px;" | {{#icon:665}} || [[Puponcho]] || Spewpa || Pérégrain || {{Ruby|コフーライ|Kofuurai}} || {{Ruby|분떠도리|Bun'ddeodori}} || {{Ruby|粉蝶蛹 / 粉蝶蛹|Fěndiéyǒng}} || {{#ic:Käfer}}
+|-
+| 666 || style="height: 28px;" | {{#icon:666}} || [[Vivillon]] || Vivillon || Prismillon || {{Ruby|ビビヨン|Viviyon}} || {{Ruby|비비용|Bibiyong}} || {{Ruby|彩粉蝶 / 彩粉蝶|Cǎifěndié}} || {{#ic:Käfer}}&nbsp;{{#ic:Flug}}
+|-
+| 667 || style="height: 28px;" | {{#icon:667}} || [[Leufeo]] || Litleo || Hélionceau || {{Ruby|シシコ|Shishiko}} || {{Ruby|레오꼬|Re'okko}} || {{Ruby|小獅獅 / 小狮狮|Xiǎoshīshī}} || {{#ic:Feuer}}&nbsp;{{#ic:Normal}}
+|-
+| 668 || style="height: 28px;" | {{#icon:668}} || [[Pyroleo]] || Pyroar || Némélios || {{Ruby|カエンジシ|Kaenjishi}} || {{Ruby|화염레오|Hwayeomre'o}} || {{Ruby|火炎獅 / 火炎狮|Huǒyánshī}} || {{#ic:Feuer}}&nbsp;{{#ic:Normal}}
+|-
+| 669 || style="height: 28px;" | {{#icon:669}} || [[Flabébé]] || Flabébé || Flabébé || {{Ruby|フラベベ|Flabebe}} || {{Ruby|플라베베|Peullabebe}} || {{Ruby|花蓓蓓 / 花蓓蓓|Huābèibèi}} || {{#ic:Fee}}
+|-
+| 670 || style="height: 28px;" | {{#icon:670}} || [[Floette]] || Floette || Floette || {{Ruby|フラエッテ|Floette}} || {{Ruby|플라엣테|Peullaette}} || {{Ruby|花葉蒂 / 花叶蒂|Huāyèdì}} || {{#ic:Fee}}
+|-
+| 671 || style="height: 28px;" | {{#icon:671}} || [[Florges]] || Florges || Florges || {{Ruby|フラージェス|Florges}} || {{Ruby|플라제스|Peullajeseu}} || {{Ruby|花潔夫人 / 花洁夫人|Huājiéfūrén}} || {{#ic:Fee}}
+|-
+| 672 || style="height: 28px;" | {{#icon:672}} || [[Mähikel]] || Skiddo || Cabriolaine || {{Ruby|メェークル|Meecle}} || {{Ruby|메이클|Meikeul}} || {{Ruby|坐騎小羊 / 坐骑小羊|Zuòqíxiǎoyáng}} || {{#ic:Pflanze}}
+|-
+| 673 || style="height: 28px;" | {{#icon:673}} || [[Chevrumm]] || Gogoat || Chevroum || {{Ruby|ゴーゴート|Gogoat}} || {{Ruby|고고트|Gogoteu}} || {{Ruby|坐騎山羊 / 坐骑山羊|Zuòqíshānyáng}} || {{#ic:Pflanze}}
+|-
+| 674 || style="height: 28px;" | {{#icon:674}} || [[Pam-Pam]] || Pancham || Pandespiègle || {{Ruby|ヤンチャム|Yancham}} || {{Ruby|판짱|Panjjang}} || {{Ruby|頑皮熊貓 / 顽皮熊猫|Wánpíxióngmāo}} || {{#ic:Kampf}}
+|-
+| 675 || style="height: 28px;" | {{#icon:675}} || [[Pandagro]] || Pangoro || Pandarbare || {{Ruby|ゴロンダ|Goronda}} || {{Ruby|부란다|Buranda}} || {{Ruby|流氓熊貓 / {{tt|霸道熊猫|früher: 流氓熊猫}}|Liúmángxióngmāo / Bàdàoxióngmāo}} || {{#ic:Kampf}}&nbsp;{{#ic:Unlicht}}
+|-
+| 676 || style="height: 28px;" | {{#icon:676}} || [[Coiffwaff]] || Furfrou || Couafarel || {{Ruby|トリミアン|Trimmien}} || {{Ruby|트리미앙|Teurimiang}} || {{Ruby|多麗米亞 / 多丽米亚|Duōlìmǐyà}} || {{#ic:Normal}}
+|-
+| 677 || style="height: 28px;" | {{#icon:677}} || [[Psiau]] || Espurr || Psystigri || {{Ruby|ニャスパー|Nyasper}} || {{Ruby|냐스퍼|Nyaseupeo}} || {{Ruby|妙喵 / 妙喵|Miàomiāo}} || {{#ic:Psycho}}
+|-
+| 678 || style="height: 28px;" | {{#icon:678}} || [[Psiaugon]] || Meowstic || Mistigrix || {{Ruby|ニャオニクス|Nyaonix}} || {{Ruby|냐오닉스|Nyaonikseu}} || {{Ruby|超能妙喵 / 超能妙喵|Chāonéngmiàomiāo}} || {{#ic:Psycho}}
+|-
+| 679 || style="height: 28px;" | {{#icon:679}} || [[Gramokles]] || Honedge || Monorpale || {{Ruby|ヒトツキ|Hitotsuki}} || {{Ruby|단칼빙|Dankalbing}} || {{Ruby|獨劍鞘 / 独剑鞘|Dújiànqiào}} || {{#ic:Stahl}}&nbsp;{{#ic:Geist}}
+|-
+| 680 || style="height: 28px;" | {{#icon:680}} || [[Duokles]] || Doublade || Dimoclès || {{Ruby|ニダンギル|Nidangill}} || {{Ruby|쌍검킬|Ssanggeomkil}} || {{Ruby|雙劍鞘 / 双剑鞘|Shuāngjiànqiào}} || {{#ic:Stahl}}&nbsp;{{#ic:Geist}}
+|-
+| 681 || style="height: 28px;" | {{#icon:681}} || [[Durengard]] || Aegislash || Exagide || {{Ruby|ギルガルド|Gillgard}} || {{Ruby|킬가르도|Kilgareudo}} || {{Ruby|堅盾劍怪 / 坚盾剑怪|Jiāndùnjiànguài}} || {{#ic:Stahl}}&nbsp;{{#ic:Geist}}
+|-
+| 682 || style="height: 28px;" | {{#icon:682}} || [[Parfi]] || Spritzee || Fluvetin || {{Ruby|シュシュプ|Shushupu}} || {{Ruby|슈쁘|Syuppeu}} || {{Ruby|粉香香 / 粉香香|Fěnxiāngxiāng}} || {{#ic:Fee}}
+|-
+| 683 || style="height: 28px;" | {{#icon:683}} || [[Parfinesse]] || Aromatisse || Cocotine || {{Ruby|フレフワン|Frefuwan}} || {{Ruby|프레프티르|Peurepeutireu}} || {{Ruby|芳香精 / 芳香精|Fāngxiāngjīng}} || {{#ic:Fee}}
+|-
+| 684 || style="height: 28px;" | {{#icon:684}} || [[Flauschling]] || Swirlix || Sucroquin || {{Ruby|ペロッパフ|Peroppafu}} || {{Ruby|나룸퍼프|Narumpeopeu}} || {{Ruby|綿綿泡芙 / 绵绵泡芙|Miánmiánpàofú}} || {{#ic:Fee}}
+|-
+| 685 || style="height: 28px;" | {{#icon:685}} || [[Sabbaione]] || Slurpuff || Cupcanaille || {{Ruby|ペロリーム|Peroream}} || {{Ruby|나루림|Narurim}} || {{Ruby|胖甜妮 / 胖甜妮|Pàngtiánnī}} || {{#ic:Fee}}
+|-
+| 686 || style="height: 28px;" | {{#icon:686}} || [[Iscalar]] || Inkay || Sepiatop || {{Ruby|マーイーカ|Maaiika}} || {{Ruby|오케이징|Okeijing}} || {{Ruby|好啦魷 / 好啦鱿|Hǎolāyóu}} || {{#ic:Unlicht}}&nbsp;{{#ic:Psycho}}
+|-
+| 687 || style="height: 28px;" | {{#icon:687}} || [[Calamanero]] || Malamar || Sepiatroce || {{Ruby|カラマネロ|Calamanero}} || {{Ruby|칼라마네로|Kallamanero}} || {{Ruby|烏賊王 / 乌贼王|Wūzéiwáng}} || {{#ic:Unlicht}}&nbsp;{{#ic:Psycho}}
+|-
+| 688 || style="height: 28px;" | {{#icon:688}} || [[Bithora]] || Binacle || Opermine || {{Ruby|カメテテ|Kametete}} || {{Ruby|거북손손|Geoboksonson}} || {{Ruby|龜腳腳 / 龟脚脚|Guījiǎojiǎo}} || {{#ic:Gestein}}&nbsp;{{#ic:Wasser}}
+|-
+| 689 || style="height: 28px;" | {{#icon:689}} || [[Thanathora]] || Barbaracle || Golgopathe || {{Ruby|ガメノデス|Gamenodes}} || {{Ruby|거북손데스|Geoboksondeseu}} || {{Ruby|龜足巨鎧 / 龟足巨铠|Guīzújùkǎi}} || {{#ic:Gestein}}&nbsp;{{#ic:Wasser}}
+|-
+| 690 || style="height: 28px;" | {{#icon:690}} || [[Algitt]] || Skrelp || Venalgue || {{Ruby|クズモー|Kuzumo}} || {{Ruby|수레기|Suregi}} || {{Ruby|垃垃藻 / 垃垃藻|Lālāzǎo}} || {{#ic:Gift}}&nbsp;{{#ic:Wasser}}
+|-
+| 691 || style="height: 28px;" | {{#icon:691}} || [[Tandrak]] || Dragalge || Kravarech || {{Ruby|ドラミドロ|Dramidoro}} || {{Ruby|드래캄|Deuraekam}} || {{Ruby|毒藻龍 / 毒藻龙|Dúzǎolóng}} || {{#ic:Gift}}&nbsp;{{#ic:Drache}}
+|-
+| 692 || style="height: 28px;" | {{#icon:692}} || [[Scampisto]] || Clauncher || Flingouste || {{Ruby|ウデッポウ|Udeppou}} || {{Ruby|완철포|Wancheolpo}} || {{Ruby|鐵臂槍蝦 / 铁臂枪虾|Tiěbìqiāngxiā}} || {{#ic:Wasser}}
+|-
+| 693 || style="height: 28px;" | {{#icon:693}} || [[Wummer]] || Clawitzer || Gamblast || {{Ruby|ブロスター|Bloster}} || {{Ruby|블로스터|Beulloseuteo}} || {{Ruby|鋼炮臂蝦 / 钢炮臂虾|Gāngpàobìxiā}} || {{#ic:Wasser}}
+|-
+| 694 || style="height: 28px;" | {{#icon:694}} || [[Eguana]] || Helioptile || Galvaran || {{Ruby|エリキテル|Erikiteru}} || {{Ruby|목도리키텔|Mokdorikitel}} || {{Ruby|傘電蜥 / 伞电蜥|Sǎndiànxī}} || {{#ic:Elektro}}&nbsp;{{#ic:Normal}}
+|-
+| 695 || style="height: 28px;" | {{#icon:695}} || [[Elezard]] || Heliolisk || Iguolta || {{Ruby|エレザード|Elezard}} || {{Ruby|일레도리자드|Illedorijadeu}} || {{Ruby|光電傘蜥 / 光电伞蜥|Guāngdiànsǎnxī}} || {{#ic:Elektro}}&nbsp;{{#ic:Normal}}
+|-
+| 696 || style="height: 28px;" | {{#icon:696}} || [[Balgoras]] || Tyrunt || Ptyranidur || {{Ruby|チゴラス|Chigoras}} || {{Ruby|티고라스|Tigoraseu}} || {{Ruby|寶寶暴龍 / 宝宝暴龙|Bǎobǎobàolóng}} || {{#ic:Gestein}}&nbsp;{{#ic:Drache}}
+|-
+| 697 || style="height: 28px;" | {{#icon:697}} || [[Monargoras]] || Tyrantrum || Rexillius || {{Ruby|ガチゴラス|Gachigoras}} || {{Ruby|견고라스|Gyeongoraseu}} || {{Ruby|怪顎龍 / 怪颚龙|Guài'èlóng}} || {{#ic:Gestein}}&nbsp;{{#ic:Drache}}
+|-
+| 698 || style="height: 28px;" | {{#icon:698}} || [[Amarino]] || Amaura || Amagara || {{Ruby|アマルス|Amarus}} || {{Ruby|아마루스|Amaruseu}} || {{Ruby|冰雪龍 / 冰雪龙|Bīngxuělóng}} || {{#ic:Gestein}}&nbsp;{{#ic:Eis}}
+|-
+| 699 || style="height: 28px;" | {{#icon:699}} || [[Amagarga]] || Aurorus || Dragmara || {{Ruby|アマルルガ|Amaruruga}} || {{Ruby|아마루르가|Amarureuga}} || {{Ruby|冰雪巨龍 / 冰雪巨龙|Bīngxuějùlóng}} || {{#ic:Gestein}}&nbsp;{{#ic:Eis}}
+|-
+| 700 || style="height: 28px;" | {{#icon:700}} || [[Feelinara]] || Sylveon || Nymphali || {{Ruby|ニンフィア|Nymphia}} || {{Ruby|님피아|Nymphia}} || {{Ruby|仙子伊布 / 仙子伊布|Xiānzǐyībù}} || {{#ic:Fee}}
+|-
+| 701 || style="height: 28px;" | {{#icon:701}} || [[Resladero]] || Hawlucha || Brutalibré || {{Ruby|ルチャブル|Luchabull}} || {{Ruby|루차불|Ruchabul}} || {{Ruby|摔角鷹人 / 摔角鹰人|Shuāijiǎoyīngrén}} || {{#ic:Kampf}}&nbsp;{{#ic:Flug}}
+|-
+| 702 || style="height: 28px;" | {{#icon:702}} || [[Dedenne]] || Dedenne || Dedenne || {{Ruby|デデンネ|Dedenne}} || {{Ruby|데덴네|Dedenne}} || {{Ruby|咚咚鼠 / 咚咚鼠|Dōngdōngshǔ}} || {{#ic:Elektro}}&nbsp;{{#ic:Fee}}
+|-
+| 703 || style="height: 28px;" | {{#icon:703}} || [[Rocara]] || Carbink || Strassie || {{Ruby|メレシー|Melecie}} || {{Ruby|멜리시|Mellisi}} || {{Ruby|小碎鑽 / 小碎钻|Xiǎosuìzuàn}} || {{#ic:Gestein}}&nbsp;{{#ic:Fee}}
+|-
+| 704 || style="height: 28px;" | {{#icon:704}} || [[Viscora]] || Goomy || Mucuscule || {{Ruby|ヌメラ|Numera}} || {{Ruby|미끄메라|Mikkeumera}} || {{Ruby|黏黏寶 / 黏黏宝|Niánniánbǎo}} || {{#ic:Drache}}
+|-
+| 705 || style="height: 28px;" | {{#icon:705}} || [[Viscargot]] || Sliggoo || Colimucus || {{Ruby|ヌメイル|Numeil}} || {{Ruby|미끄네일|Mikkeunaeil}} || {{Ruby|黏美兒 / 黏美儿|Niánměi'ér}} || {{#ic:Drache}}
+|-
+| 706 || style="height: 28px;" | {{#icon:706}} || [[Viscogon]] || Goodra || Muplodocus || {{Ruby|ヌメルゴン|Numelgon}} || {{Ruby|미끄래곤|Mikkeuraegon}} || {{Ruby|黏美龍 / 黏美龙|Niánměilóng}} || {{#ic:Drache}}
+|-
+| 707 || style="height: 28px;" | {{#icon:707}} || [[Clavion]] || Klefki || Trousselin || {{Ruby|クレッフィ|Cleffy}} || {{Ruby|클레피|Keullepi}} || {{Ruby|鑰圈兒 / 钥圈儿|Yàoquān'ér}} || {{#ic:Stahl}}&nbsp;{{#ic:Fee}}
+|-
+| 708 || style="height: 28px;" | {{#icon:708}} || [[Paragoni]] || Phantump || Brocélôme || {{Ruby|ボクレー|Bokurei}} || {{Ruby|나목령|Namokryeong}} || {{Ruby|小木靈 / 小木灵|Xiǎomùlíng}} || {{#ic:Geist}}&nbsp;{{#ic:Pflanze}}
+|-
+| 709 || style="height: 28px;" | {{#icon:709}} || [[Trombork]] || Trevenant || Desséliande || {{Ruby|オーロット|Ohrot}} || {{Ruby|대로트|Daeroteu}} || {{Ruby|朽木妖 / 朽木妖|Xiǔmùyāo}} || {{#ic:Geist}}&nbsp;{{#ic:Pflanze}}
+|-
+| 710 || style="height: 28px;" | {{#icon:710}} || [[Irrbis]] || Pumpkaboo || Pitrouille || {{Ruby|バケッチャ|Bakeccha}} || {{Ruby|호바귀|Hobagwi}} || {{Ruby|南瓜精 / 南瓜精|Nánguājīng}} || {{#ic:Geist}}&nbsp;{{#ic:Pflanze}}
+|-
+| 711 || style="height: 28px;" | {{#icon:711}} || [[Pumpdjinn]] || Gourgeist || Banshitrouye || {{Ruby|パンプジン|Pumpjin}} || {{Ruby|펌킨인|Peomkin'in}} || {{Ruby|南瓜怪人 / 南瓜怪人|Nánguāguàirén}} || {{#ic:Geist}}&nbsp;{{#ic:Pflanze}}
+|-
+| 712 || style="height: 28px;" | {{#icon:712}} || [[Arktip]] || Bergmite || Grelaçon || {{Ruby|カチコール|Kachikohru}} || {{Ruby|꽁어름|Kkong'eoreum}} || {{Ruby|冰寶 / 冰宝|Bīngbǎo}} || {{#ic:Eis}}
+|-
+| 713 || style="height: 28px;" | {{#icon:713}} || [[Arktilas]] || Avalugg || Séracrawl || {{Ruby|クレベース|Crebase}} || {{Ruby|크레베이스|Keurebeiseu}} || {{Ruby|冰岩怪 / 冰岩怪|Bīngyánguài}} || {{#ic:Eis}}
+|-
+| 714 || style="height: 28px;" | {{#icon:714}} || [[eF-eM]] || Noibat || Sonistrelle || {{Ruby|オンバット|Onbat}} || {{Ruby|음뱃|Eumbaet}} || {{Ruby|嗡蝠 / 嗡蝠|Wēngfú}} || {{#ic:Flug}}&nbsp;{{#ic:Drache}}
+|-
+| 715 || style="height: 28px;" | {{#icon:715}} || [[UHaFnir]] || Noivern || Bruyverne || {{Ruby|オンバーン|Onvern}} || {{Ruby|음번|Eumbeon}} || {{Ruby|音波龍 / 音波龙|Yīnbōlóng}} || {{#ic:Flug}}&nbsp;{{#ic:Drache}}
+|-
+| 716 || style="height: 28px;" | {{#icon:716}} || [[Xerneas]] || Xerneas || Xerneas || {{Ruby|ゼルネアス|Xerneas}} || {{Ruby|제르네아스|Xerneas}} || {{Ruby|哲爾尼亞斯 / 哲尔尼亚斯|Zhé'ěrníyàsī}} || {{#ic:Fee}}
+|-
+| 717 || style="height: 28px;" | {{#icon:717}} || [[Yveltal]] || Yveltal || Yveltal || {{Ruby|イベルタル|Yveltal}} || {{Ruby|이벨타르|Yveltal}} || {{Ruby|伊裴爾塔爾 / 伊裴尔塔尔|Yīpéi'ěrtǎ'ěr}} || {{#ic:Unlicht}}&nbsp;{{#ic:Flug}}
+|-
+| 718 || style="height: 28px;" | {{#icon:718}} || [[Zygarde]] || Zygarde || Zygarde || {{Ruby|ジガルデ|Zygarde}} || {{Ruby|지가르데|Jigareude}} || {{Ruby|基格爾德 / 基格尔德|Jīgé'ěrdé}} || {{#ic:Drache}}&nbsp;{{#ic:Boden}}
+|-
+| 719 || style="height: 28px;" | {{#icon:719}} || [[Diancie]] || Diancie || Diancie || {{Ruby|ディアンシー|Diancie}} || {{Ruby|디안시|Diancie}} || {{Ruby|蒂安希 / 蒂安希|Dì'ānxī}} || {{#ic:Gestein}}&nbsp;{{#ic:Fee}}
+|-
+| 720 || style="height: 28px;" | {{#icon:720}} || [[Hoopa]] || Hoopa || Hoopa || {{Ruby|フーパ|Hoopa}} || {{Ruby|후파|Hoopa}} || {{Ruby|胡帕 / 胡帕|Húpà}} || {{#ic:Psycho}}&nbsp;{{#ic:Geist}}
+|-
+| 721 || style="height: 28px;" | {{#icon:721}} || [[Volcanion]] || Volcanion || Volcanion || {{Ruby|ボルケニオン|Volcanion}} || {{Ruby|볼케니온|Volcanion}} || {{Ruby|波爾凱尼恩 / 波尔凯尼恩|Bō'ěrkǎiní'ēn}} || {{#ic:Feuer}}&nbsp;{{#ic:Wasser}}
+|-
+| <span id="nr722"></span> 722 || style="height: 28px;" | {{#icon:722}} || [[Bauz]] || Rowlet || Brindibou || {{Ruby|モクロー|Mokuroh}} || {{Ruby|나몰빼미|Namolppaemi}} || {{Ruby|木木梟 / 木木枭|Mùmùxiāo}} || {{#ic:Pflanze}}&nbsp;{{#ic:Flug}}
+|-
+| 723 || style="height: 28px;" | {{#icon:723}} || [[Arboretoss]] || Dartrix || Efflèche || {{Ruby|フクスロー|Fukuthrow}} || {{Ruby|빼미스로우|Ppaemiseurou}} || {{Ruby|投羽梟 / 投羽枭|Tóuyǔxiāo}} || {{#ic:Pflanze}}&nbsp;{{#ic:Flug}}
+|-
+| 724 || style="height: 28px;" | {{#icon:724}} || [[Silvarro]] || Decidueye || Archéduc || {{Ruby|ジュナイパー|Junaiper}} || {{Ruby|모크나이퍼|Mokeunaipeo}} || {{Ruby|狙射樹梟 / 狙射树枭|Jūshèshùxiāo}} || {{#ic:Pflanze}}&nbsp;{{#ic:Geist}}
+|-
+| 725 || style="height: 28px;" | {{#icon:725}} || [[Flamiau]] || Litten || Flamiaou || {{Ruby|ニャビー|Nyabby}} || {{Ruby|냐오불|Nyaobul}} || {{Ruby|火斑喵 / 火斑喵|Huǒbānmiāo}} || {{#ic:Feuer}}
+|-
+| 726 || style="height: 28px;" | {{#icon:726}} || [[Miezunder]] || Torracat || Matoufeu || {{Ruby|ニャヒート|Nyaheat}} || {{Ruby|냐오히트|Nyaohiteu}} || {{Ruby|炎熱喵 / 炎热喵|Yánrèmiāo}} || {{#ic:Feuer}}
+|-
+| 727 || style="height: 28px;" | {{#icon:727}} || [[Fuegro]] || Incineroar || Félinferno || {{Ruby|ガオガエン|Gaogaen}} || {{Ruby|어흥염|Eoheungyeom}} || {{Ruby|熾焰咆哮虎 / 炽焰咆哮虎|Chìyànpáoxiàohǔ}} || {{#ic:Feuer}}&nbsp;{{#ic:Unlicht}}
+|-
+| 728 || style="height: 28px;" | {{#icon:728}} || [[Robball]] || Popplio || Otaquin || {{Ruby|アシマリ|Ashimari}} || {{Ruby|누리공|Nurigong}} || {{Ruby|球球海獅 / 球球海狮|Qiúqiúhǎishī}} || {{#ic:Wasser}}
+|-
+| 729 || style="height: 28px;" | {{#icon:729}} || [[Marikeck]] || Brionne || Otarlette || {{Ruby|オシャマリ|Osyamari}} || {{Ruby|키요공|Kiyogong}} || {{Ruby|花漾海獅 / 花漾海狮|Huāyànghǎishī}} || {{#ic:Wasser}}
+|-
+| 730 || style="height: 28px;" | {{#icon:730}} || [[Primarene]] || Primarina || Oratoria || {{Ruby|アシレーヌ|Ashirene}} || {{Ruby|누리레느|Nurireneu}} || {{Ruby|西獅海壬 / 西狮海壬|Xīshīhǎirén}} || {{#ic:Wasser}}&nbsp;{{#ic:Fee}}
+|-
+| 731 || style="height: 28px;" | {{#icon:731}} || [[Peppeck]] || Pikipek || Picassaut || {{Ruby|ツツケラ|Tsutsukera}} || {{Ruby|콕코구리|Kokkoguri}} || {{Ruby|小篤兒 / 小笃儿|Xiǎodǔ'ér}} || {{#ic:Normal}}&nbsp;{{#ic:Flug}}
+|-
+| 732 || style="height: 28px;" | {{#icon:732}} || [[Trompeck]] || Trumbeak || Piclairon || {{Ruby|ケララッパ|Kerarappa}} || {{Ruby|크라파|Keurapa}} || {{Ruby|喇叭啄鳥 / 喇叭啄鸟|Lǎbāzhuóniǎo}} || {{#ic:Normal}}&nbsp;{{#ic:Flug}}
+|-
+| 733 || style="height: 28px;" | {{#icon:733}} || [[Tukanon]] || Toucannon || Bazoucan || {{Ruby|ドデカバシ|Dodekabashi}} || {{Ruby|왕큰부리|Wangkeunburi}} || {{Ruby|銃嘴大鳥 / 铳嘴大鸟|Chòngzuǐdàniǎo}} || {{#ic:Normal}}&nbsp;{{#ic:Flug}}
+|-
+| 734 || style="height: 28px;" | {{#icon:734}} || [[Mangunior]] || Yungoos || Manglouton || {{Ruby|ヤングース|Youngoose}} || {{Ruby|영구스|Yeongguseu}} || {{Ruby|貓鼬少 / 猫鼬少|Māoyòushào}} || {{#ic:Normal}}
+|-
+| 735 || style="height: 28px;" | {{#icon:735}} || [[Manguspektor]] || Gumshoos || Argouste || {{Ruby|デカグース|Dekagoose}} || {{Ruby|형사구스|Hyeongsaguseu}} || {{Ruby|貓鼬探長 / 猫鼬探长|Māoyòutànzhǎng}} || {{#ic:Normal}}
+|-
+| 736 || style="height: 28px;" | {{#icon:736}} || [[Mabula]] || Grubbin || Larvibule || {{Ruby|アゴジムシ|Agojimushi}} || {{Ruby|턱지충이|Teokjichung-i}} || {{Ruby|強顎雞母蟲 / 强颚鸡母虫|Qiáng'èjīmǔchóng}} || {{#ic:Käfer}}
+|-
+| 737 || style="height: 28px;" | {{#icon:737}} || [[Akkup]] || Charjabug || Chrysapile || {{Ruby|デンヂムシ|Dendimushi}} || {{Ruby|전지충이|Jeonjichung-i}} || {{Ruby|蟲電寶 / 虫电宝|Chóngdiànbǎo}} || {{#ic:Käfer}}&nbsp;{{#ic:Elektro}}
+|-
+| 738 || style="height: 28px;" | {{#icon:738}} || [[Donarion]] || Vikavolt || Lucanon || {{Ruby|クワガノン|Kuwagannon}} || {{Ruby|투구뿌논|Tuguppunon}} || {{Ruby|鍬農炮蟲 / 锹农炮虫|Qiāonóngpàochóng}} || {{#ic:Käfer}}&nbsp;{{#ic:Elektro}}
+|-
+| 739 || style="height: 28px;" | {{#icon:739}} || [[Krabbox]] || Crabrawler || Crabagarre || {{Ruby|マケンカニ|Makenkani}} || {{Ruby|오기지게|Ogijige}} || {{Ruby|好勝蟹 / 好胜蟹|Hàoshèngxiè}} || {{#ic:Kampf}}
+|-
+| 740 || style="height: 28px;" | {{#icon:740}} || [[Krawell]] || Crabominable || Crabominable || {{Ruby|ケケンカニ|Kekenkani}} || {{Ruby|모단단게|Modandange}} || {{Ruby|好勝毛蟹 / 好胜毛蟹|Hàoshèngmáoxiè}} || {{#ic:Kampf}}&nbsp;{{#ic:Eis}}
+|-
+| 741 || style="height: 28px;" | {{#icon:741}} || [[Choreogel]] || Oricorio || Plumeline || {{Ruby|オドリドリ|Odoridori}} || {{Ruby|춤추새|Chumchusae}} || {{Ruby|花舞鳥 / 花舞鸟|Huāwǔniǎo}} || {{#ic:Feuer}}&nbsp;{{#ic:Flug}}
+|-
+| 742 || style="height: 28px;" | {{#icon:742}} || [[Wommel]] || Cutiefly || Bombydou || {{Ruby|アブリー|Abuly}} || {{Ruby|에블리|Ebeulli}} || {{Ruby|萌虻 / 萌虻|Méngméng}} || {{#ic:Käfer}}&nbsp;{{#ic:Fee}}
+|-
+| 743 || style="height: 28px;" | {{#icon:743}} || [[Bandelby]] || Ribombee || Rubombelle || {{Ruby|アブリボン|Aburibbon}} || {{Ruby|에리본|Eribon}} || {{Ruby|蝶結萌虻 / 蝶结萌虻|Diéjiéméngméng}} || {{#ic:Käfer}}&nbsp;{{#ic:Fee}}
+|-
+| 744 || style="height: 28px;" | {{#icon:744}} || [[Wuffels]] || Rockruff || Rocabot || {{Ruby|イワンコ|Iwanko}} || {{Ruby|암멍이|Ammeong-i}} || {{Ruby|岩狗狗 / 岩狗狗|Yángǒugǒu}} || {{#ic:Gestein}}
+|-
+| 745 || style="height: 28px;" | {{#icon:745}} || [[Wolwerock]] || Lycanroc || Lougaroc || {{Ruby|ルガルガン|Lugarugan}} || {{Ruby|루가루암|Rugaruam}} || {{Ruby|鬃岩狼人 / 鬃岩狼人|Zōngyánlángrén}} || {{#ic:Gestein}}
+|-
+| 746 || style="height: 28px;" | {{#icon:746}} || [[Lusardin]] || Wishiwashi || Froussardine || {{Ruby|ヨワシ|Yowashi}} || {{Ruby|약어리|Yageori}} || {{Ruby|弱丁魚 / 弱丁鱼|Ruòdīngyú}} || {{#ic:Wasser}}
+|-
+| 747 || style="height: 28px;" | {{#icon:747}} || [[Garstella]] || Mareanie || Vorastérie || {{Ruby|ヒドイデ|Hidoide}} || {{Ruby|시마사리|Simasari}} || {{Ruby|好壞星 / 好坏星|Hǎohuàixīng}} || {{#ic:Gift}}&nbsp;{{#ic:Wasser}}
+|-
+| 748 || style="height: 28px;" | {{#icon:748}} || [[Aggrostella]] || Toxapex || Prédastérie || {{Ruby|ドヒドイデ|Dohidoide}} || {{Ruby|더시마사리|Deosimasari}} || {{Ruby|超壞星 / 超坏星|Chāohuàixīng}} || {{#ic:Gift}}&nbsp;{{#ic:Wasser}}
+|-
+| 749 || style="height: 28px;" | {{#icon:749}} || [[Pampuli]] || Mudbray || Tiboudet || {{Ruby|ドロバンコ|Dorobanko}} || {{Ruby|머드나기|Meodeunagi}} || {{Ruby|泥驢仔 / 泥驴仔|Nílǘzǐ}} || {{#ic:Boden}}
+|-
+| 750 || style="height: 28px;" | {{#icon:750}} || [[Pampross]] || Mudsdale || Bourrinos || {{Ruby|バンバドロ|Banbadoro}} || {{Ruby|만마드|Manmadeu}} || {{Ruby|重泥挽馬 / 重泥挽马|Zhòngníwǎnmǎ}} || {{#ic:Boden}}
+|-
+| 751 || style="height: 28px;" | {{#icon:751}} || [[Araqua]] || Dewpider || Araqua || {{Ruby|シズクモ|Shizukumo}} || {{Ruby|물거미|Mulgeomi}} || {{Ruby|滴蛛 / 滴蛛|Dīzhū}} || {{#ic:Wasser}}&nbsp;{{#ic:Käfer}}
+|-
+| 752 || style="height: 28px;" | {{#icon:752}} || [[Aranestro]] || Araquanid || Tarenbulle || {{Ruby|オニシズクモ|Onishizukumo}} || {{Ruby|깨비물거미|Kkaebimulgeomi}} || {{Ruby|滴蛛霸 / 滴蛛霸|Dīzhūbà}} || {{#ic:Wasser}}&nbsp;{{#ic:Käfer}}
+|-
+| 753 || style="height: 28px;" | {{#icon:753}} || [[Imantis]] || Fomantis || Mimantis || {{Ruby|カリキリ|Karikiri}} || {{Ruby|짜랑랑|Jjarangnang}} || {{Ruby|偽螳草 / 伪螳草|Wěitángcǎo}} || {{#ic:Pflanze}}
+|-
+| 754 || style="height: 28px;" | {{#icon:754}} || [[Mantidea]] || Lurantis || Floramantis || {{Ruby|ラランテス|Lalantes}} || {{Ruby|라란티스|Rarantiseu}} || {{Ruby|蘭螳花 / 兰螳花|Lántánghuā}} || {{#ic:Pflanze}}
+|-
+| 755 || style="height: 28px;" | {{#icon:755}} || [[Bubungus]] || Morelull || Spododo || {{Ruby|ネマシュ|Nemasyu}} || {{Ruby|자마슈|Jamasyu}} || {{Ruby|睡睡菇 / 睡睡菇|Shuìshuìgū}} || {{#ic:Pflanze}}&nbsp;{{#ic:Fee}}
+|-
+| 756 || style="height: 28px;" | {{#icon:756}} || [[Lamellux]] || Shiinotic || Lampignon || {{Ruby|マシェード|Mashade}} || {{Ruby|마셰이드|Masheideu}} || {{Ruby|燈罩夜菇 / 灯罩夜菇|Dēngzhàoyègū}} || {{#ic:Pflanze}}&nbsp;{{#ic:Fee}}
+|-
+| 757 || style="height: 28px;" | {{#icon:757}} || [[Molunk]] || Salandit || Tritox || {{Ruby|ヤトウモリ|Yatoumori}} || {{Ruby|야도뇽|Yadonyong}} || {{Ruby|夜盜火蜥 / 夜盗火蜥|Yèdàohuǒxī}} || {{#ic:Gift}}&nbsp;{{#ic:Feuer}}
+|-
+| 758 || style="height: 28px;" | {{#icon:758}} || [[Amfira]] || Salazzle || Malamandre || {{Ruby|エンニュート|Ennewt}} || {{Ruby|염뉴트|Yeomnyuteu}} || {{Ruby|焰后蜥 / 焰后蜥|Yànhòuxī}} || {{#ic:Gift}}&nbsp;{{#ic:Feuer}}
+|-
+| 759 || style="height: 28px;" | {{#icon:759}} || [[Velursi]] || Stufful || Nounourson || {{Ruby|ヌイコグマ|Nuikoguma}} || {{Ruby|포곰곰|Pogomgom}} || {{Ruby|童偶熊 / 童偶熊|Tóng'ǒuxióng}} || {{#ic:Normal}}&nbsp;{{#ic:Kampf}}
+|-
+| 760 || style="height: 28px;" | {{#icon:760}} || [[Kosturso]] || Bewear || Chelours || {{Ruby|キテルグマ|Kiteruguma}} || {{Ruby|이븐곰|Ibeun-gom}} || {{Ruby|穿著熊 / 穿着熊|Chuānzhuóxióng}} || {{#ic:Normal}}&nbsp;{{#ic:Kampf}}
+|-
+| 761 || style="height: 28px;" | {{#icon:761}} || [[Frubberl]] || Bounsweet || Croquine || {{Ruby|アマカジ|Amakaji}} || {{Ruby|달콤아|Dalkom-a}} || {{Ruby|甜竹竹 / 甜竹竹|Tiánzhúzhú}} || {{#ic:Pflanze}}
+|-
+| 762 || style="height: 28px;" | {{#icon:762}} || [[Frubaila]] || Steenee || Candine || {{Ruby|アママイコ|Amamaiko}} || {{Ruby|달무리나|Dalmurina}} || {{Ruby|甜舞妮 / 甜舞妮|Tiánwǔnī}} || {{#ic:Pflanze}}
+|-
+| 763 || style="height: 28px;" | {{#icon:763}} || [[Fruyal]] || Tsareena || Sucreine || {{Ruby|アマージョ|Amajo}} || {{Ruby|달코퀸|Dalkokwin}} || {{Ruby|甜冷美后 / 甜冷美后|Tiánlěngměihòu}} || {{#ic:Pflanze}}
+|-
+| 764 || style="height: 28px;" | {{#icon:764}} || [[Curelei]] || Comfey || Guérilande || {{Ruby|キュワワー|Cuwawa}} || {{Ruby|큐아링|Kyuaring}} || {{Ruby|花療環環 / 花疗环环|Huāliáohuánhuán}} || {{#ic:Fee}}
+|-
+| 765 || style="height: 28px;" | {{#icon:765}} || [[Kommandutan]] || Oranguru || Gouroutan || {{Ruby|ヤレユータン|Yareyuutan}} || {{Ruby|하랑우탄|Harang-utan}} || {{Ruby|智揮猩 / 智挥猩|Zhìhuīxīng}} || {{#ic:Normal}}&nbsp;{{#ic:Psycho}}
+|-
+| 766 || style="height: 28px;" | {{#icon:766}} || [[Quartermak]] || Passimian || Quartermac || {{Ruby|ナゲツケサル|Nagetukesaru}} || {{Ruby|내던숭이|Naedeonsung-i}} || {{Ruby|投擲猴 / 投掷猴|Tóuzhìhóu}} || {{#ic:Kampf}}
+|-
+| 767 || style="height: 28px;" | {{#icon:767}} || [[Reißlaus]] || Wimpod || Sovkipou || {{Ruby|コソクムシ|Kosokumushi}} || {{Ruby|꼬시레|Kkosire}} || {{Ruby|膽小蟲 / 胆小虫|Dǎnxiǎochóng}} || {{#ic:Käfer}}&nbsp;{{#ic:Wasser}}
+|-
+| 768 || style="height: 28px;" | {{#icon:768}} || [[Tectass]] || Golisopod || Sarmuraï || {{Ruby|グソクムシャ|Gusokumusha}} || {{Ruby|갑주무사|Gapjumusa}} || {{Ruby|具甲武者 / 具甲武者|Jùjiǎwǔzhě}} || {{#ic:Käfer}}&nbsp;{{#ic:Wasser}}
+|-
+| 769 || style="height: 28px;" | {{#icon:769}} || [[Sankabuh]] || Sandygast || Bacabouh || {{Ruby|スナバァ|Sunaba}} || {{Ruby|모래꿍|Moraekkung}} || {{Ruby|沙丘娃 / 沙丘娃|Shāqiūwá}} || {{#ic:Geist}}&nbsp;{{#ic:Boden}}
+|-
+| 770 || style="height: 28px;" | {{#icon:770}} || [[Colossand]] || Palossand || Trépassable || {{Ruby|シロデスナ|Sirodethna}} || {{Ruby|모래성이당|Moraeseongidang}} || {{Ruby|噬沙堡爺 / 噬沙堡爷|Shìshābǎoyé}} || {{#ic:Geist}}&nbsp;{{#ic:Boden}}
+|-
+| 771 || style="height: 28px;" | {{#icon:771}} || [[Gufa]] || Pyukumuku || Concombaffe || {{Ruby|ナマコブシ|Namakobushi}} || {{Ruby|해무기|Haemugi}} || {{Ruby|拳海參 / 拳海參|Quánhǎishēn}} || {{#ic:Wasser}}
+|-
+| 772 || style="height: 28px;" | {{#icon:772}} || [[Typ:Null]] || Type: Null || Type:0 || {{Ruby|タイプ：ヌル|Type:Null}} || {{Ruby|타입:널|Type:Null}} || {{Ruby|屬性：空 / 属性：空|Shǔxìng:Kōng}} || {{#ic:Normal}}
+|-
+| 773 || style="height: 28px;" | {{#icon:773}} || [[Amigento]] || Silvally || Silvallié || {{Ruby|シルヴァディ|Silvady}} || {{Ruby|실버디|Silbeodi}} || {{Ruby|銀伴戰獸 / 银伴战兽|Yínbànzhànshòu}} || {{#ic:Normal}}
+|-
+| 774 || style="height: 28px;" | {{#icon:774}} || [[Meteno]] || Minior || Météno || {{Ruby|メテノ|Meteno}} || {{Ruby|메테노|Meteno}} || {{Ruby|小隕星 / 小陨星|Xiǎoyǔnxīng}} || {{#ic:Gestein}}&nbsp;{{#ic:Flug}}
+|-
+| 775 || style="height: 28px;" | {{#icon:775}} || [[Koalelu]] || Komala || Dodoala || {{Ruby|ネッコアラ|Nekkoara}} || {{Ruby|자말라|Jamalla}} || {{Ruby|樹枕尾熊 / 树枕尾熊|Shùzhěnwěixióng}} || {{#ic:Normal}}
+|-
+| 776 || style="height: 28px;" | {{#icon:776}} || [[Tortunator]] || Turtonator || Boumata || {{Ruby|バクガメス|Bakugames}} || {{Ruby|폭거북스|Pokgeobukseu}} || {{Ruby|爆焰龜獸 / 爆焰龟兽|Bàoyànguīshòu}} || {{#ic:Feuer}}&nbsp;{{#ic:Drache}}
+|-
+| 777 || style="height: 28px;" | {{#icon:777}} || [[Togedemaru]] || Togedemaru || Togedemaru || {{Ruby|トゲデマル|Togedemaru}} || {{Ruby|토게데마루|Togedemaru}} || {{Ruby|托戈德瑪爾 / 托戈德玛尔|Tuōgēdémǎ'ěr}} || {{#ic:Elektro}}&nbsp;{{#ic:Stahl}}
+|-
+| 778 || style="height: 28px;" | {{#icon:778}} || [[Mimigma]] || Mimikyu || Mimiqui || {{Ruby|ミミッキュ|Mimikkyu}} || {{Ruby|따라큐|Ttarakyu}} || {{Ruby|謎擬Ｑ / {{tt|谜拟丘|früher: 谜拟Ｑ}}|MínǐQ / Mínǐqiū}} || {{#ic:Geist}}&nbsp;{{#ic:Fee}}
+|-
+| 779 || style="height: 28px;" | {{#icon:779}} || [[Knirfish]] || Bruxish || Denticrisse || {{Ruby|ハギギシリ|Hagigishiri}} || {{Ruby|치갈기|Chigalgi}} || {{Ruby|磨牙彩皮魚 / 磨牙彩皮鱼|Móyácǎipíyú}} || {{#ic:Wasser}}&nbsp;{{#ic:Psycho}}
+|-
+| 780 || style="height: 28px;" | {{#icon:780}} || [[Sen-Long]] || Drampa || Draïeul || {{Ruby|ジジーロン|Jijilong}} || {{Ruby|할비롱|Halbirong}} || {{Ruby|老翁龍 / 老翁龙|Lǎowēnglóng}} || {{#ic:Normal}}&nbsp;{{#ic:Drache}}
+|-
+| 781 || style="height: 28px;" | {{#icon:781}} || [[Moruda]] || Dhelmise || Sinistrail || {{Ruby|ダダリン|Dadarin}} || {{Ruby|타타륜|Tataryun}} || {{Ruby|破破舵輪 / 破破舵轮|Pòpòduòlún}} || {{#ic:Geist}}&nbsp;{{#ic:Pflanze}}
+|-
+| 782 || style="height: 28px;" | {{#icon:782}} || [[Miniras]] || Jangmo-o || Bébécaille || {{Ruby|ジャラコ|Jyarako}} || {{Ruby|짜랑꼬|Jjarangkko}} || {{Ruby|心鱗寶 / 心鳞宝|Xīnlínbǎo}} || {{#ic:Drache}}
+|-
+| 783 || style="height: 28px;" | {{#icon:783}} || [[Mediras]] || Hakamo-o || Écaïd || {{Ruby|ジャランゴ|Jyarango}} || {{Ruby|짜랑고우|Jjaranggou}} || {{Ruby|鱗甲龍 / 鳞甲龙|Línjiǎlóng}} || {{#ic:Drache}}&nbsp;{{#ic:Kampf}}
+|-
+| 784 || style="height: 28px;" | {{#icon:784}} || [[Grandiras]] || Kommo-o || Ékaïser || {{Ruby|ジャラランガ|Jyararanga}} || {{Ruby|짜랑고우거|Jjaranggougeo}} || {{Ruby|杖尾鱗甲龍 / 杖尾鳞甲龙|Zhàngwěilínjiǎlóng}} || {{#ic:Drache}}&nbsp;{{#ic:Kampf}}
+|-
+| 785 || style="height: 28px;" | {{#icon:785}} || [[Kapu-Riki]] || Tapu Koko || Tokorico || {{Ruby|カプ・コケコ|Kapu-Kokeko}} || {{Ruby|카푸꼬꼬꼭|Kapukkokkokkok}} || {{Ruby|卡璞・鳴鳴 / 卡璞・鸣鸣|Kǎpú·Míngmíng}} || {{#ic:Elektro}}&nbsp;{{#ic:Fee}}
+|-
+| 786 || style="height: 28px;" | {{#icon:786}} || [[Kapu-Fala]] || Tapu Lele || Tokopiyon || {{Ruby|カプ・テテフ|Kapu-Tetefu}} || {{Ruby|카푸나비나|Kapunabina}} || {{Ruby|卡璞・蝶蝶 / 卡璞・蝶蝶|Kǎpú·Diédié}} || {{#ic:Psycho}}&nbsp;{{#ic:Fee}}
+|-
+| 787 || style="height: 28px;" | {{#icon:787}} || [[Kapu-Toro]] || Tapu Bulu || Tokotoro || {{Ruby|カプ・ブルル|Kapu-Bulul}} || {{Ruby|카푸브루루|Kapubeururu}} || {{Ruby|卡璞・哞哞 / 卡璞・哞哞|Kǎpú·Mōumōu}} || {{#ic:Pflanze}}&nbsp;{{#ic:Fee}}
+|-
+| 788 || style="height: 28px;" | {{#icon:788}} || [[Kapu-Kime]] || Tapu Fini || Tokopisco || {{Ruby|カプ・レヒレ|Kapu-Rehire}} || {{Ruby|카푸느지느|Kapuneujineu}} || {{Ruby|卡璞・鰭鰭 / 卡璞・鳍鳍|Kǎpú·Qíqí}} || {{#ic:Wasser}}&nbsp;{{#ic:Fee}}
+|-
+| 789 || style="height: 28px;" | {{#icon:789}} || [[Cosmog]] || Cosmog || Cosmog || {{Ruby|コスモッグ|Cosmog}} || {{Ruby|코스모그|Koseumogeu}} || {{Ruby|科斯莫古 / 科斯莫古|Kēsīmògǔ}} || {{#ic:Psycho}}
+|-
+| 790 || style="height: 28px;" | {{#icon:790}} || [[Cosmovum]] || Cosmoem || Cosmovum || {{Ruby|コスモウム|Cosmovum}} || {{Ruby|코스모움|Koseumoum}} || {{Ruby|科斯莫姆 / 科斯莫姆|Kēsīmòmǔ}} || {{#ic:Psycho}}
+|-
+| 791 || style="height: 28px;" | {{#icon:791}} || [[Solgaleo]] || Solgaleo || Solgaleo || {{Ruby|ソルガレオ|Solgaleo}} || {{Ruby|솔가레오|Solgaleo}} || {{Ruby|索爾迦雷歐 / 索尔迦雷欧|Suǒ'ěrjiāléi'ōu}} || {{#ic:Psycho}}&nbsp;{{#ic:Stahl}}
+|-
+| 792 || style="height: 28px;" | {{#icon:792}} || [[Lunala]] || Lunala || Lunala || {{Ruby|ルナアーラ|Lunala}} || {{Ruby|루나아라|Lunala}} || {{Ruby|露奈雅拉 / 露奈雅拉|Lùnàiyǎlā}} || {{#ic:Psycho}}&nbsp;{{#ic:Geist}}
+|-
+| 793 || style="height: 28px;" | {{#icon:793}} || [[Anego]] || Nihilego || Zéroïd || {{Ruby|ウツロイド|Uturoid}} || {{Ruby|텅비드|Teongbideu}} || {{Ruby|虛吾伊德 / 虚吾伊德|Xūwúyīdé}} || {{#ic:Gestein}}&nbsp;{{#ic:Gift}}
+|-
+| 794 || style="height: 28px;" | {{#icon:794}} || [[Masskito]] || Buzzwole || Mouscoto || {{Ruby|マッシブーン|Massivoon}} || {{Ruby|매시붕|Maesibung}} || {{Ruby|爆肌蚊 / 爆肌蚊|Bàojīwén}} || {{#ic:Käfer}}&nbsp;{{#ic:Kampf}}
+|-
+| 795 || style="height: 28px;" | {{#icon:795}} || [[Schabelle]] || Pheromosa || Cancrelove || {{Ruby|フェローチェ|Pheroache}} || {{Ruby|페로코체|Perokoche}} || {{Ruby|費洛美螂 / 费洛美螂|Fèiluòměiláng}} || {{#ic:Käfer}}&nbsp;{{#ic:Kampf}}
+|-
+| 796 || style="height: 28px;" | {{#icon:796}} || [[Voltriant]] || Xurkitree || Câblifère || {{Ruby|デンジュモク|Denjyumoku}} || {{Ruby|전수목|Jeonsumok}} || {{Ruby|電束木 / 电束木|Diànshùmù}} || {{#ic:Elektro}}
+|-
+| 797 || style="height: 28px;" | {{#icon:797}} || [[Kaguron]] || Celesteela || Bamboiselle || {{Ruby|テッカグヤ|Tekkaguya}} || {{Ruby|철화구야|Cheolhwaguya}} || {{Ruby|鐵火輝夜 / 铁火辉夜|Tiěhuǒhuīyè}} || {{#ic:Stahl}}&nbsp;{{#ic:Flug}}
+|-
+| 798 || style="height: 28px;" | {{#icon:798}} || [[Katagami]] || Kartana || Katagami || {{Ruby|カミツルギ|Kamiturugi}} || {{Ruby|종이신도|Jong-isindo}} || {{Ruby|紙禦劍 / 纸御剑|Zhǐyùjiàn}} || {{#ic:Pflanze}}&nbsp;{{#ic:Stahl}}
+|-
+| 799 || style="height: 28px;" | {{#icon:799}} || [[Schlingking]] || Guzzlord || Engloutyran || {{Ruby|アクジキング|Akuziking}} || {{Ruby|악식킹|Aksikking}} || {{Ruby|惡食大王 / 恶食大王|Èshídàwáng}} || {{#ic:Unlicht}}&nbsp;{{#ic:Drache}}
+|-
+| 800 || style="height: 28px;" | {{#icon:800}} || [[Necrozma]] || Necrozma || Necrozma || {{Ruby|ネクロズマ|Necrozma}} || {{Ruby|네크로즈마|Necrozma}} || {{Ruby|奈克洛茲瑪 / 奈克洛兹玛|Nàikèluòzīmǎ}} || {{#ic:Psycho}}
+|-
+| 801 || style="height: 28px;" | {{#icon:801}} || [[Magearna]] || Magearna || Magearna || {{Ruby|マギアナ|Magearna}} || {{Ruby|마기아나|Magearna}} || {{Ruby|瑪機雅娜 / 玛机雅娜|Mǎjīyǎnà}} || {{#ic:Stahl}}&nbsp;{{#ic:Fee}}
+|-
+| 802 || style="height: 28px;" | {{#icon:802}} || [[Marshadow]] || Marshadow || Marshadow || {{Ruby|マーシャドー|Marshadow}} || {{Ruby|마샤도|Marshadow}} || {{Ruby|瑪夏多 / 玛夏多|Mǎxiàduō}} || {{#ic:Kampf}}&nbsp;{{#ic:Geist}}
+|-
+| 803 || style="height: 28px;" | {{#icon:803}} || [[Venicro]] || Poipole || Vémini || {{Ruby|ベベノム|Bevenom}} || {{Ruby|베베놈|Bebenom}} || {{Ruby|毒貝比 / 毒贝比|Dúbèibǐ}} || {{#ic:Gift}}
+|-
+| 804 || style="height: 28px;" | {{#icon:804}} || [[Agoyon]] || Naganadel || Mandrillon || {{Ruby|アーゴヨン|Agoyon}} || {{Ruby|아고용|Agoyong}} || {{Ruby|四顎針龍 / 四颚针龙|Sì'èzhēnlóng}} || {{#ic:Gift}}&nbsp;{{#ic:Drache}}
+|-
+| 805 || style="height: 28px;" | {{#icon:805}} || [[Muramura]] || Stakataka || Ama-Ama || {{Ruby|ツンデツンデ|Tundetunde}} || {{Ruby|차곡차곡|Chagogchagog}} || {{Ruby|壘磊石 / 垒磊石|Lěilěishí}} || {{#ic:Gestein}}&nbsp;{{#ic:Stahl}}
+|-
+| 806 || style="height: 28px;" | {{#icon:806}} || [[Kopplosio]] || Blacephalon || Pierroteknik || {{Ruby|ズガドーン|Zugadoon}} || {{Ruby|두파팡|Dupapang}} || {{Ruby|砰頭小丑 / 砰头小丑|Pēngtóuxiǎochǒu}} || {{#ic:Feuer}}&nbsp;{{#ic:Geist}}
+|-
+| 807 || style="height: 28px;" | {{#icon:807}} || [[Zeraora]] || Zeraora || Zeraora || {{Ruby|ゼラオラ|Zeraora}} || {{Ruby|제라오라|Jeraora}} || {{Ruby|捷拉奧拉 / 捷拉奥拉|Jiélā'àolā}} || {{#ic:Elektro}}
+|-
+| 808 || style="height: 28px;" | {{#icon:808}} || [[Meltan]] || Meltan || Meltan || {{Ruby|メルタン|Meltan}} || {{Ruby|멜탄|Meltan}} || {{Ruby|美錄坦 / 美录坦|Měilùtǎn}} || {{#ic:Stahl}}
+|-
+| 809 || style="height: 28px;" | {{#icon:809}} || [[Melmetal]] || Melmetal || Melmetal || {{Ruby|メルメタル|Melmetal}} || {{Ruby|멜메탈|Melmetal}} || {{Ruby|美錄梅塔 / 美录梅塔|Měilùméitǎ}} || {{#ic:Stahl}}
+|-
+| <span id="nr810"></span> 810 || style="height: 28px;" | {{#icon:810}} || [[Chimpep]] || Grookey || Ouistempo || {{Ruby|サルノリ|Sarunori}} || {{Ruby|흥나숭|Heungnasung}} || {{Ruby|敲音猴 / 敲音猴|Qiāoyīnhóu}} || {{#ic:Pflanze}}
+|-
+| 811 || style="height: 28px;" | {{#icon:811}} || [[Chimstix]] || Thwackey || Badabouin || {{Ruby|バチンキー|Bachinkey}} || {{Ruby|채키몽|Chaekimong}} || {{Ruby|啪咚猴 / 啪咚猴|Pādōnghóu}} || {{#ic:Pflanze}}
+|-
+| 812 || style="height: 28px;" | {{#icon:812}} || [[Gortrom]] || Rillaboom || Gorythmic || {{Ruby|ゴリランダー|Gorirander}} || {{Ruby|고릴타|Golilta}} || {{Ruby|轟擂金剛猩 / 轰擂金刚猩|Hōnglèijīngāngxīng}} || {{#ic:Pflanze}}
+|-
+| 813 || style="height: 28px;" | {{#icon:813}} || [[Hopplo]] || Scorbunny || Flambino || {{Ruby|ヒバニー|Hibanny}} || {{Ruby|염버니|Yeombeoni}} || {{Ruby|炎兔兒 / 炎兔儿|Yántù'ér}} || {{#ic:Feuer}}
+|-
+| 814 || style="height: 28px;" | {{#icon:814}} || [[Kickerlo]] || Raboot || Lapyro || {{Ruby|ラビフット|Rabbifuto}} || {{Ruby|래비풋|Raebipus}} || {{Ruby|騰蹴小將 / 腾蹴小将|Téngcùxiǎojiàng}} || {{#ic:Feuer}}
+|-
+| 815 || style="height: 28px;" | {{#icon:815}} || [[Liberlo]] || Cinderace || Pyrobut || {{Ruby|エースバーン|Aceburn}} || {{Ruby|에이스번|Eiseubeon}} || {{Ruby|閃焰王牌 / 闪焰王牌|Shǎnyànwángpái}} || {{#ic:Feuer}}
+|-
+| 816 || style="height: 28px;" | {{#icon:816}} || [[Memmeon]] || Sobble || Larméléon || {{Ruby|メッソン|Messon}} || {{Ruby|울머기|Ulmeogi}} || {{Ruby|淚眼蜥 / 泪眼蜥|Lèiyǎnxī}} || {{#ic:Wasser}}
+|-
+| 817 || style="height: 28px;" | {{#icon:817}} || [[Phlegleon]] || Drizzile || Arrozard || {{Ruby|ジメレオン|Jimereon}} || {{Ruby|누겔레온|Nugelle-on}} || {{Ruby|變澀蜥 / 变涩蜥|Biànsèxī}} || {{#ic:Wasser}}
+|-
+| 818 || style="height: 28px;" | {{#icon:818}} || [[Intelleon]] || Inteleon || Lézargus || {{Ruby|インテレオン|Intereon}} || {{Ruby|인텔리레온|Intellile-on}} || {{Ruby|千面避役 / 千面避役|Qiānmiànbìyì}} || {{#ic:Wasser}}
+|-
+| 819 || style="height: 28px;" | {{#icon:819}} || [[Raffel]] || Skwovet || Rongourmand || {{Ruby|ホシガリス|Hoshigarisu}} || {{Ruby|탐리스|Tamliseu}} || {{Ruby|貪心栗鼠 / 贪心栗鼠|Tānxīnlìshǔ}} || {{#ic:Normal}}
+|-
+| 820 || style="height: 28px;" | {{#icon:820}} || [[Schlaraffel]] || Greedent || Rongrigou || {{Ruby|ヨクバリス|Yokubarisu}} || {{Ruby|요씽리스|Yossingliseu}} || {{Ruby|藏飽栗鼠 / 藏饱栗鼠|Cángbǎolìshǔ}} || {{#ic:Normal}}
+|-
+| 821 || style="height: 28px;" | {{#icon:821}} || [[Meikro]] || Rookidee || Minisange || {{Ruby|ココガラ|Kokogara}} || {{Ruby|파라꼬|Palakko}} || {{Ruby|稚山雀 / 稚山雀|Zhìshānquè}} || {{#ic:Flug}}
+|-
+| 822 || style="height: 28px;" | {{#icon:822}} || [[Kranoviz]] || Corvisquire || Bleuseille || {{Ruby|アオガラス|Aogarasu}} || {{Ruby|파크로우|Pakeulou}} || {{Ruby|藍鴉 / 蓝鸦|Lányā}} || {{#ic:Flug}}
+|-
+| 823 || style="height: 28px;" | {{#icon:823}} || [[Krarmor]] || Corviknight || Corvaillus || {{Ruby|アーマーガア|Armorga}} || {{Ruby|아머까오|Ameokkao}} || {{Ruby|鋼鎧鴉 / 钢铠鸦|Gāngkǎiyā}} || {{#ic:Flug}}&nbsp;{{#ic:Stahl}}
+|-
+| 824 || style="height: 28px;" | {{#icon:824}} || [[Sensect]] || Blipbug || Larvadar || {{Ruby|サッチムシ|Sacchimushi}} || {{Ruby|두루지벌레|Dulujibeolle}} || {{Ruby|索偵蟲 / 索侦虫|Suǒzhēnchóng}} || {{#ic:Käfer}}
+|-
+| 825 || style="height: 28px;" | {{#icon:825}} || [[Keradar]] || Dottler || Coléodôme || {{Ruby|レドームシ|Redomushi}} || {{Ruby|레돔벌레|Ledombeolle}} || {{Ruby|天罩蟲 / 天罩虫|Tiānzhàochóng}} || {{#ic:Käfer}}&nbsp;{{#ic:Psycho}}
+|-
+| 826 || style="height: 28px;" | {{#icon:826}} || [[Maritellit]] || Orbeetle || Astronelle || {{Ruby|イオルブ|Eolb}} || {{Ruby|이올브|Iolbeu}} || {{Ruby|以歐路普 / 以欧路普|Yǐ'ōulùpǔ}} || {{#ic:Käfer}}&nbsp;{{#ic:Psycho}}
+|-
+| 827 || style="height: 28px;" | {{#icon:827}} || [[Kleptifux]] || Nickit || Goupilou || {{Ruby|クスネ|Kusune}} || {{Ruby|훔처우|Humcheou}} || {{Ruby|偷兒狐 / {{tt|狡小狐|früher: 偷儿狐}}|Tōu'érhú / Jiǎoxiǎohú}} || {{#ic:Unlicht}}
+|-
+| 828 || style="height: 28px;" | {{#icon:828}} || [[Gaunux]] || Thievul || Roublenard || {{Ruby|フォクスライ|Foxly}} || {{Ruby|폭슬라이|Pogseullai}} || {{Ruby|狐大盜 / {{tt|猾大狐|früher: 狐大盗}}|Húdàdào / Huádàhú}} || {{#ic:Unlicht}}
+|-
+| 829 || style="height: 28px;" | {{#icon:829}} || [[Cottini]] || Gossifleur || Tournicoton || {{Ruby|ヒメンカ|Himenka}} || {{Ruby|꼬모카|Kkomoka}} || {{Ruby|幼棉棉 / 幼棉棉|Yòumiánmián}} || {{#ic:Pflanze}}
+|-
+| 830 || style="height: 28px;" | {{#icon:830}} || [[Cottomi]] || Eldegoss || Blancoton || {{Ruby|ワタシラガ|Watashiraga}} || {{Ruby|백솜모카|Baegsommoka}} || {{Ruby|白蓬蓬 / 白蓬蓬|Báipéngpéng}} || {{#ic:Pflanze}}
+|-
+| 831 || style="height: 28px;" | {{#icon:831}} || [[Wolly]] || Wooloo || Moumouton || {{Ruby|ウールー|Wooluu}} || {{Ruby|우르|Uleu}} || {{Ruby|毛辮羊 / 毛辫羊|Máobiànyáng}} || {{#ic:Normal}}
+|-
+| 832 || style="height: 28px;" | {{#icon:832}} || [[Zwollock]] || Dubwool || Moumouflon || {{Ruby|バイウールー|Baiwooluu}} || {{Ruby|배우르|Baeuleu}} || {{Ruby|毛毛角羊 / 毛毛角羊|Máomáojiǎoyáng}} || {{#ic:Normal}}
+|-
+| 833 || style="height: 28px;" | {{#icon:833}} || [[Kamehaps]] || Chewtle || Khélocrok || {{Ruby|カムカメ|Kamukame}} || {{Ruby|깨물부기|Kkaemulbugi}} || {{Ruby|咬咬龜 / 咬咬龟|Yǎoyǎoguī}} || {{#ic:Wasser}}
+|-
+| 834 || style="height: 28px;" | {{#icon:834}} || [[Kamalm]] || Drednaw || Torgamord || {{Ruby|カジリガメ|Kajirigame}} || {{Ruby|갈가부기|Galgabugi}} || {{Ruby|暴噬龜 / 暴噬龟|Bàoshìguī}} || {{#ic:Wasser}}&nbsp;{{#ic:Gestein}}
+|-
+| 835 || style="height: 28px;" | {{#icon:835}} || [[Voldi]] || Yamper || Voltoutou || {{Ruby|ワンパチ|Wanpachi}} || {{Ruby|멍파치|Meongpachi}} || {{Ruby|來電汪 / 来电汪|Láidiànwāng}} || {{#ic:Elektro}}
+|-
+| 836 || style="height: 28px;" | {{#icon:836}} || [[Bellektro]] || Boltund || Fulgudog || {{Ruby|パルスワン|Pulsewan}} || {{Ruby|펄스멍|Peolseumeong}} || {{Ruby|逐電犬 / 逐电犬|Zhúdiànquǎn}} || {{#ic:Elektro}}
+|-
+| 837 || style="height: 28px;" | {{#icon:837}} || [[Klonkett]] || Rolycoly || Charbi || {{Ruby|タンドン|Tandon}} || {{Ruby|탄동|Tandong}} || {{Ruby|小炭仔 / 小炭仔|Xiǎotànzǐ}} || {{#ic:Gestein}}
+|-
+| 838 || style="height: 28px;" | {{#icon:838}} || [[Wagong]] || Carkol || Wagomine || {{Ruby|トロッゴン|Toroggon}} || {{Ruby|탄차곤|Tanchagon}} || {{Ruby|大炭車 / 大炭车|Dàtànchē}} || {{#ic:Gestein}}&nbsp;{{#ic:Feuer}}
+|-
+| 839 || style="height: 28px;" | {{#icon:839}} || [[Montecarbo]] || Coalossal || Monthracite || {{Ruby|セキタンザン|Sekitanzan}} || {{Ruby|석탄산|Seogtansan}} || {{Ruby|巨炭山 / 巨炭山|Jùtànshān}} || {{#ic:Gestein}}&nbsp;{{#ic:Feuer}}
+|-
+| 840 || style="height: 28px;" | {{#icon:840}} || [[Knapfel]] || Applin || Verpom || {{Ruby|カジッチュ|Kajicchu}} || {{Ruby|과사삭벌레|Gwasasagbeolle}} || {{Ruby|啃果蟲 / 啃果虫|Kěnguǒchóng}} || {{#ic:Pflanze}}&nbsp;{{#ic:Drache}}
+|-
+| 841 || style="height: 28px;" | {{#icon:841}} || [[Drapfel]] || Flapple || Pomdrapi || {{Ruby|アップリュー|Appryu}} || {{Ruby|애프룡|Aepeulyong}} || {{Ruby|蘋裹龍 / 苹裹龙|Píngguǒlóng}} || {{#ic:Pflanze}}&nbsp;{{#ic:Drache}}
+|-
+| 842 || style="height: 28px;" | {{#icon:842}} || [[Schlapfel]] || Appletun || Dratatin || {{Ruby|タルップル|Tarupple}} || {{Ruby|단지래플|Danjiraepeul}} || {{Ruby|豐蜜龍 / 丰蜜龙|Fēngmìlóng}} || {{#ic:Pflanze}}&nbsp;{{#ic:Drache}}
+|-
+| 843 || style="height: 28px;" | {{#icon:843}} || [[Salanga]] || Silicobra || Dunaja || {{Ruby|スナヘビ|Sunahebi}} || {{Ruby|모래뱀|Molaebaem}} || {{Ruby|沙包蛇 / 沙包蛇|Shābāoshé}} || {{#ic:Boden}}
+|-
+| 844 || style="height: 28px;" | {{#icon:844}} || [[Sanaconda]] || Sandaconda || Dunaconda || {{Ruby|サダイジャ|Sadaija}} || {{Ruby|사다이사|Sadaisa}} || {{Ruby|沙螺蟒 / 沙螺蟒|Shāluómǎng}} || {{#ic:Boden}}
+|-
+| 845 || style="height: 28px;" | {{#icon:845}} || [[Urgl]] || Cramorant || Nigosier || {{Ruby|ウッウ|Uu}} || {{Ruby|윽우지|Euguji}} || {{Ruby|古月鳥 / 古月鸟|Gǔyuèniǎo}} || {{#ic:Flug}}&nbsp;{{#ic:Wasser}}
+|-
+| 846 || style="height: 28px;" | {{#icon:846}} || [[Pikuda]] || Arrokuda || Embrochet || {{Ruby|サシカマス|Sasikamasu}} || {{Ruby|찌로꼬치|Jjilokkochi}} || {{Ruby|刺梭魚 / 刺梭鱼|Cìsuōyú}} || {{#ic:Wasser}}
+|-
+| 847 || style="height: 28px;" | {{#icon:847}} || [[Barrakiefa]] || Barraskewda || Hastacuda || {{Ruby|カマスジョー|Kamasujaw}} || {{Ruby|꼬치조|Kkochijo}} || {{Ruby|戽斗尖梭 / 戽斗尖梭|Hùdǒujiānsuō}} || {{#ic:Wasser}}
+|-
+| 848 || style="height: 28px;" | {{#icon:848}} || [[Toxel]] || Toxel || Toxizap || {{Ruby|エレズン|Eleson}} || {{Ruby|일레즌|Illejeun}} || {{Ruby|毒電嬰 / {{tt|电音婴|früher: 毒电婴}}|Dúdiànyīng / Diànyīnyīng}} || {{#ic:Elektro}}&nbsp;{{#ic:Gift}}
+|-
+| 849 || style="height: 28px;" | {{#icon:849}} || [[Riffex]] || Toxtricity || Salarsen || {{Ruby|ストリンダー|Strinder}} || {{Ruby|스트린더|Seuteulindeo}} || {{Ruby|顫弦蠑螈 / 颤弦蝾螈|Chànxiánróngyuán}} || {{#ic:Elektro}}&nbsp;{{#ic:Gift}}
+|-
+| 850 || style="height: 28px;" | {{#icon:850}} || [[Thermopod]] || Sizzlipede || Grillepattes || {{Ruby|ヤクデ|Yakude}} || {{Ruby|태우지네|Taeujine}} || {{Ruby|燒火蚣 / 烧火蚣|Shāohuǒgōng}} || {{#ic:Feuer}}&nbsp;{{#ic:Käfer}}
+|-
+| 851 || style="height: 28px;" | {{#icon:851}} || [[Infernopod]] || Centiskorch || Scolocendre || {{Ruby|マルヤクデ|Maruyakude}} || {{Ruby|다태우지네|Dataeujine}} || {{Ruby|焚焰蚣 / 焚焰蚣|Fényàngōng}} || {{#ic:Feuer}}&nbsp;{{#ic:Käfer}}
+|-
+| 852 || style="height: 28px;" | {{#icon:852}} || [[Klopptopus]] || Clobbopus || Poulpaf || {{Ruby|タタッコ|Tatakko}} || {{Ruby|때때무노|Ttaettaemuno}} || {{Ruby|拳拳蛸 / 拳拳蛸|Quánquánxiāo}} || {{#ic:Kampf}}
+|-
+| 853 || style="height: 28px;" | {{#icon:853}} || [[Kaocto]] || Grapploct || Krakos || {{Ruby|オトスパス|Otosupus}} || {{Ruby|케오퍼스|Ke'opeoseu}} || {{Ruby|八爪武師 / 八爪武师|Bāzhuǎwǔshī}} || {{#ic:Kampf}}
+|-
+| 854 || style="height: 28px;" | {{#icon:854}} || [[Fatalitee]] || Sinistea || Théffroi || {{Ruby|ヤバチャ|Yabacha}} || {{Ruby|데인차|Deincha}} || {{Ruby|來悲茶 / 来悲茶|Láibēichá}} || {{#ic:Geist}}
+|-
+| 855 || style="height: 28px;" | {{#icon:855}} || [[Mortipot]] || Polteageist || Polthégeist || {{Ruby|ポットデス|Potdeath}} || {{Ruby|포트데스|Poteudeseu}} || {{Ruby|怖思壺 / 怖思壶|Bùsīhú}} || {{#ic:Geist}}
+|-
+| 856 || style="height: 28px;" | {{#icon:856}} || [[Brimova]] || Hatenna || Bibichut || {{Ruby|ミブリム|Mibrim}} || {{Ruby|몸지브림|Momjibeulim}} || {{Ruby|迷布莉姆 / 迷布莉姆|Míbùlìmǔ}} || {{#ic:Psycho}}
+|-
+| 857 || style="height: 28px;" | {{#icon:857}} || [[Brimano]] || Hattrem || Chapotus || {{Ruby|テブリム|Tebrim}} || {{Ruby|손지브림|Sonjibeulim}} || {{Ruby|提布莉姆 / 提布莉姆|Tíbùlìmǔ}} || {{#ic:Psycho}}
+|-
+| 858 || style="height: 28px;" | {{#icon:858}} || [[Silembrim]] || Hatterene || Sorcilence || {{Ruby|ブリムオン|Brimuon}} || {{Ruby|브리무음|Beulimueum}} || {{Ruby|布莉姆溫 / 布莉姆温|Bùlìmǔwēn}} || {{#ic:Psycho}}&nbsp;{{#ic:Fee}}
+|-
+| 859 || style="height: 28px;" | {{#icon:859}} || [[Bähmon]] || Impidimp || Grimalin || {{Ruby|ベロバー|Beroba}} || {{Ruby|메롱꿍|Melongkkung}} || {{Ruby|搗蛋小妖 / 捣蛋小妖|Dǎodànxiǎoyāo}} || {{#ic:Unlicht}}&nbsp;{{#ic:Fee}}
+|-
+| 860 || style="height: 28px;" | {{#icon:860}} || [[Pelzebub]] || Morgrem || Fourbelin || {{Ruby|ギモー|Gimoh}} || {{Ruby|쏘겨모|Ssogyeomo}} || {{Ruby|詐唬魔 / 诈唬魔|Zhàhǔmó}} || {{#ic:Unlicht}}&nbsp;{{#ic:Fee}}
+|-
+| 861 || style="height: 28px;" | {{#icon:861}} || [[Olangaar]] || Grimmsnarl || Angoliath || {{Ruby|オーロンゲ|Ohlonge}} || {{Ruby|오롱털|Olongteol}} || {{Ruby|長毛巨魔 / 长毛巨魔|Chángmáojùmó}} || {{#ic:Unlicht}}&nbsp;{{#ic:Fee}}
+|-
+| 862 || style="height: 28px;" | {{#icon:862}} || [[Barrikadax]] || Obstagoon || Ixon || {{Ruby|タチフサグマ|Tachifusaguma}} || {{Ruby|가로막구리|Galomagguli}} || {{Ruby|堵攔熊 / 堵拦熊|Dǔlánxióng}} || {{#ic:Unlicht}}&nbsp;{{#ic:Normal}}
+|-
+| 863 || style="height: 28px;" | {{#icon:863}} || [[Mauzinger]] || Perrserker || Berserkatt || {{Ruby|ニャイキング|Nyaiking}} || {{Ruby|나이킹|Naiking}} || {{Ruby|喵頭目 / 喵头目|Miāotóumù}} || {{#ic:Stahl}}
+|-
+| 864 || style="height: 28px;" | {{#icon:864}} || [[Gorgasonn]] || Cursola || Corayôme || {{Ruby|サニゴーン|Sunigoon}} || {{Ruby|산호르곤|Sanholeugon}} || {{Ruby|魔靈珊瑚 / 魔灵珊瑚|Mólíngshānhú}} || {{#ic:Geist}}
+|-
+| 865 || style="height: 28px;" | {{#icon:865}} || [[Lauchzelot]] || Sirfetch’d || Palarticho || {{Ruby|ネギガナイト|Negigaknight}} || {{Ruby|창파나이트|Changpanaiteu}} || {{Ruby|蔥遊兵 / 葱游兵|Cōngyóubīng}} || {{#ic:Kampf}}
+|-
+| 866 || style="height: 28px;" | {{#icon:866}} || [[Pantifrost]] || Mr. Rime || M. Glaquette || {{Ruby|バリコオル|Barrikohru}} || {{Ruby|마임꽁꽁|Maimkkongkkong}} || {{Ruby|踏冰人偶 / 踏冰人偶|Tàbīngrén'ǒu}} || {{#ic:Eis}}&nbsp;{{#ic:Psycho}}
+|-
+| 867 || style="height: 28px;" | {{#icon:867}} || [[Oghnatoll]] || Runerigus || Tutétékri || {{Ruby|デスバーン|Deathbarn}} || {{Ruby|데스판|Deseupan}} || {{Ruby|死神板 / {{tt|迭失板|früher: 死神板}}|Sǐshénbǎn / Diéshībǎn}} || {{#ic:Boden}}&nbsp;{{#ic:Geist}}
+|-
+| 868 || style="height: 28px;" | {{#icon:868}} || [[Hokumil]] || Milcery || Crèmy || {{Ruby|マホミル|Mahomil}} || {{Ruby|마빌크|Mabilkeu}} || {{Ruby|小仙奶 / 小仙奶|Xiǎoxiānnǎi}} || {{#ic:Fee}}
+|-
+| 869 || style="height: 28px;" | {{#icon:869}} || [[Pokusan]] || Alcremie || Charmilly || {{Ruby|マホイップ|Mawhip}} || {{Ruby|마휘핑|Mahwiping}} || {{Ruby|霜奶仙 / 霜奶仙|Shuāngnǎixiān}} || {{#ic:Fee}}
+|-
+| 870 || style="height: 28px;" | {{#icon:870}} || [[Legios]] || Falinks || Hexadron || {{Ruby|タイレーツ|Tairetsu}} || {{Ruby|대여르|Daeyeoleu}} || {{Ruby|列陣兵 / 列阵兵|Lièzhènbīng}} || {{#ic:Kampf}}
+|-
+| 871 || style="height: 28px;" | {{#icon:871}} || [[Britzigel]] || Pincurchin || Wattapik || {{Ruby|バチンウニ|Bachinuni}} || {{Ruby|찌르성게|Jjileuseong-ge}} || {{Ruby|啪嚓海膽 / 啪嚓海胆|Pāchāhǎidǎn}} || {{#ic:Elektro}}
+|-
+| 872 || style="height: 28px;" | {{#icon:872}} || [[Snomnom]] || Snom || Frissonille || {{Ruby|ユキハミ|Yukihami}} || {{Ruby|누니머기|Nunimeogi}} || {{Ruby|雪吞蟲 / 雪吞虫|Xuětūnchóng}} || {{#ic:Eis}}&nbsp;{{#ic:Käfer}}
+|-
+| 873 || style="height: 28px;" | {{#icon:873}} || [[Mottineva]] || Frosmoth || Beldeneige || {{Ruby|モスノウ|Mothnow}} || {{Ruby|모스노우|Moseunou}} || {{Ruby|雪絨蛾 / 雪绒蛾|Xuěróng'é}} || {{#ic:Eis}}&nbsp;{{#ic:Käfer}}
+|-
+| 874 || style="height: 28px;" | {{#icon:874}} || [[Humanolith]] || Stonjourner || Dolman || {{Ruby|イシヘンジン|Ishihengin}} || {{Ruby|돌헨진|Dolhenjin}} || {{Ruby|巨石丁 / 巨石丁|Jùshídīng}} || {{#ic:Gestein}}
+|-
+| 875 || style="height: 28px;" | {{#icon:875}} || [[Kubuin]] || Eiscue || Bekaglaçon || {{Ruby|コオリッポ|Korippo}} || {{Ruby|빙큐보|Bingkyubo}} || {{Ruby|冰砌鵝 / 冰砌鹅|Bīngqì'é}} || {{#ic:Eis}}
+|-
+| 876 || style="height: 28px;" | {{#icon:876}} || [[Servol]] || Indeedee || Wimessir || {{Ruby|イエッサン|Yessan}} || {{Ruby|에써르|Esseoleu}} || {{Ruby|愛管侍 / 爱管侍|Àiguǎnshì}} || {{#ic:Psycho}}&nbsp;{{#ic:Normal}}
+|-
+| 877 || style="height: 28px;" | {{#icon:877}} || [[Morpeko]] || Morpeko || Morpeko || {{Ruby|モルペコ|Morpeko}} || {{Ruby|모르페코|Moleupeko}} || {{Ruby|莫魯貝可 / 莫鲁贝可|Mòlǔbèikě}} || {{#ic:Elektro}}&nbsp;{{#ic:Unlicht}}
+|-
+| 878 || style="height: 28px;" | {{#icon:878}} || [[Kupfanti]] || Cufant || Charibari || {{Ruby|ゾウドウ|Zoudou}} || {{Ruby|끼리동|Kkilidong}} || {{Ruby|銅象 / 铜象|Tóngxiàng}} || {{#ic:Stahl}}
+|-
+| 879 || style="height: 28px;" | {{#icon:879}} || [[Patinaraja]] || Copperajah || Pachyradjah || {{Ruby|ダイオウドウ|Daioudou}} || {{Ruby|대왕끼리동|Daewangkkilidong}} || {{Ruby|大王銅象 / 大王铜象|Dàwángtóngxiàng}} || {{#ic:Stahl}}
+|-
+| 880 || style="height: 28px;" | {{#icon:880}} || [[Lectragon]] || Dracozolt || Galvagon || {{Ruby|パッチラゴン|Patchiragon}} || {{Ruby|파치래곤|Pachilaegon}} || {{Ruby|雷鳥龍 / 雷鸟龙|Léiniǎolóng}} || {{#ic:Elektro}}&nbsp;{{#ic:Drache}}
+|-
+| 881 || style="height: 28px;" | {{#icon:881}} || [[Lecryodon]] || Arctozolt || Galvagla || {{Ruby|パッチルドン|Patchilldon}} || {{Ruby|파치르돈|Pachileudon}} || {{Ruby|雷鳥海獸 / 雷鸟海兽|Léiniǎohǎishòu}} || {{#ic:Elektro}}&nbsp;{{#ic:Eis}}
+|-
+| 882 || style="height: 28px;" | {{#icon:882}} || [[Pescragon]] || Dracovish || Hydragon || {{Ruby|ウオノラゴン|Uonoragon}} || {{Ruby|어래곤|Eolaegon}} || {{Ruby|鰓魚龍 / 鳃鱼龙|Sāiyúlóng}} || {{#ic:Wasser}}&nbsp;{{#ic:Drache}}
+|-
+| 883 || style="height: 28px;" | {{#icon:883}} || [[Pescryodon]] || Arctovish || Hydragla || {{Ruby|ウオチルドン|Uochilldon}} || {{Ruby|어치르돈|Eochileudon}} || {{Ruby|鰓魚海獸 / 鳃鱼海兽|Sāiyúhǎishòu}} || {{#ic:Wasser}}&nbsp;{{#ic:Eis}}
+|-
+| 884 || style="height: 28px;" | {{#icon:884}} || [[Duraludon]] || Duraludon || Duralugon || {{Ruby|ジュラルドン|Duraludon}} || {{Ruby|두랄루돈|Dulalludon}} || {{Ruby|鋁鋼龍 / 铝钢龙|Lǚgānglóng}} || {{#ic:Stahl}}&nbsp;{{#ic:Drache}}
+|-
+| 885 || style="height: 28px;" | {{#icon:885}} || [[Grolldra]] || Dreepy || Fantyrm || {{Ruby|ドラメシヤ|Dorameshiya}} || {{Ruby|드라꼰|Deulakkon}} || {{Ruby|多龍梅西亞 / 多龙梅西亚|Duōlóngméixīyà}} || {{#ic:Drache}}&nbsp;{{#ic:Geist}}
+|-
+| 886 || style="height: 28px;" | {{#icon:886}} || [[Phandra]] || Drakloak || Dispareptil || {{Ruby|ドロンチ|Doronch}} || {{Ruby|드래런치|Deulaeleonchi}} || {{Ruby|多龍奇 / 多龙奇|Duōlóngqí}} || {{#ic:Drache}}&nbsp;{{#ic:Geist}}
+|-
+| 887 || style="height: 28px;" | {{#icon:887}} || [[Katapuldra]] || Dragapult || Lanssorien || {{Ruby|ドラパルト|Dorapult}} || {{Ruby|드래펄트|Deulaepeolteu}} || {{Ruby|多龍巴魯托 / 多龙巴鲁托|Duōlóngbālǔtuō}} || {{#ic:Drache}}&nbsp;{{#ic:Geist}}
+|-
+| 888 || style="height: 28px;" | {{#icon:888}} || [[Zacian]] || Zacian || Zacian || {{Ruby|ザシアン|Zacian}} || {{Ruby|자시안|Jasian}} || {{Ruby|蒼響 / 苍响|Cāngxiǎng}} || {{#ic:Fee}}
+|-
+| 889 || style="height: 28px;" | {{#icon:889}} || [[Zamazenta]] || Zamazenta || Zamazenta || {{Ruby|ザマゼンタ|Zamazenta}} || {{Ruby|자마젠타|Jamajenta}} || {{Ruby|藏瑪然特 / 藏玛然特|Zàngmǎrántè}} || {{#ic:Kampf}}
+|-
+| 890 || style="height: 28px;" | {{#icon:890}} || [[Endynalos]] || Eternatus || Éthernatos || {{Ruby|ムゲンダイナ|Mugendina}} || {{Ruby|무한다이노|Muhandaino}} || {{Ruby|無極汰那 / 无极汰那|Wújítàinà}} || {{#ic:Gift}}&nbsp;{{#ic:Drache}}
+|-
+| 891 || style="height: 28px;" | {{#icon:891}} || [[Dakuma]] || Kubfu || Wushours || {{Ruby|ダクマ|Dakuma}} || {{Ruby|치고마|Chigoma}} || {{Ruby|熊徒弟 / 熊徒弟|Xióngtúdì}} || {{#ic:Kampf}}
+|-
+| 892 || style="height: 28px;" | {{#icon:892}} || [[Wulaosu]] || Urshifu || Shifours || {{Ruby|ウーラオス|Wulaosu}} || {{Ruby|우라오스|Ulaoseu}} || {{Ruby|武道熊師 / 武道熊师|Wǔdàoxióngshī}} || {{#ic:Kampf}}&nbsp;{{#ic:Unlicht}}
+|-
+| 893 || style="height: 28px;" | {{#icon:893}} || [[Zarude]] || Zarude || Zarude || {{Ruby|ザルード|Zarude}} || {{Ruby|자루도|Jarudo}} || {{Ruby|薩戮德 / 萨戮德|Sàlùdé}} || {{#ic:Unlicht}}&nbsp;{{#ic:Pflanze}}
+|-
+| 894 || style="height: 28px;" | {{#icon:894}} || [[Regieleki]] || Regieleki || Regieleki || {{Ruby|レジエレキ|Regieleki}} || {{Ruby|레지에레키|Rejieleki}} || {{Ruby|雷吉艾勒奇 / 雷吉艾勒奇|Léijí'àilèqí}} || {{#ic:Elektro}}
+|-
+| 895 || style="height: 28px;" | {{#icon:895}} || [[Regidrago]] || Regidrago || Regidrago || {{Ruby|レジドラゴ|Regidorago}} || {{Ruby|레지드래고|Rejideuraego}} || {{Ruby|雷吉鐸拉戈 / 雷吉铎拉戈|Léijíduólāgē}} || {{#ic:Drache}}
+|-
+| 896 || style="height: 28px;" | {{#icon:896}} || [[Polaross]] || Glastrier || Blizzeval || {{Ruby|ブリザポス|Blizzapos}} || {{Ruby|블리자포스|Beullijaposeu}} || {{Ruby|雪暴馬 / 雪暴马|Xuěbàomǎ}} || {{#ic:Eis}}
+|-
+| 897 || style="height: 28px;" | {{#icon:897}} || [[Phantoross]] || Spectrier || Spectreval || {{Ruby|レイスポス|Wraithpos}} || {{Ruby|레이스포스|Reiseuposeu}} || {{Ruby|靈幽馬 / 灵幽马|Língyōumǎ}} || {{#ic:Geist}}
+|-
+| 898 || style="height: 28px;" | {{#icon:898}} || [[Coronospa]] || Calyrex || Sylveroy || {{Ruby|バドレックス|Budrex}} || {{Ruby|버드렉스|Beodeuregseu}} || {{Ruby|蕾冠王 / 蕾冠王|Lěiguānwáng}} || {{#ic:Psycho}}&nbsp;{{#ic:Pflanze}}
+|-
+| 899 || style="height: 28px;" | {{#icon:899}} || [[Damythir]] || Wyrdeer || Cerbyllin || {{Ruby|アヤシシ|Ayashishi}} || {{Ruby|신비록|Sinbirok}} || {{Ruby|詭角鹿 / 诡角鹿|Guǐjiǎolù}}|| {{#ic:Normal}}&nbsp;{{#ic:Psycho}}
+|-
+| 900 || style="height: 28px;" | {{#icon:900}} || [[Axantor]] || Kleavor || Hachécateur || {{Ruby|バサギリ|Basagiri}} || {{Ruby|사마자르|Samajareu}} || {{Ruby|劈斧螳螂 / 劈斧螳螂|Pīfǔtángláng}} || {{#ic:Käfer}}&nbsp;{{#ic:Gestein}}
+|-
+| 901 || style="height: 28px;" | {{#icon:901}} || [[Ursaluna]] || Ursaluna || Ursaking || {{Ruby|ガチグマ|Gachiguma}} || {{Ruby|다투곰|Datugom}} || {{Ruby|月月熊 / 月月熊|Yuèyuèxióng}} || {{#ic:Boden}}&nbsp;{{#ic:Normal}}
+|-
+| 902 || style="height: 28px;" | {{#icon:902}} || [[Salmagnis]] || Basculegion || Paragruel || {{Ruby|イダイトウ|Idaitou}} || {{Ruby|대쓰여너|Daesseuyeoneo}} || {{Ruby|幽尾玄魚 / 幽尾玄鱼|Yōuwěixuányú}} || {{#ic:Wasser}}&nbsp;{{#ic:Geist}}
+|-
+| 903 || style="height: 28px;" | {{#icon:903}} || [[Snieboss]] || Sneasler || Farfurex || {{Ruby|オオニューラ|Ohnyula}} || {{Ruby|포푸니크|Popunikeu}} || {{Ruby|大狃拉 / 大狃拉|Dàniǔlā}} || {{#ic:Kampf}}&nbsp;{{#ic:Gift}}
+|-
+| 904 || style="height: 28px;" | {{#icon:904}} || [[Myriador]] || Overqwil || Qwilpik || {{Ruby|ハリーマン|Haryman}} || {{Ruby|장침바루|Jangchimbaru}} || {{Ruby|萬針魚 / 万针鱼|Wànzhēnyú}} || {{#ic:Unlicht}}&nbsp;{{#ic:Gift}}
+|-
+| 905 || style="height: 28px;" | {{#icon:905}} || [[Cupidos]] || Enamorus || Amovénus || {{Ruby|ラブトロス|Lovetolos}} || {{Ruby|러브로스|Leobeuloseu}} || {{Ruby|眷戀雲 / 眷恋云|Juànliànyùn}} || {{#ic:Fee}}&nbsp;{{#ic:Flug}}
+|-
+| <span id="nr???"></span> ??? || style="height: 28px;" | [[Datei:Sugimori Felori.png|20px|link=]] || [[Felori]] || Sprigatito || Poussacha || {{Ruby|ニャオハ|Nyahoja}} || {{Ruby|나오하|Naoha}} || {{Ruby|新葉喵 / 新叶喵|Xīnyèmiāo}} || {{#ic:Pflanze}}
+|-
+| ??? || style="height: 28px;" | [[Datei:Sugimori Krokel.png|20px|link=]] || [[Krokel]] || Fuecoco || Chochodile || {{Ruby|ホゲータ|Hogator}} || {{Ruby|뜨아거|Tteuageo}} || {{Ruby|呆火鱷 / 呆火鳄|Dāihuǒ'è}} || {{#ic:Feuer}}
+|-
+| ??? || style="height: 28px;" | [[Datei:Sugimori Kwaks.png|20px|link=]] || [[Kwaks]] || Quaxly || Coiffeton || {{Ruby|クワッス |Kuwassu}} || {{Ruby|꾸왁스|Kkuwakseu}} || {{Ruby|潤水鴨 / 润水鸭|Rùnshuǐyā}} || {{#ic:Wasser}}
+|-
+| ??? || style="height: 28px;" | [[Datei:Sugimori Pamo.png|20px|link=]] || [[Pamo]] || Pawmi || Pohm || {{Ruby|パモ|Pamo}} || {{Ruby|빠모|Ppamo}} || {{Ruby|布撥 / 布拨|Bùbō}} || {{#ic:Elektro}}
+|-
+| ??? || style="height: 28px;" | [[Datei:Sugimori Ferkuli.png|20px|link=]] || [[Ferkuli]] || Lechonk || Gourmelet || {{Ruby|グルトン|Gourton}} || {{Ruby|맛보돈|Matbodon}} || {{Ruby|愛吃豚 / 爱吃豚|Àichītún}} || {{#ic:Normal}}
+|-
+| ??? || style="height: 28px;" | [[Datei:Sugimori Olini.png|20px|link=]] || [[Olini]] || Smoliv || Olivini || {{Ruby|ミニーブ|Minību}}{{Anmerkung|Inoffizielle Transkription}} || {{Ruby|미니브|Minibeu}} || {{Ruby|迷你芙 / 迷你芙|Mínǐfú}} || {{#ic:Pflanze}}&nbsp;{{#ic:Normal}}
+|-
+| ??? || style="height: 28px;" | [[Datei:Sugimori Hefel.png|20px|link=]] || [[Hefel]] || Fidough || Pâtachiot || {{Ruby|パピモッチ|Papimocchi}}{{Anmerkung|Inoffizielle Transkription}} || {{Ruby|쫀도기|Jjondogi}}{{Anmerkung|Inoffizielle Transkription}} || {{Ruby|狗仔包 / 狗仔包|Gǒuzǎibāo}}  || {{#ic:Fee}}
+|-
+| ??? || style="height: 28px;" | [[Datei:Sugimori Kolowal.png|20px|link=]] || [[Kolowal]] || Cetitan || Balbalèze || {{Ruby|ハルクジラ|Harukajira}}{{Anmerkung|Inoffizielle Transkription}} || {{Ruby|우락고래|Urakgorae}}{{Anmerkung|Inoffizielle Transkription}} || {{Ruby|浩大鯨 / 浩大鲸|Hàodàjīng}} || {{#ic:Eis}}
+|-
+| ??? || style="height: 28px;" | [[Datei:Sugimori Mopex.png|20px|link=]] || [[Mopex]] || Cyclizar || Motorizard || {{Ruby|モトトカゲ|Mototokage}}{{Anmerkung|Inoffizielle Transkription}} || {{Ruby|모토마|Motoma}}{{Anmerkung|Inoffizielle Transkription}} || {{Ruby|摩托蜥 / 摩托蜥|Mótuōxī}} || {{#ic:Drache}}&nbsp;{{#ic:Normal}}
+|-
+| ??? || style="height: 28px;" | [[Datei:Sugimori Affiti.png|20px|link=]] || [[Affiti]] || Grafaiai || Tag-Tag || {{Ruby|タギングル|Taginguru}}{{Anmerkung|Inoffizielle Transkription}} || {{Ruby|태깅구르|Taegingguleu}}{{Anmerkung|Inoffizielle Transkription}} || {{Ruby|塗標客 / 涂标客|Túbiāokè}} || {{#ic:Gift}}&nbsp;{{#ic:Normal}}
+|-
+| ??? || style="height: 28px;" | [[Datei:Sugimori Klibbe.png|20px|link=]] || [[Klibbe]] || Klawf || Craparoi || {{Ruby|ガケガニ|Gakagani}}{{Anmerkung|Inoffizielle Transkription}} || {{Ruby|절벼게|Jeolbyeoge}}{{Anmerkung|Inoffizielle Transkription}} || {{Ruby|毛崖蟹 / 毛崖蟹|Máoyáxiè}} || {{#ic:Gestein}}
+|-
+| ??? || style="height: 28px;" | [[Datei:Sugimori Crimanzo.png|20px|link=]] || [[Crimanzo]] || Armarouge || Carmadura || {{Ruby|グレンアルマ|Gurenarma}} || {{Ruby|카디나르마|Kadinareuma}}{{Anmerkung|Inoffizielle Transkription}} || {{Ruby|紅蓮鎧騎 / 红莲铠骑|Hóngliánkǎiqí}} || {{#ic:Feuer}}&nbsp;{{#ic:Psycho}}
+|-
+| ??? || style="height: 28px;" | [[Datei:Sugimori Azugladis.png|20px|link=]] || [[Azugladis]] || Ceruledge || Malvalame || {{Ruby|ソウブレイズ|Soublades}} || {{Ruby|파라블레이즈|Palabeulleijeu}}{{Anmerkung|Inoffizielle Transkription}} || {{Ruby|蒼炎刃鬼 / 蒼炎刃鬼|Cāngyánrènguǐ}} || {{#ic:Feuer}}&nbsp;{{#ic:Geist}}
+|-
+| ??? || style="height: 28px;" | [[Datei:Sugimori Schligda.png|20px|link=]] || [[Schligda]] || Wiglett || Taupikeau || {{Ruby|ウミディグダ|Umidigda}}{{Anmerkung|Inoffizielle Transkription}} || {{Ruby|바다그다|Badageuda}}{{Anmerkung|Inoffizielle Transkription}} || {{Ruby|海地鼠 / 海地鼠|Hǎidìshǔ}} || {{#ic:Wasser}}
+|-
+| ??? || style="height: 28px;" | [[Datei:Sugimori Farigiraf.png|20px|link=]] || [[Farigiraf]] || Farigiraf || Farigiraf  || {{Ruby|リキキリン|Rikikirn}}{{Anmerkung|Inoffizielle Transkription}} || {{Ruby|키키링|Kikiling}}{{Anmerkung|Inoffizielle Transkription}} || {{Ruby|奇麒麟 / 奇麒麟|Qíqílín}} || {{#ic:Normal}}&nbsp;{{#ic:Psycho}}
+|-
+| ??? || style="height: 28px;" | [[Datei:Sugimori Wampitz.png|20px|link=]] || [[Wampitz]] || Bellibolt || Ampibidou || {{Ruby|ハラバリー|Harabarī}}{{Anmerkung|Inoffizielle Transkription}} || {{Ruby|찌리배리|?}}{{Anmerkung|Inoffizielle Transkription}} || {{Ruby|電肚蛙 / 电肚蛙|Diàndùwā}} || {{#ic:Elektro}}
+|-
+| ??? || style="height: 28px;" | [[Datei:Sugimori Gruff.png|20px|link=]] || [[Gruff]] || Greavard || Toutombe || {{Ruby|ボチ|Bochi}}{{Anmerkung|Inoffizielle Transkription}} || {{Ruby|망망이|Mangmangi}}{{Anmerkung|Inoffizielle Transkription}} || {{Ruby|墓仔狗 / 墓仔狗|Mùzǎigǒu}} || {{#ic:Geist}}
+|-
+| ??? || style="height: 28px;" | [[Datei:Sugimori Koraidon.png|20px|link=]] || [[Koraidon]] || Koraidon || Koraidon || {{Ruby|コライドン|Koraidon}} || {{Ruby|코라이돈|Koraidon}} || {{Ruby|故勒頓 / 故勒顿|Gùlēidùn}} || ?
+|-
+| ??? || style="height: 28px;" | [[Datei:Sugimori Miraidon.png|20px|link=]] || [[Miraidon]] || Miraidon || Miraidon || {{Ruby|ミライドン|Miraidon}} || {{Ruby|미라이돈|Miraidon}} || {{Ruby|密勒頓 / 密勒顿|Mìlēidùn}} || ?
+|}
+
+== Fußnoten ==
+* Von japanischen Namen, die mit einem {{Anmerkung|Inoffizielle Transkription}} gekennzeichnet sind, ist noch ''keine offizielle Schreibweise'' in lateinischer Schrift bekannt. In diesem Fall kommt eine {{wp||Transkription_(Schreibung)|Transkription|icon}} zum Einsatz.
+
+
+== Nummerierungsmöglichkeiten im Pokédex ==
+Es gibt mehrere Auflistungsmöglichkeiten, die je nach Version des [[Pokédex]] variieren:
+* National-Dex (Standardnummerierung im Pokédex, nicht gebietsbezogen)
+* [[Liste der Pokémon nach Paldea-Pokédex|Paldea-Dex]] (Nummerierung im Pokédex von {{sk|KA|PU}})
+* [[Liste der Pokémon nach Hisui-Pokédex|Hisui-Dex]] (Nummerierung im Pokédex von {{sk|PLA}})
+* [[Liste der Pokémon nach Galar-Pokédex|Galar-Dex]] (Nummerierung im Pokédex von {{sk|SW|SH}})
+** [[Liste der Pokémon nach Rüstungs-Pokédex|Rüstungs-Dex]] (Nummerierung im Pokédex von {{sk|SWEX|SHEX}})
+** [[Liste der Pokémon nach Kronen-Pokédex|Kronen-Dex]] (Nummerierung im Pokédex von {{sk|SWEX|SHEX}})
+* [[Liste der Pokémon nach Alola-Pokédex|Alola-Dex]] (Nummerierung im Pokédex von {{sk|So|Mo|US|UM}})
+* [[Liste der Pokémon nach Kalos-Pokédex|Kalos-Dex]] (Nummerierung im Pokédex von {{sk|X|Y}})
+* [[Liste der Pokémon nach Einall-Pokédex|Einall-Dex]] (Nummerierung im Pokédex von {{sk|Sc|W|S2|W2}})
+* [[Liste der Pokémon nach Sinnoh-Pokédex|Sinnoh-Dex]] (Nummerierung im Pokédex von {{sk|D|P|PT|SD|LP}})
+* [[Liste der Pokémon nach Hoenn-Pokédex|Hoenn-Dex]] (Nummerierung im Pokédex von {{sk|RU|SA|SM|OR|AS}})
+* [[Liste der Pokémon nach Johto-Pokédex|Johto-Dex]] (Nummerierung im Pokédex von {{sk|Go|Si|K|HG|SS}})
+* [[Liste der Pokémon nach Kanto-Pokédex|Kanto-Dex]] (Nummerierung im Pokédex von {{sk|R|B|Ge|FR|BG|LGP|LGE}})
+* Alphabetische Ordnung (in allen Editionen außer Rot, Blau, Gelb und Grün wählbar). Diese Auflistung gibt es in [[:Kategorie:Pokémon|der Pokédex-Kategorie]].
+* Zusätzlich kann man Pokémon noch nach Eigenschaften wie [[Typen|Typ]], [[Farbe]], [[Silhouette]], [[Größe]] oder [[Gewicht]] sortieren.
+
+{{Pokédex-Sortierungen}}
+
+[[Kategorie:Pokémon| ]]
+
+[[en:List of Pokémon by National Pokédex number]]
+[[es:Lista de Pokémon]]
+[[fr:Liste des Pokémon dans l'ordre du Pokédex National]]
+[[it:Elenco Pokémon secondo il Pokédex Nazionale]]
+[[ja:ポケモン一覧]]
+[[zh:宝可梦列表（按全国图鉴编号）]]
