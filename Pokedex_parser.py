@@ -8,5 +8,5 @@ doc = BeautifulSoup(r.text, "html.parser")#
 doc_view = doc.find_all("textarea")
 
 for elements in doc_view:
-    with open('Pokedex.txt', 'w') as f:
+    with open('Pokedex.txt', 'w', encoding="utf-8") as f:
         f.write(elements.text)

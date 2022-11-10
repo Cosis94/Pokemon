@@ -1862,9 +1862,11 @@ Springe zu:
 |-
 | ??? || style="height: 28px;" | [[Datei:Sugimori Farigiraf.png|20px|link=]] || [[Farigiraf]] || Farigiraf || Farigiraf  || {{Ruby|リキキリン|Rikikirn}}{{Anmerkung|Inoffizielle Transkription}} || {{Ruby|키키링|Kikiling}}{{Anmerkung|Inoffizielle Transkription}} || {{Ruby|奇麒麟 / 奇麒麟|Qíqílín}} || {{#ic:Normal}}&nbsp;{{#ic:Psycho}}
 |-
-| ??? || style="height: 28px;" | [[Datei:Sugimori Wampitz.png|20px|link=]] || [[Wampitz]] || Bellibolt || Ampibidou || {{Ruby|ハラバリー|Harabarī}}{{Anmerkung|Inoffizielle Transkription}} || {{Ruby|찌리배리|?}}{{Anmerkung|Inoffizielle Transkription}} || {{Ruby|電肚蛙 / 电肚蛙|Diàndùwā}} || {{#ic:Elektro}}
+| ??? || style="height: 28px;" | [[Datei:Sugimori Wampitz.png|20px|link=]] || [[Wampitz]] || Bellibolt || Ampibidou || {{Ruby|ハラバリー|Harabarī}}{{Anmerkung|Inoffizielle Transkription}} || {{Ruby|찌리배리|Jjilibaeli}}{{Anmerkung|Inoffizielle Transkription}} || {{Ruby|電肚蛙 / 电肚蛙|Diàndùwā}} || {{#ic:Elektro}}
 |-
 | ??? || style="height: 28px;" | [[Datei:Sugimori Gruff.png|20px|link=]] || [[Gruff]] || Greavard || Toutombe || {{Ruby|ボチ|Bochi}}{{Anmerkung|Inoffizielle Transkription}} || {{Ruby|망망이|Mangmangi}}{{Anmerkung|Inoffizielle Transkription}} || {{Ruby|墓仔狗 / 墓仔狗|Mùzǎigǒu}} || {{#ic:Geist}}
+|-
+| ??? || style="height: 28px;" | [[Datei:Sugimori Gierspenst.png|20px|link=]] || [[Gierspenst]] || Gimmighoul || Mordudor || {{Ruby|コレクレー|Korekurē}}{{Anmerkung|Inoffizielle Transkription}} || {{Ruby|모으령|?}}{{Anmerkung|Inoffizielle Transkription}} || {{Ruby|索財靈 / 索财灵|Suǒcáilíng}} || {{#ic:Geist}}
 |-
 | ??? || style="height: 28px;" | [[Datei:Sugimori Koraidon.png|20px|link=]] || [[Koraidon]] || Koraidon || Koraidon || {{Ruby|コライドン|Koraidon}} || {{Ruby|코라이돈|Koraidon}} || {{Ruby|故勒頓 / 故勒顿|Gùlēidùn}} || ?
 |-

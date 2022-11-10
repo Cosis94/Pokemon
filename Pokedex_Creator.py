@@ -1,6 +1,6 @@
 import pandas as pd
 Full_List = []
-with open ("Pokedex.txt", "r") as f:
+with open ("Pokedex.txt", "r", encoding="utf-8") as f:
     lines = f.readlines()[24:]
     for elements in lines:
         Full_List.append(elements.split())
@@ -27,4 +27,9 @@ df = df[[1,8,10,12,14,22]]
 
 for x in selected_List:
     if len(x) != 23:
+        print(x)
         print(len(x))
+
+for x in selected_List:
+    print(x, len(x))
+    print("\n")
