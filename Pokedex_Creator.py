@@ -24,12 +24,22 @@ df = df[[1,8,10,12,14,22]]
 
 #print(df)
 #df.to_excel("Pokedex.xlsx")
-
+count = 0
+new_List = []
 for x in selected_List:
     if len(x) != 23:
-        print(x)
-        print(len(x))
+       # print(x)
+       # print(len(x))
+        count +=1
+       # print(count)
+        new_List.append(x)
 
-for x in selected_List:
-    print(x, len(x))
+count = 0 
+for x in new_List:
+    print(x)
+
+    count +=1
+    print(len(x))
+    print(count)
     print("\n")
+print(len(new_List))
