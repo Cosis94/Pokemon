@@ -24,13 +24,18 @@ for x in Full_List:
             continue
         else:
             selected_List.append(x)
-            
+
+##########################
+#Correct the first entry    
 selected_List[0].pop(1)
 selected_List[0].pop(1)
-#print(selected_List[0])
+##########################
+
+#Ausgangs DataFrame df
 df = pd.DataFrame(data=selected_List)
 df = df[[1,8,10,12,14,22]]
 df = df.reset_index()
+
 #1 Nummer
 
 #df.to_excel("Pokedex.xlsx")
@@ -71,7 +76,7 @@ df_22 = df_22.replace('/',"")
 df_22 = df_22[df_22!=""]
 df_22 = df_22.dropna(axis=1, how='all')
 df_22 = df_22.replace("[NaN]","",regex=True)
-print(df_22) 
+#print(df_22) 
 
 
 #dataframe_24 
@@ -94,7 +99,7 @@ df_24 = df_24.replace('/',"")
 df_24 = df_24[df_24!=""]
 df_24 = df_24.dropna(axis=1, how='all')
 df_24 = df_24.replace("[NaN]","",regex=True)
-print(df_24) 
+#print(df_24) 
 
 #dataframe_25
 df_25 = pd.DataFrame(List_25)
@@ -116,7 +121,7 @@ df_25 = df_25.replace('/',"")
 df_25 = df_25[df_25!=""]
 df_25 = df_25.dropna(axis=1, how='all')
 df_25 = df_25.replace("[NaN]","",regex=True)
-print(df_25) 
+#print(df_25) 
 
 
 #dataframe_26 
@@ -139,70 +144,86 @@ df_26 = df_26.replace('/',"")
 df_26 = df_26[df_26!=""]
 df_26 = df_26.dropna(axis=1, how='all')
 df_26 = df_26.replace("[NaN]","",regex=True)
-print(df_26) 
+#print(df_26) 
 
 
 
 
 #Unterteilung in 3 Fälle
-
 df_22_1 = df_22[df_22[1]=="???"]
 df_22_1 = df_22_1.dropna(axis=1, how='all')
+
 df_22_2 = df_22[df_22[1].isna()]
 df_22_2 = df_22_2.dropna(axis=1, how='all')
+
 df_22_3 = df_22[df_22[1]!="???"]
 df_22_3 = df_22_3[df_22_3[1].notna()]
 df_22_3 = df_22_3.dropna(axis=1, how='all')
-print(df_22_2)
-print(df_22_1)
-print(df_22_3)
+#print(df_22_2)
+#print(df_22_1)
+#print(df_22_3)
 
+#Final für df_22
+df_22_final = df_22_3[df_22_3.columns[[0,1,2,3,4,-1]]]
+
+######################################################################
 
 df_24_1 = df_24[df_24[1]=="???"]
 df_24_1 = df_24_1.dropna(axis=1, how='all')
+df_24_1 = df_24_1[df_24_1.columns[[0,1,2,3,4,-1]]]
+
 df_24_2 = df_24[df_24[1].isna()]
 df_24_2 = df_24_2.dropna(axis=1, how='all')
+
 df_24_3 = df_24[df_24[1]!="???"]
 df_24_3 = df_24_3[df_24_3[1].notna()]
 df_24_3 = df_24_3.dropna(axis=1, how='all')
-print(df_24_2)
-print(df_24_1)
-print(df_24_3)
+df_24_3 = df_24_3[df_24_3.columns[[0,1,3,4,5,-1]]]
 
+#print(df_24_2)
+#print(df_24_1)
+#print(df_24_3)
+
+#Final für df_24
+df_24_3.columns = df_24_1.columns 
+df_24_final = pd.concat([df_24_1,df_24_3],ignore_index=True,axis=0)
+
+######################################################################
 
 df_25_1 = df_25[df_25[1]=="???"]
 df_25_1 = df_25_1.dropna(axis=1, how='all')
+
 df_25_2 = df_25[df_25[1].isna()]
 df_25_2 = df_25_2.dropna(axis=1, how='all')
+
 df_25_3 = df_25[df_25[1]!="???"]
 df_25_3 = df_25_3[df_25_3[1].notna()]
 df_25_3 = df_25_3.dropna(axis=1, how='all')
-print(df_25_2)
-print(df_25_1)
-print(df_25_3)
 
+#print(df_25_2)
+#print(df_25_1)
+#print(df_25_3)
+
+#Final für df_25
+
+######################################################################
 
 df_26_1 = df_26[df_26[1]=="???"]
 df_26_1 = df_26_1.dropna(axis=1, how='all')
+
 df_26_2 = df_26[df_26[1].isna()]
 df_26_2 = df_26_2.dropna(axis=1, how='all')
+
 df_26_3 = df_26[df_26[1]!="???"]
 df_26_3 = df_26_3[df_26_3[1].notna()]
 df_26_3 = df_26_3.dropna(axis=1, how='all')
-print(df_26_2)
-print(df_26_1)
-print(df_26_3)
+#print(df_26_2)
+#print(df_26_1)
+#print(df_26_3)
 
+#Final für df_26
 
-
-
-
-
-
-
-
-
-
+######################################################################
 
 Liste_default = [re.sub(r'[0-9]*','', str(x)) for x in df[1]]
 
